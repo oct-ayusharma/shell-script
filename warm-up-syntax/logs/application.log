@@ -1,0 +1,1000 @@
+2026-10-09 00:00:00 [DEBUG] app=portal-api thread=worker-00 request_id=req-000001 User session initialized
+2026-10-09 00:00:17 [DEBUG] app=portal-api thread=worker-01 request_id=req-000002 Configuration loaded
+2026-10-09 00:00:34 [INFO] app=portal-api thread=worker-02 request_id=req-000003 Request processed successfully
+2026-10-09 00:00:51 [DEBUG] app=portal-api thread=worker-03 request_id=req-000004 Connection pool utilization elevated
+2026-10-09 00:01:08 [INFO] app=portal-api thread=worker-04 request_id=req-000005 Input validation failed
+2026-10-09 00:01:25 [INFO] app=portal-api thread=worker-05 request_id=req-000006 Request processed successfully
+2026-10-09 00:01:42 [INFO] app=portal-api thread=worker-06 request_id=req-000007 Connection pool utilization elevated
+2026-10-09 00:01:59 [DEBUG] app=portal-api thread=worker-07 request_id=req-000008 Connection pool utilization elevated
+2026-10-09 00:02:16 [INFO] app=portal-api thread=worker-08 request_id=req-000009 Connection pool utilization elevated
+2026-10-09 00:02:33 [INFO] app=portal-api thread=worker-09 request_id=req-000010 Dependency response exceeded threshold
+2026-10-09 00:02:50 [DEBUG] app=portal-api thread=worker-10 request_id=req-000011 User session initialized
+2026-10-09 00:03:07 [WARN] app=portal-api thread=worker-11 request_id=req-000012 Cache entry refreshed
+2026-10-09 00:03:24 [DEBUG] app=portal-api thread=worker-12 request_id=req-000013 Retry scheduled for upstream request
+2026-10-09 00:03:41 [INFO] app=portal-api thread=worker-13 request_id=req-000014 Configuration loaded
+2026-10-09 00:03:58 [ERROR] app=portal-api thread=worker-14 request_id=req-000015 Retry scheduled for upstream request
+2026-10-09 00:04:15 [INFO] app=portal-api thread=worker-15 request_id=req-000016 Input validation failed
+2026-10-09 00:04:32 [INFO] app=portal-api thread=worker-00 request_id=req-000017 Retry scheduled for upstream request
+2026-10-09 00:04:49 [DEBUG] app=portal-api thread=worker-01 request_id=req-000018 User session initialized
+2026-10-09 00:05:06 [DEBUG] app=portal-api thread=worker-02 request_id=req-000019 Connection pool utilization elevated
+2026-10-09 00:05:23 [INFO] app=portal-api thread=worker-03 request_id=req-000020 Input validation failed
+2026-10-09 00:05:40 [INFO] app=portal-api thread=worker-04 request_id=req-000021 Background job completed
+2026-10-09 00:05:57 [WARN] app=portal-api thread=worker-05 request_id=req-000022 Unhandled exception caught by request handler
+2026-10-09 00:06:14 [WARN] app=portal-api thread=worker-06 request_id=req-000023 Retry scheduled for upstream request
+2026-10-09 00:06:31 [DEBUG] app=portal-api thread=worker-07 request_id=req-000024 Request processed successfully
+2026-10-09 00:06:48 [INFO] app=portal-api thread=worker-08 request_id=req-000025 Configuration loaded
+2026-10-09 00:07:05 [WARN] app=portal-api thread=worker-09 request_id=req-000026 Request processed successfully
+2026-10-09 00:07:22 [WARN] app=portal-api thread=worker-10 request_id=req-000027 Request processed successfully
+2026-10-09 00:07:39 [INFO] app=portal-api thread=worker-11 request_id=req-000028 Dependency response exceeded threshold
+2026-10-09 00:07:56 [DEBUG] app=portal-api thread=worker-12 request_id=req-000029 Retry scheduled for upstream request
+2026-10-09 00:08:13 [INFO] app=portal-api thread=worker-13 request_id=req-000030 Retry scheduled for upstream request
+2026-10-09 00:08:30 [INFO] app=portal-api thread=worker-14 request_id=req-000031 Background job completed
+2026-10-09 00:08:47 [DEBUG] app=portal-api thread=worker-15 request_id=req-000032 Request processed successfully
+2026-10-09 00:09:04 [DEBUG] app=portal-api thread=worker-00 request_id=req-000033 Cache entry refreshed
+2026-10-09 00:09:21 [INFO] app=portal-api thread=worker-01 request_id=req-000034 Configuration loaded
+2026-10-09 00:09:38 [INFO] app=portal-api thread=worker-02 request_id=req-000035 Input validation failed
+2026-10-09 00:09:55 [INFO] app=portal-api thread=worker-03 request_id=req-000036 Connection pool utilization elevated
+2026-10-09 00:10:12 [INFO] app=portal-api thread=worker-04 request_id=req-000037 Retry scheduled for upstream request
+2026-10-09 00:10:29 [WARN] app=portal-api thread=worker-05 request_id=req-000038 User session initialized
+2026-10-09 00:10:46 [INFO] app=portal-api thread=worker-06 request_id=req-000039 User session initialized
+2026-10-09 00:11:03 [WARN] app=portal-api thread=worker-07 request_id=req-000040 Input validation failed
+2026-10-09 00:11:20 [INFO] app=portal-api thread=worker-08 request_id=req-000041 Configuration loaded
+2026-10-09 00:11:37 [WARN] app=portal-api thread=worker-09 request_id=req-000042 Unhandled exception caught by request handler
+2026-10-09 00:11:54 [WARN] app=portal-api thread=worker-10 request_id=req-000043 Retry scheduled for upstream request
+2026-10-09 00:12:11 [INFO] app=portal-api thread=worker-11 request_id=req-000044 Dependency response exceeded threshold
+2026-10-09 00:12:28 [INFO] app=portal-api thread=worker-12 request_id=req-000045 Dependency response exceeded threshold
+2026-10-09 00:12:45 [INFO] app=portal-api thread=worker-13 request_id=req-000046 Cache entry refreshed
+2026-10-09 00:13:02 [INFO] app=portal-api thread=worker-14 request_id=req-000047 Connection pool utilization elevated
+2026-10-09 00:13:19 [INFO] app=portal-api thread=worker-15 request_id=req-000048 Unhandled exception caught by request handler
+2026-10-09 00:13:36 [INFO] app=portal-api thread=worker-00 request_id=req-000049 Unhandled exception caught by request handler
+2026-10-09 00:13:53 [INFO] app=portal-api thread=worker-01 request_id=req-000050 Configuration loaded
+2026-10-09 00:14:10 [ERROR] app=portal-api thread=worker-02 request_id=req-000051 Cache entry refreshed
+2026-10-09 00:14:27 [INFO] app=portal-api thread=worker-03 request_id=req-000052 Request processed successfully
+2026-10-09 00:14:44 [WARN] app=portal-api thread=worker-04 request_id=req-000053 Request processed successfully
+2026-10-09 00:15:01 [INFO] app=portal-api thread=worker-05 request_id=req-000054 Cache entry refreshed
+2026-10-09 00:15:18 [WARN] app=portal-api thread=worker-06 request_id=req-000055 Input validation failed
+2026-10-09 00:15:35 [DEBUG] app=portal-api thread=worker-07 request_id=req-000056 Input validation failed
+2026-10-09 00:15:52 [INFO] app=portal-api thread=worker-08 request_id=req-000057 Dependency response exceeded threshold
+2026-10-09 00:16:09 [INFO] app=portal-api thread=worker-09 request_id=req-000058 Connection pool utilization elevated
+2026-10-09 00:16:26 [WARN] app=portal-api thread=worker-10 request_id=req-000059 User session initialized
+2026-10-09 00:16:43 [DEBUG] app=portal-api thread=worker-11 request_id=req-000060 Request processed successfully
+2026-10-09 00:17:00 [DEBUG] app=portal-api thread=worker-12 request_id=req-000061 Connection pool utilization elevated
+2026-10-09 00:17:17 [WARN] app=portal-api thread=worker-13 request_id=req-000062 Retry scheduled for upstream request
+2026-10-09 00:17:34 [INFO] app=portal-api thread=worker-14 request_id=req-000063 Input validation failed
+2026-10-09 00:17:51 [INFO] app=portal-api thread=worker-15 request_id=req-000064 User session initialized
+2026-10-09 00:18:08 [ERROR] app=portal-api thread=worker-00 request_id=req-000065 Background job completed
+2026-10-09 00:18:25 [ERROR] app=portal-api thread=worker-01 request_id=req-000066 Cache entry refreshed
+2026-10-09 00:18:42 [INFO] app=portal-api thread=worker-02 request_id=req-000067 Request processed successfully
+2026-10-09 00:18:59 [WARN] app=portal-api thread=worker-03 request_id=req-000068 Background job completed
+2026-10-09 00:19:16 [WARN] app=portal-api thread=worker-04 request_id=req-000069 Connection pool utilization elevated
+2026-10-09 00:19:33 [DEBUG] app=portal-api thread=worker-05 request_id=req-000070 Cache entry refreshed
+2026-10-09 00:19:50 [INFO] app=portal-api thread=worker-06 request_id=req-000071 Cache entry refreshed
+2026-10-09 00:20:07 [INFO] app=portal-api thread=worker-07 request_id=req-000072 Connection pool utilization elevated
+2026-10-09 00:20:24 [WARN] app=portal-api thread=worker-08 request_id=req-000073 Unhandled exception caught by request handler
+2026-10-09 00:20:41 [INFO] app=portal-api thread=worker-09 request_id=req-000074 User session initialized
+2026-10-09 00:20:58 [INFO] app=portal-api thread=worker-10 request_id=req-000075 Retry scheduled for upstream request
+2026-10-09 00:21:15 [WARN] app=portal-api thread=worker-11 request_id=req-000076 Background job completed
+2026-10-09 00:21:32 [INFO] app=portal-api thread=worker-12 request_id=req-000077 Configuration loaded
+2026-10-09 00:21:49 [WARN] app=portal-api thread=worker-13 request_id=req-000078 Request processed successfully
+2026-10-09 00:22:06 [INFO] app=portal-api thread=worker-14 request_id=req-000079 Dependency response exceeded threshold
+2026-10-09 00:22:23 [WARN] app=portal-api thread=worker-15 request_id=req-000080 Connection pool utilization elevated
+2026-10-09 00:22:40 [WARN] app=portal-api thread=worker-00 request_id=req-000081 Cache entry refreshed
+2026-10-09 00:22:57 [DEBUG] app=portal-api thread=worker-01 request_id=req-000082 Connection pool utilization elevated
+2026-10-09 00:23:14 [INFO] app=portal-api thread=worker-02 request_id=req-000083 Connection pool utilization elevated
+2026-10-09 00:23:31 [WARN] app=portal-api thread=worker-03 request_id=req-000084 Input validation failed
+2026-10-09 00:23:48 [ERROR] app=portal-api thread=worker-04 request_id=req-000085 Connection pool utilization elevated
+2026-10-09 00:24:05 [WARN] app=portal-api thread=worker-05 request_id=req-000086 Configuration loaded
+2026-10-09 00:24:22 [DEBUG] app=portal-api thread=worker-06 request_id=req-000087 Input validation failed
+2026-10-09 00:24:39 [ERROR] app=portal-api thread=worker-07 request_id=req-000088 Retry scheduled for upstream request
+2026-10-09 00:24:56 [INFO] app=portal-api thread=worker-08 request_id=req-000089 Connection pool utilization elevated
+2026-10-09 00:25:13 [INFO] app=portal-api thread=worker-09 request_id=req-000090 Configuration loaded
+2026-10-09 00:25:30 [INFO] app=portal-api thread=worker-10 request_id=req-000091 Retry scheduled for upstream request
+2026-10-09 00:25:47 [INFO] app=portal-api thread=worker-11 request_id=req-000092 Connection pool utilization elevated
+2026-10-09 00:26:04 [INFO] app=portal-api thread=worker-12 request_id=req-000093 Configuration loaded
+2026-10-09 00:26:21 [INFO] app=portal-api thread=worker-13 request_id=req-000094 User session initialized
+2026-10-09 00:26:38 [INFO] app=portal-api thread=worker-14 request_id=req-000095 User session initialized
+2026-10-09 00:26:55 [WARN] app=portal-api thread=worker-15 request_id=req-000096 Request processed successfully
+2026-10-09 00:27:12 [INFO] app=portal-api thread=worker-00 request_id=req-000097 Background job completed
+2026-10-09 00:27:29 [DEBUG] app=portal-api thread=worker-01 request_id=req-000098 Configuration loaded
+2026-10-09 00:27:46 [INFO] app=portal-api thread=worker-02 request_id=req-000099 Unhandled exception caught by request handler
+2026-10-09 00:28:03 [DEBUG] app=portal-api thread=worker-03 request_id=req-000100 Configuration loaded
+2026-10-09 00:28:20 [WARN] app=portal-api thread=worker-04 request_id=req-000101 Input validation failed
+2026-10-09 00:28:37 [INFO] app=portal-api thread=worker-05 request_id=req-000102 Request processed successfully
+2026-10-09 00:28:54 [DEBUG] app=portal-api thread=worker-06 request_id=req-000103 Retry scheduled for upstream request
+2026-10-09 00:29:11 [INFO] app=portal-api thread=worker-07 request_id=req-000104 Dependency response exceeded threshold
+2026-10-09 00:29:28 [WARN] app=portal-api thread=worker-08 request_id=req-000105 User session initialized
+2026-10-09 00:29:45 [DEBUG] app=portal-api thread=worker-09 request_id=req-000106 Request processed successfully
+2026-10-09 00:30:02 [INFO] app=portal-api thread=worker-10 request_id=req-000107 Retry scheduled for upstream request
+2026-10-09 00:30:19 [WARN] app=portal-api thread=worker-11 request_id=req-000108 Request processed successfully
+2026-10-09 00:30:36 [INFO] app=portal-api thread=worker-12 request_id=req-000109 Configuration loaded
+2026-10-09 00:30:53 [INFO] app=portal-api thread=worker-13 request_id=req-000110 Cache entry refreshed
+2026-10-09 00:31:10 [INFO] app=portal-api thread=worker-14 request_id=req-000111 Background job completed
+2026-10-09 00:31:27 [INFO] app=portal-api thread=worker-15 request_id=req-000112 Request processed successfully
+2026-10-09 00:31:44 [INFO] app=portal-api thread=worker-00 request_id=req-000113 Connection pool utilization elevated
+2026-10-09 00:32:01 [INFO] app=portal-api thread=worker-01 request_id=req-000114 Connection pool utilization elevated
+2026-10-09 00:32:18 [WARN] app=portal-api thread=worker-02 request_id=req-000115 Request processed successfully
+2026-10-09 00:32:35 [WARN] app=portal-api thread=worker-03 request_id=req-000116 Configuration loaded
+2026-10-09 00:32:52 [INFO] app=portal-api thread=worker-04 request_id=req-000117 Dependency response exceeded threshold
+2026-10-09 00:33:09 [INFO] app=portal-api thread=worker-05 request_id=req-000118 Input validation failed
+2026-10-09 00:33:26 [WARN] app=portal-api thread=worker-06 request_id=req-000119 Cache entry refreshed
+2026-10-09 00:33:43 [INFO] app=portal-api thread=worker-07 request_id=req-000120 Input validation failed
+2026-10-09 00:34:00 [INFO] app=portal-api thread=worker-08 request_id=req-000121 Dependency response exceeded threshold
+2026-10-09 00:34:17 [INFO] app=portal-api thread=worker-09 request_id=req-000122 Connection pool utilization elevated
+2026-10-09 00:34:34 [DEBUG] app=portal-api thread=worker-10 request_id=req-000123 Dependency response exceeded threshold
+2026-10-09 00:34:51 [INFO] app=portal-api thread=worker-11 request_id=req-000124 Background job completed
+2026-10-09 00:35:08 [INFO] app=portal-api thread=worker-12 request_id=req-000125 User session initialized
+2026-10-09 00:35:25 [DEBUG] app=portal-api thread=worker-13 request_id=req-000126 Connection pool utilization elevated
+2026-10-09 00:35:42 [INFO] app=portal-api thread=worker-14 request_id=req-000127 Retry scheduled for upstream request
+2026-10-09 00:35:59 [INFO] app=portal-api thread=worker-15 request_id=req-000128 Unhandled exception caught by request handler
+2026-10-09 00:36:16 [INFO] app=portal-api thread=worker-00 request_id=req-000129 Connection pool utilization elevated
+2026-10-09 00:36:33 [INFO] app=portal-api thread=worker-01 request_id=req-000130 Connection pool utilization elevated
+2026-10-09 00:36:50 [INFO] app=portal-api thread=worker-02 request_id=req-000131 Cache entry refreshed
+2026-10-09 00:37:07 [INFO] app=portal-api thread=worker-03 request_id=req-000132 Request processed successfully
+2026-10-09 00:37:24 [DEBUG] app=portal-api thread=worker-04 request_id=req-000133 Configuration loaded
+2026-10-09 00:37:41 [INFO] app=portal-api thread=worker-05 request_id=req-000134 Unhandled exception caught by request handler
+2026-10-09 00:37:58 [INFO] app=portal-api thread=worker-06 request_id=req-000135 Unhandled exception caught by request handler
+2026-10-09 00:38:15 [INFO] app=portal-api thread=worker-07 request_id=req-000136 Request processed successfully
+2026-10-09 00:38:32 [INFO] app=portal-api thread=worker-08 request_id=req-000137 Unhandled exception caught by request handler
+2026-10-09 00:38:49 [DEBUG] app=portal-api thread=worker-09 request_id=req-000138 Retry scheduled for upstream request
+2026-10-09 00:39:06 [ERROR] app=portal-api thread=worker-10 request_id=req-000139 Configuration loaded
+2026-10-09 00:39:23 [DEBUG] app=portal-api thread=worker-11 request_id=req-000140 Retry scheduled for upstream request
+2026-10-09 00:39:40 [INFO] app=portal-api thread=worker-12 request_id=req-000141 Input validation failed
+2026-10-09 00:39:57 [INFO] app=portal-api thread=worker-13 request_id=req-000142 Background job completed
+2026-10-09 00:40:14 [INFO] app=portal-api thread=worker-14 request_id=req-000143 Request processed successfully
+2026-10-09 00:40:31 [INFO] app=portal-api thread=worker-15 request_id=req-000144 Unhandled exception caught by request handler
+2026-10-09 00:40:48 [ERROR] app=portal-api thread=worker-00 request_id=req-000145 Request processed successfully
+2026-10-09 00:41:05 [INFO] app=portal-api thread=worker-01 request_id=req-000146 Configuration loaded
+2026-10-09 00:41:22 [INFO] app=portal-api thread=worker-02 request_id=req-000147 Cache entry refreshed
+2026-10-09 00:41:39 [ERROR] app=portal-api thread=worker-03 request_id=req-000148 Request processed successfully
+2026-10-09 00:41:56 [WARN] app=portal-api thread=worker-04 request_id=req-000149 Retry scheduled for upstream request
+2026-10-09 00:42:13 [INFO] app=portal-api thread=worker-05 request_id=req-000150 Dependency response exceeded threshold
+2026-10-09 00:42:30 [WARN] app=portal-api thread=worker-06 request_id=req-000151 Background job completed
+2026-10-09 00:42:47 [DEBUG] app=portal-api thread=worker-07 request_id=req-000152 Connection pool utilization elevated
+2026-10-09 00:43:04 [INFO] app=portal-api thread=worker-08 request_id=req-000153 Connection pool utilization elevated
+2026-10-09 00:43:21 [INFO] app=portal-api thread=worker-09 request_id=req-000154 Request processed successfully
+2026-10-09 00:43:38 [ERROR] app=portal-api thread=worker-10 request_id=req-000155 Cache entry refreshed
+2026-10-09 00:43:55 [INFO] app=portal-api thread=worker-11 request_id=req-000156 Request processed successfully
+2026-10-09 00:44:12 [DEBUG] app=portal-api thread=worker-12 request_id=req-000157 Cache entry refreshed
+2026-10-09 00:44:29 [INFO] app=portal-api thread=worker-13 request_id=req-000158 Unhandled exception caught by request handler
+2026-10-09 00:44:46 [INFO] app=portal-api thread=worker-14 request_id=req-000159 Retry scheduled for upstream request
+2026-10-09 00:45:03 [INFO] app=portal-api thread=worker-15 request_id=req-000160 Background job completed
+2026-10-09 00:45:20 [INFO] app=portal-api thread=worker-00 request_id=req-000161 Background job completed
+2026-10-09 00:45:37 [WARN] app=portal-api thread=worker-01 request_id=req-000162 User session initialized
+2026-10-09 00:45:54 [INFO] app=portal-api thread=worker-02 request_id=req-000163 Input validation failed
+2026-10-09 00:46:11 [WARN] app=portal-api thread=worker-03 request_id=req-000164 User session initialized
+2026-10-09 00:46:28 [INFO] app=portal-api thread=worker-04 request_id=req-000165 Cache entry refreshed
+2026-10-09 00:46:45 [DEBUG] app=portal-api thread=worker-05 request_id=req-000166 Background job completed
+2026-10-09 00:47:02 [INFO] app=portal-api thread=worker-06 request_id=req-000167 Dependency response exceeded threshold
+2026-10-09 00:47:19 [DEBUG] app=portal-api thread=worker-07 request_id=req-000168 Input validation failed
+2026-10-09 00:47:36 [DEBUG] app=portal-api thread=worker-08 request_id=req-000169 Request processed successfully
+2026-10-09 00:47:53 [INFO] app=portal-api thread=worker-09 request_id=req-000170 Cache entry refreshed
+2026-10-09 00:48:10 [INFO] app=portal-api thread=worker-10 request_id=req-000171 Retry scheduled for upstream request
+2026-10-09 00:48:27 [DEBUG] app=portal-api thread=worker-11 request_id=req-000172 Cache entry refreshed
+2026-10-09 00:48:44 [INFO] app=portal-api thread=worker-12 request_id=req-000173 User session initialized
+2026-10-09 00:49:01 [INFO] app=portal-api thread=worker-13 request_id=req-000174 User session initialized
+2026-10-09 00:49:18 [WARN] app=portal-api thread=worker-14 request_id=req-000175 Configuration loaded
+2026-10-09 00:49:35 [DEBUG] app=portal-api thread=worker-15 request_id=req-000176 Request processed successfully
+2026-10-09 00:49:52 [INFO] app=portal-api thread=worker-00 request_id=req-000177 Connection pool utilization elevated
+2026-10-09 00:50:09 [WARN] app=portal-api thread=worker-01 request_id=req-000178 Input validation failed
+2026-10-09 00:50:26 [ERROR] app=portal-api thread=worker-02 request_id=req-000179 Cache entry refreshed
+2026-10-09 00:50:43 [WARN] app=portal-api thread=worker-03 request_id=req-000180 Configuration loaded
+2026-10-09 00:51:00 [WARN] app=portal-api thread=worker-04 request_id=req-000181 Cache entry refreshed
+2026-10-09 00:51:17 [WARN] app=portal-api thread=worker-05 request_id=req-000182 User session initialized
+2026-10-09 00:51:34 [INFO] app=portal-api thread=worker-06 request_id=req-000183 Retry scheduled for upstream request
+2026-10-09 00:51:51 [WARN] app=portal-api thread=worker-07 request_id=req-000184 Input validation failed
+2026-10-09 00:52:08 [WARN] app=portal-api thread=worker-08 request_id=req-000185 Configuration loaded
+2026-10-09 00:52:25 [INFO] app=portal-api thread=worker-09 request_id=req-000186 Request processed successfully
+2026-10-09 00:52:42 [INFO] app=portal-api thread=worker-10 request_id=req-000187 User session initialized
+2026-10-09 00:52:59 [WARN] app=portal-api thread=worker-11 request_id=req-000188 Configuration loaded
+2026-10-09 00:53:16 [INFO] app=portal-api thread=worker-12 request_id=req-000189 Dependency response exceeded threshold
+2026-10-09 00:53:33 [INFO] app=portal-api thread=worker-13 request_id=req-000190 Configuration loaded
+2026-10-09 00:53:50 [INFO] app=portal-api thread=worker-14 request_id=req-000191 Configuration loaded
+2026-10-09 00:54:07 [INFO] app=portal-api thread=worker-15 request_id=req-000192 Background job completed
+2026-10-09 00:54:24 [WARN] app=portal-api thread=worker-00 request_id=req-000193 Background job completed
+2026-10-09 00:54:41 [INFO] app=portal-api thread=worker-01 request_id=req-000194 Connection pool utilization elevated
+2026-10-09 00:54:58 [INFO] app=portal-api thread=worker-02 request_id=req-000195 Connection pool utilization elevated
+2026-10-09 00:55:15 [INFO] app=portal-api thread=worker-03 request_id=req-000196 User session initialized
+2026-10-09 00:55:32 [INFO] app=portal-api thread=worker-04 request_id=req-000197 Background job completed
+2026-10-09 00:55:49 [INFO] app=portal-api thread=worker-05 request_id=req-000198 Background job completed
+2026-10-09 00:56:06 [INFO] app=portal-api thread=worker-06 request_id=req-000199 Unhandled exception caught by request handler
+2026-10-09 00:56:23 [INFO] app=portal-api thread=worker-07 request_id=req-000200 Retry scheduled for upstream request
+2026-10-09 00:56:40 [INFO] app=portal-api thread=worker-08 request_id=req-000201 Connection pool utilization elevated
+2026-10-09 00:56:57 [INFO] app=portal-api thread=worker-09 request_id=req-000202 Unhandled exception caught by request handler
+2026-10-09 00:57:14 [INFO] app=portal-api thread=worker-10 request_id=req-000203 User session initialized
+2026-10-09 00:57:31 [DEBUG] app=portal-api thread=worker-11 request_id=req-000204 User session initialized
+2026-10-09 00:57:48 [INFO] app=portal-api thread=worker-12 request_id=req-000205 Connection pool utilization elevated
+2026-10-09 00:58:05 [DEBUG] app=portal-api thread=worker-13 request_id=req-000206 Configuration loaded
+2026-10-09 00:58:22 [INFO] app=portal-api thread=worker-14 request_id=req-000207 Request processed successfully
+2026-10-09 00:58:39 [ERROR] app=portal-api thread=worker-15 request_id=req-000208 Retry scheduled for upstream request
+2026-10-09 00:58:56 [DEBUG] app=portal-api thread=worker-00 request_id=req-000209 Request processed successfully
+2026-10-09 00:59:13 [DEBUG] app=portal-api thread=worker-01 request_id=req-000210 Background job completed
+2026-10-09 00:59:30 [INFO] app=portal-api thread=worker-02 request_id=req-000211 Input validation failed
+2026-10-09 00:59:47 [INFO] app=portal-api thread=worker-03 request_id=req-000212 Background job completed
+2026-10-09 01:00:04 [DEBUG] app=portal-api thread=worker-04 request_id=req-000213 Configuration loaded
+2026-10-09 01:00:21 [INFO] app=portal-api thread=worker-05 request_id=req-000214 Input validation failed
+2026-10-09 01:00:38 [DEBUG] app=portal-api thread=worker-06 request_id=req-000215 Cache entry refreshed
+2026-10-09 01:00:55 [DEBUG] app=portal-api thread=worker-07 request_id=req-000216 Background job completed
+2026-10-09 01:01:12 [INFO] app=portal-api thread=worker-08 request_id=req-000217 User session initialized
+2026-10-09 01:01:29 [INFO] app=portal-api thread=worker-09 request_id=req-000218 Configuration loaded
+2026-10-09 01:01:46 [INFO] app=portal-api thread=worker-10 request_id=req-000219 Unhandled exception caught by request handler
+2026-10-09 01:02:03 [DEBUG] app=portal-api thread=worker-11 request_id=req-000220 Retry scheduled for upstream request
+2026-10-09 01:02:20 [INFO] app=portal-api thread=worker-12 request_id=req-000221 Dependency response exceeded threshold
+2026-10-09 01:02:37 [DEBUG] app=portal-api thread=worker-13 request_id=req-000222 Connection pool utilization elevated
+2026-10-09 01:02:54 [INFO] app=portal-api thread=worker-14 request_id=req-000223 Cache entry refreshed
+2026-10-09 01:03:11 [DEBUG] app=portal-api thread=worker-15 request_id=req-000224 Background job completed
+2026-10-09 01:03:28 [INFO] app=portal-api thread=worker-00 request_id=req-000225 Unhandled exception caught by request handler
+2026-10-09 01:03:45 [INFO] app=portal-api thread=worker-01 request_id=req-000226 Configuration loaded
+2026-10-09 01:04:02 [DEBUG] app=portal-api thread=worker-02 request_id=req-000227 Configuration loaded
+2026-10-09 01:04:19 [WARN] app=portal-api thread=worker-03 request_id=req-000228 Cache entry refreshed
+2026-10-09 01:04:36 [INFO] app=portal-api thread=worker-04 request_id=req-000229 Configuration loaded
+2026-10-09 01:04:53 [ERROR] app=portal-api thread=worker-05 request_id=req-000230 Unhandled exception caught by request handler
+2026-10-09 01:05:10 [WARN] app=portal-api thread=worker-06 request_id=req-000231 Request processed successfully
+2026-10-09 01:05:27 [INFO] app=portal-api thread=worker-07 request_id=req-000232 Unhandled exception caught by request handler
+2026-10-09 01:05:44 [INFO] app=portal-api thread=worker-08 request_id=req-000233 Input validation failed
+2026-10-09 01:06:01 [INFO] app=portal-api thread=worker-09 request_id=req-000234 Configuration loaded
+2026-10-09 01:06:18 [INFO] app=portal-api thread=worker-10 request_id=req-000235 User session initialized
+2026-10-09 01:06:35 [WARN] app=portal-api thread=worker-11 request_id=req-000236 Request processed successfully
+2026-10-09 01:06:52 [WARN] app=portal-api thread=worker-12 request_id=req-000237 Configuration loaded
+2026-10-09 01:07:09 [INFO] app=portal-api thread=worker-13 request_id=req-000238 Connection pool utilization elevated
+2026-10-09 01:07:26 [INFO] app=portal-api thread=worker-14 request_id=req-000239 Connection pool utilization elevated
+2026-10-09 01:07:43 [INFO] app=portal-api thread=worker-15 request_id=req-000240 Request processed successfully
+2026-10-09 01:08:00 [INFO] app=portal-api thread=worker-00 request_id=req-000241 Dependency response exceeded threshold
+2026-10-09 01:08:17 [DEBUG] app=portal-api thread=worker-01 request_id=req-000242 Connection pool utilization elevated
+2026-10-09 01:08:34 [DEBUG] app=portal-api thread=worker-02 request_id=req-000243 Dependency response exceeded threshold
+2026-10-09 01:08:51 [DEBUG] app=portal-api thread=worker-03 request_id=req-000244 Connection pool utilization elevated
+2026-10-09 01:09:08 [INFO] app=portal-api thread=worker-04 request_id=req-000245 Connection pool utilization elevated
+2026-10-09 01:09:25 [INFO] app=portal-api thread=worker-05 request_id=req-000246 Cache entry refreshed
+2026-10-09 01:09:42 [DEBUG] app=portal-api thread=worker-06 request_id=req-000247 Dependency response exceeded threshold
+2026-10-09 01:09:59 [INFO] app=portal-api thread=worker-07 request_id=req-000248 Configuration loaded
+2026-10-09 01:10:16 [WARN] app=portal-api thread=worker-08 request_id=req-000249 Background job completed
+2026-10-09 01:10:33 [WARN] app=portal-api thread=worker-09 request_id=req-000250 Connection pool utilization elevated
+2026-10-09 01:10:50 [INFO] app=portal-api thread=worker-10 request_id=req-000251 Configuration loaded
+2026-10-09 01:11:07 [INFO] app=portal-api thread=worker-11 request_id=req-000252 Request processed successfully
+2026-10-09 01:11:24 [DEBUG] app=portal-api thread=worker-12 request_id=req-000253 Configuration loaded
+2026-10-09 01:11:41 [INFO] app=portal-api thread=worker-13 request_id=req-000254 Retry scheduled for upstream request
+2026-10-09 01:11:58 [WARN] app=portal-api thread=worker-14 request_id=req-000255 Request processed successfully
+2026-10-09 01:12:15 [INFO] app=portal-api thread=worker-15 request_id=req-000256 Configuration loaded
+2026-10-09 01:12:32 [INFO] app=portal-api thread=worker-00 request_id=req-000257 Cache entry refreshed
+2026-10-09 01:12:49 [DEBUG] app=portal-api thread=worker-01 request_id=req-000258 Request processed successfully
+2026-10-09 01:13:06 [INFO] app=portal-api thread=worker-02 request_id=req-000259 Retry scheduled for upstream request
+2026-10-09 01:13:23 [INFO] app=portal-api thread=worker-03 request_id=req-000260 Input validation failed
+2026-10-09 01:13:40 [INFO] app=portal-api thread=worker-04 request_id=req-000261 Input validation failed
+2026-10-09 01:13:57 [INFO] app=portal-api thread=worker-05 request_id=req-000262 Unhandled exception caught by request handler
+2026-10-09 01:14:14 [ERROR] app=portal-api thread=worker-06 request_id=req-000263 User session initialized
+2026-10-09 01:14:31 [WARN] app=portal-api thread=worker-07 request_id=req-000264 Unhandled exception caught by request handler
+2026-10-09 01:14:48 [INFO] app=portal-api thread=worker-08 request_id=req-000265 User session initialized
+2026-10-09 01:15:05 [ERROR] app=portal-api thread=worker-09 request_id=req-000266 Background job completed
+2026-10-09 01:15:22 [WARN] app=portal-api thread=worker-10 request_id=req-000267 Input validation failed
+2026-10-09 01:15:39 [INFO] app=portal-api thread=worker-11 request_id=req-000268 Connection pool utilization elevated
+2026-10-09 01:15:56 [WARN] app=portal-api thread=worker-12 request_id=req-000269 Configuration loaded
+2026-10-09 01:16:13 [INFO] app=portal-api thread=worker-13 request_id=req-000270 Background job completed
+2026-10-09 01:16:30 [INFO] app=portal-api thread=worker-14 request_id=req-000271 User session initialized
+2026-10-09 01:16:47 [INFO] app=portal-api thread=worker-15 request_id=req-000272 Input validation failed
+2026-10-09 01:17:04 [DEBUG] app=portal-api thread=worker-00 request_id=req-000273 Dependency response exceeded threshold
+2026-10-09 01:17:21 [WARN] app=portal-api thread=worker-01 request_id=req-000274 Unhandled exception caught by request handler
+2026-10-09 01:17:38 [INFO] app=portal-api thread=worker-02 request_id=req-000275 Input validation failed
+2026-10-09 01:17:55 [DEBUG] app=portal-api thread=worker-03 request_id=req-000276 User session initialized
+2026-10-09 01:18:12 [INFO] app=portal-api thread=worker-04 request_id=req-000277 Input validation failed
+2026-10-09 01:18:29 [INFO] app=portal-api thread=worker-05 request_id=req-000278 Dependency response exceeded threshold
+2026-10-09 01:18:46 [INFO] app=portal-api thread=worker-06 request_id=req-000279 Background job completed
+2026-10-09 01:19:03 [INFO] app=portal-api thread=worker-07 request_id=req-000280 Configuration loaded
+2026-10-09 01:19:20 [INFO] app=portal-api thread=worker-08 request_id=req-000281 Retry scheduled for upstream request
+2026-10-09 01:19:37 [WARN] app=portal-api thread=worker-09 request_id=req-000282 Input validation failed
+2026-10-09 01:19:54 [INFO] app=portal-api thread=worker-10 request_id=req-000283 Input validation failed
+2026-10-09 01:20:11 [INFO] app=portal-api thread=worker-11 request_id=req-000284 Request processed successfully
+2026-10-09 01:20:28 [INFO] app=portal-api thread=worker-12 request_id=req-000285 Connection pool utilization elevated
+2026-10-09 01:20:45 [INFO] app=portal-api thread=worker-13 request_id=req-000286 Retry scheduled for upstream request
+2026-10-09 01:21:02 [INFO] app=portal-api thread=worker-14 request_id=req-000287 Request processed successfully
+2026-10-09 01:21:19 [WARN] app=portal-api thread=worker-15 request_id=req-000288 User session initialized
+2026-10-09 01:21:36 [WARN] app=portal-api thread=worker-00 request_id=req-000289 Configuration loaded
+2026-10-09 01:21:53 [INFO] app=portal-api thread=worker-01 request_id=req-000290 User session initialized
+2026-10-09 01:22:10 [DEBUG] app=portal-api thread=worker-02 request_id=req-000291 Configuration loaded
+2026-10-09 01:22:27 [INFO] app=portal-api thread=worker-03 request_id=req-000292 Request processed successfully
+2026-10-09 01:22:44 [DEBUG] app=portal-api thread=worker-04 request_id=req-000293 Configuration loaded
+2026-10-09 01:23:01 [INFO] app=portal-api thread=worker-05 request_id=req-000294 Background job completed
+2026-10-09 01:23:18 [WARN] app=portal-api thread=worker-06 request_id=req-000295 Cache entry refreshed
+2026-10-09 01:23:35 [DEBUG] app=portal-api thread=worker-07 request_id=req-000296 Request processed successfully
+2026-10-09 01:23:52 [WARN] app=portal-api thread=worker-08 request_id=req-000297 Cache entry refreshed
+2026-10-09 01:24:09 [ERROR] app=portal-api thread=worker-09 request_id=req-000298 Request processed successfully
+2026-10-09 01:24:26 [DEBUG] app=portal-api thread=worker-10 request_id=req-000299 Background job completed
+2026-10-09 01:24:43 [DEBUG] app=portal-api thread=worker-11 request_id=req-000300 Input validation failed
+2026-10-09 01:25:00 [INFO] app=portal-api thread=worker-12 request_id=req-000301 Configuration loaded
+2026-10-09 01:25:17 [INFO] app=portal-api thread=worker-13 request_id=req-000302 Configuration loaded
+2026-10-09 01:25:34 [INFO] app=portal-api thread=worker-14 request_id=req-000303 Background job completed
+2026-10-09 01:25:51 [WARN] app=portal-api thread=worker-15 request_id=req-000304 Unhandled exception caught by request handler
+2026-10-09 01:26:08 [WARN] app=portal-api thread=worker-00 request_id=req-000305 Unhandled exception caught by request handler
+2026-10-09 01:26:25 [WARN] app=portal-api thread=worker-01 request_id=req-000306 Retry scheduled for upstream request
+2026-10-09 01:26:42 [INFO] app=portal-api thread=worker-02 request_id=req-000307 Retry scheduled for upstream request
+2026-10-09 01:26:59 [INFO] app=portal-api thread=worker-03 request_id=req-000308 Retry scheduled for upstream request
+2026-10-09 01:27:16 [INFO] app=portal-api thread=worker-04 request_id=req-000309 Input validation failed
+2026-10-09 01:27:33 [WARN] app=portal-api thread=worker-05 request_id=req-000310 Request processed successfully
+2026-10-09 01:27:50 [INFO] app=portal-api thread=worker-06 request_id=req-000311 Retry scheduled for upstream request
+2026-10-09 01:28:07 [DEBUG] app=portal-api thread=worker-07 request_id=req-000312 Dependency response exceeded threshold
+2026-10-09 01:28:24 [DEBUG] app=portal-api thread=worker-08 request_id=req-000313 Input validation failed
+2026-10-09 01:28:41 [INFO] app=portal-api thread=worker-09 request_id=req-000314 Connection pool utilization elevated
+2026-10-09 01:28:58 [ERROR] app=portal-api thread=worker-10 request_id=req-000315 Background job completed
+2026-10-09 01:29:15 [DEBUG] app=portal-api thread=worker-11 request_id=req-000316 Connection pool utilization elevated
+2026-10-09 01:29:32 [WARN] app=portal-api thread=worker-12 request_id=req-000317 Dependency response exceeded threshold
+2026-10-09 01:29:49 [INFO] app=portal-api thread=worker-13 request_id=req-000318 Unhandled exception caught by request handler
+2026-10-09 01:30:06 [INFO] app=portal-api thread=worker-14 request_id=req-000319 Configuration loaded
+2026-10-09 01:30:23 [WARN] app=portal-api thread=worker-15 request_id=req-000320 Request processed successfully
+2026-10-09 01:30:40 [INFO] app=portal-api thread=worker-00 request_id=req-000321 Dependency response exceeded threshold
+2026-10-09 01:30:57 [INFO] app=portal-api thread=worker-01 request_id=req-000322 Dependency response exceeded threshold
+2026-10-09 01:31:14 [DEBUG] app=portal-api thread=worker-02 request_id=req-000323 Input validation failed
+2026-10-09 01:31:31 [INFO] app=portal-api thread=worker-03 request_id=req-000324 Dependency response exceeded threshold
+2026-10-09 01:31:48 [WARN] app=portal-api thread=worker-04 request_id=req-000325 Cache entry refreshed
+2026-10-09 01:32:05 [INFO] app=portal-api thread=worker-05 request_id=req-000326 Retry scheduled for upstream request
+2026-10-09 01:32:22 [WARN] app=portal-api thread=worker-06 request_id=req-000327 Retry scheduled for upstream request
+2026-10-09 01:32:39 [INFO] app=portal-api thread=worker-07 request_id=req-000328 Unhandled exception caught by request handler
+2026-10-09 01:32:56 [DEBUG] app=portal-api thread=worker-08 request_id=req-000329 Background job completed
+2026-10-09 01:33:13 [DEBUG] app=portal-api thread=worker-09 request_id=req-000330 Connection pool utilization elevated
+2026-10-09 01:33:30 [ERROR] app=portal-api thread=worker-10 request_id=req-000331 Request processed successfully
+2026-10-09 01:33:47 [INFO] app=portal-api thread=worker-11 request_id=req-000332 Input validation failed
+2026-10-09 01:34:04 [INFO] app=portal-api thread=worker-12 request_id=req-000333 Configuration loaded
+2026-10-09 01:34:21 [DEBUG] app=portal-api thread=worker-13 request_id=req-000334 Dependency response exceeded threshold
+2026-10-09 01:34:38 [INFO] app=portal-api thread=worker-14 request_id=req-000335 User session initialized
+2026-10-09 01:34:55 [INFO] app=portal-api thread=worker-15 request_id=req-000336 Configuration loaded
+2026-10-09 01:35:12 [INFO] app=portal-api thread=worker-00 request_id=req-000337 Configuration loaded
+2026-10-09 01:35:29 [INFO] app=portal-api thread=worker-01 request_id=req-000338 Unhandled exception caught by request handler
+2026-10-09 01:35:46 [INFO] app=portal-api thread=worker-02 request_id=req-000339 Connection pool utilization elevated
+2026-10-09 01:36:03 [INFO] app=portal-api thread=worker-03 request_id=req-000340 Input validation failed
+2026-10-09 01:36:20 [ERROR] app=portal-api thread=worker-04 request_id=req-000341 Connection pool utilization elevated
+2026-10-09 01:36:37 [INFO] app=portal-api thread=worker-05 request_id=req-000342 Dependency response exceeded threshold
+2026-10-09 01:36:54 [INFO] app=portal-api thread=worker-06 request_id=req-000343 Background job completed
+2026-10-09 01:37:11 [INFO] app=portal-api thread=worker-07 request_id=req-000344 Configuration loaded
+2026-10-09 01:37:28 [INFO] app=portal-api thread=worker-08 request_id=req-000345 Connection pool utilization elevated
+2026-10-09 01:37:45 [ERROR] app=portal-api thread=worker-09 request_id=req-000346 Cache entry refreshed
+2026-10-09 01:38:02 [INFO] app=portal-api thread=worker-10 request_id=req-000347 Dependency response exceeded threshold
+2026-10-09 01:38:19 [INFO] app=portal-api thread=worker-11 request_id=req-000348 Unhandled exception caught by request handler
+2026-10-09 01:38:36 [ERROR] app=portal-api thread=worker-12 request_id=req-000349 Connection pool utilization elevated
+2026-10-09 01:38:53 [DEBUG] app=portal-api thread=worker-13 request_id=req-000350 Request processed successfully
+2026-10-09 01:39:10 [WARN] app=portal-api thread=worker-14 request_id=req-000351 Background job completed
+2026-10-09 01:39:27 [INFO] app=portal-api thread=worker-15 request_id=req-000352 Cache entry refreshed
+2026-10-09 01:39:44 [INFO] app=portal-api thread=worker-00 request_id=req-000353 Connection pool utilization elevated
+2026-10-09 01:40:01 [INFO] app=portal-api thread=worker-01 request_id=req-000354 User session initialized
+2026-10-09 01:40:18 [ERROR] app=portal-api thread=worker-02 request_id=req-000355 Connection pool utilization elevated
+2026-10-09 01:40:35 [INFO] app=portal-api thread=worker-03 request_id=req-000356 Cache entry refreshed
+2026-10-09 01:40:52 [DEBUG] app=portal-api thread=worker-04 request_id=req-000357 Dependency response exceeded threshold
+2026-10-09 01:41:09 [INFO] app=portal-api thread=worker-05 request_id=req-000358 User session initialized
+2026-10-09 01:41:26 [DEBUG] app=portal-api thread=worker-06 request_id=req-000359 Dependency response exceeded threshold
+2026-10-09 01:41:43 [INFO] app=portal-api thread=worker-07 request_id=req-000360 Retry scheduled for upstream request
+2026-10-09 01:42:00 [INFO] app=portal-api thread=worker-08 request_id=req-000361 User session initialized
+2026-10-09 01:42:17 [INFO] app=portal-api thread=worker-09 request_id=req-000362 Dependency response exceeded threshold
+2026-10-09 01:42:34 [INFO] app=portal-api thread=worker-10 request_id=req-000363 Request processed successfully
+2026-10-09 01:42:51 [INFO] app=portal-api thread=worker-11 request_id=req-000364 Request processed successfully
+2026-10-09 01:43:08 [DEBUG] app=portal-api thread=worker-12 request_id=req-000365 User session initialized
+2026-10-09 01:43:25 [INFO] app=portal-api thread=worker-13 request_id=req-000366 Unhandled exception caught by request handler
+2026-10-09 01:43:42 [ERROR] app=portal-api thread=worker-14 request_id=req-000367 Request processed successfully
+2026-10-09 01:43:59 [ERROR] app=portal-api thread=worker-15 request_id=req-000368 Request processed successfully
+2026-10-09 01:44:16 [DEBUG] app=portal-api thread=worker-00 request_id=req-000369 Input validation failed
+2026-10-09 01:44:33 [DEBUG] app=portal-api thread=worker-01 request_id=req-000370 Unhandled exception caught by request handler
+2026-10-09 01:44:50 [INFO] app=portal-api thread=worker-02 request_id=req-000371 Connection pool utilization elevated
+2026-10-09 01:45:07 [INFO] app=portal-api thread=worker-03 request_id=req-000372 Dependency response exceeded threshold
+2026-10-09 01:45:24 [INFO] app=portal-api thread=worker-04 request_id=req-000373 Unhandled exception caught by request handler
+2026-10-09 01:45:41 [ERROR] app=portal-api thread=worker-05 request_id=req-000374 Background job completed
+2026-10-09 01:45:58 [DEBUG] app=portal-api thread=worker-06 request_id=req-000375 User session initialized
+2026-10-09 01:46:15 [DEBUG] app=portal-api thread=worker-07 request_id=req-000376 Request processed successfully
+2026-10-09 01:46:32 [ERROR] app=portal-api thread=worker-08 request_id=req-000377 Configuration loaded
+2026-10-09 01:46:49 [DEBUG] app=portal-api thread=worker-09 request_id=req-000378 Background job completed
+2026-10-09 01:47:06 [DEBUG] app=portal-api thread=worker-10 request_id=req-000379 Cache entry refreshed
+2026-10-09 01:47:23 [INFO] app=portal-api thread=worker-11 request_id=req-000380 Connection pool utilization elevated
+2026-10-09 01:47:40 [INFO] app=portal-api thread=worker-12 request_id=req-000381 User session initialized
+2026-10-09 01:47:57 [INFO] app=portal-api thread=worker-13 request_id=req-000382 Unhandled exception caught by request handler
+2026-10-09 01:48:14 [INFO] app=portal-api thread=worker-14 request_id=req-000383 User session initialized
+2026-10-09 01:48:31 [INFO] app=portal-api thread=worker-15 request_id=req-000384 Background job completed
+2026-10-09 01:48:48 [DEBUG] app=portal-api thread=worker-00 request_id=req-000385 Dependency response exceeded threshold
+2026-10-09 01:49:05 [INFO] app=portal-api thread=worker-01 request_id=req-000386 Configuration loaded
+2026-10-09 01:49:22 [WARN] app=portal-api thread=worker-02 request_id=req-000387 Unhandled exception caught by request handler
+2026-10-09 01:49:39 [DEBUG] app=portal-api thread=worker-03 request_id=req-000388 Configuration loaded
+2026-10-09 01:49:56 [INFO] app=portal-api thread=worker-04 request_id=req-000389 Connection pool utilization elevated
+2026-10-09 01:50:13 [INFO] app=portal-api thread=worker-05 request_id=req-000390 Cache entry refreshed
+2026-10-09 01:50:30 [WARN] app=portal-api thread=worker-06 request_id=req-000391 Cache entry refreshed
+2026-10-09 01:50:47 [INFO] app=portal-api thread=worker-07 request_id=req-000392 Cache entry refreshed
+2026-10-09 01:51:04 [WARN] app=portal-api thread=worker-08 request_id=req-000393 Unhandled exception caught by request handler
+2026-10-09 01:51:21 [DEBUG] app=portal-api thread=worker-09 request_id=req-000394 Unhandled exception caught by request handler
+2026-10-09 01:51:38 [WARN] app=portal-api thread=worker-10 request_id=req-000395 Dependency response exceeded threshold
+2026-10-09 01:51:55 [INFO] app=portal-api thread=worker-11 request_id=req-000396 Background job completed
+2026-10-09 01:52:12 [DEBUG] app=portal-api thread=worker-12 request_id=req-000397 Background job completed
+2026-10-09 01:52:29 [INFO] app=portal-api thread=worker-13 request_id=req-000398 Dependency response exceeded threshold
+2026-10-09 01:52:46 [INFO] app=portal-api thread=worker-14 request_id=req-000399 Unhandled exception caught by request handler
+2026-10-09 01:53:03 [INFO] app=portal-api thread=worker-15 request_id=req-000400 Input validation failed
+2026-10-09 01:53:20 [DEBUG] app=portal-api thread=worker-00 request_id=req-000401 Unhandled exception caught by request handler
+2026-10-09 01:53:37 [INFO] app=portal-api thread=worker-01 request_id=req-000402 Request processed successfully
+2026-10-09 01:53:54 [INFO] app=portal-api thread=worker-02 request_id=req-000403 Unhandled exception caught by request handler
+2026-10-09 01:54:11 [DEBUG] app=portal-api thread=worker-03 request_id=req-000404 User session initialized
+2026-10-09 01:54:28 [ERROR] app=portal-api thread=worker-04 request_id=req-000405 Background job completed
+2026-10-09 01:54:45 [DEBUG] app=portal-api thread=worker-05 request_id=req-000406 Cache entry refreshed
+2026-10-09 01:55:02 [INFO] app=portal-api thread=worker-06 request_id=req-000407 Dependency response exceeded threshold
+2026-10-09 01:55:19 [WARN] app=portal-api thread=worker-07 request_id=req-000408 Cache entry refreshed
+2026-10-09 01:55:36 [ERROR] app=portal-api thread=worker-08 request_id=req-000409 Input validation failed
+2026-10-09 01:55:53 [DEBUG] app=portal-api thread=worker-09 request_id=req-000410 Dependency response exceeded threshold
+2026-10-09 01:56:10 [ERROR] app=portal-api thread=worker-10 request_id=req-000411 Dependency response exceeded threshold
+2026-10-09 01:56:27 [INFO] app=portal-api thread=worker-11 request_id=req-000412 Retry scheduled for upstream request
+2026-10-09 01:56:44 [INFO] app=portal-api thread=worker-12 request_id=req-000413 Request processed successfully
+2026-10-09 01:57:01 [WARN] app=portal-api thread=worker-13 request_id=req-000414 Retry scheduled for upstream request
+2026-10-09 01:57:18 [INFO] app=portal-api thread=worker-14 request_id=req-000415 Dependency response exceeded threshold
+2026-10-09 01:57:35 [INFO] app=portal-api thread=worker-15 request_id=req-000416 Input validation failed
+2026-10-09 01:57:52 [WARN] app=portal-api thread=worker-00 request_id=req-000417 Connection pool utilization elevated
+2026-10-09 01:58:09 [INFO] app=portal-api thread=worker-01 request_id=req-000418 Request processed successfully
+2026-10-09 01:58:26 [INFO] app=portal-api thread=worker-02 request_id=req-000419 Retry scheduled for upstream request
+2026-10-09 01:58:43 [INFO] app=portal-api thread=worker-03 request_id=req-000420 Input validation failed
+2026-10-09 01:59:00 [WARN] app=portal-api thread=worker-04 request_id=req-000421 User session initialized
+2026-10-09 01:59:17 [DEBUG] app=portal-api thread=worker-05 request_id=req-000422 Connection pool utilization elevated
+2026-10-09 01:59:34 [INFO] app=portal-api thread=worker-06 request_id=req-000423 User session initialized
+2026-10-09 01:59:51 [INFO] app=portal-api thread=worker-07 request_id=req-000424 Retry scheduled for upstream request
+2026-10-09 02:00:08 [DEBUG] app=portal-api thread=worker-08 request_id=req-000425 Dependency response exceeded threshold
+2026-10-09 02:00:25 [DEBUG] app=portal-api thread=worker-09 request_id=req-000426 User session initialized
+2026-10-09 02:00:42 [INFO] app=portal-api thread=worker-10 request_id=req-000427 Connection pool utilization elevated
+2026-10-09 02:00:59 [INFO] app=portal-api thread=worker-11 request_id=req-000428 Background job completed
+2026-10-09 02:01:16 [INFO] app=portal-api thread=worker-12 request_id=req-000429 Dependency response exceeded threshold
+2026-10-09 02:01:33 [INFO] app=portal-api thread=worker-13 request_id=req-000430 Unhandled exception caught by request handler
+2026-10-09 02:01:50 [WARN] app=portal-api thread=worker-14 request_id=req-000431 Cache entry refreshed
+2026-10-09 02:02:07 [INFO] app=portal-api thread=worker-15 request_id=req-000432 User session initialized
+2026-10-09 02:02:24 [DEBUG] app=portal-api thread=worker-00 request_id=req-000433 Request processed successfully
+2026-10-09 02:02:41 [INFO] app=portal-api thread=worker-01 request_id=req-000434 Request processed successfully
+2026-10-09 02:02:58 [INFO] app=portal-api thread=worker-02 request_id=req-000435 Request processed successfully
+2026-10-09 02:03:15 [DEBUG] app=portal-api thread=worker-03 request_id=req-000436 Cache entry refreshed
+2026-10-09 02:03:32 [INFO] app=portal-api thread=worker-04 request_id=req-000437 Background job completed
+2026-10-09 02:03:49 [INFO] app=portal-api thread=worker-05 request_id=req-000438 Background job completed
+2026-10-09 02:04:06 [INFO] app=portal-api thread=worker-06 request_id=req-000439 Dependency response exceeded threshold
+2026-10-09 02:04:23 [ERROR] app=portal-api thread=worker-07 request_id=req-000440 Configuration loaded
+2026-10-09 02:04:40 [INFO] app=portal-api thread=worker-08 request_id=req-000441 Cache entry refreshed
+2026-10-09 02:04:57 [INFO] app=portal-api thread=worker-09 request_id=req-000442 Unhandled exception caught by request handler
+2026-10-09 02:05:14 [INFO] app=portal-api thread=worker-10 request_id=req-000443 Cache entry refreshed
+2026-10-09 02:05:31 [WARN] app=portal-api thread=worker-11 request_id=req-000444 Background job completed
+2026-10-09 02:05:48 [WARN] app=portal-api thread=worker-12 request_id=req-000445 Input validation failed
+2026-10-09 02:06:05 [INFO] app=portal-api thread=worker-13 request_id=req-000446 Connection pool utilization elevated
+2026-10-09 02:06:22 [INFO] app=portal-api thread=worker-14 request_id=req-000447 User session initialized
+2026-10-09 02:06:39 [INFO] app=portal-api thread=worker-15 request_id=req-000448 Background job completed
+2026-10-09 02:06:56 [WARN] app=portal-api thread=worker-00 request_id=req-000449 Unhandled exception caught by request handler
+2026-10-09 02:07:13 [ERROR] app=portal-api thread=worker-01 request_id=req-000450 Dependency response exceeded threshold
+2026-10-09 02:07:30 [WARN] app=portal-api thread=worker-02 request_id=req-000451 Dependency response exceeded threshold
+2026-10-09 02:07:47 [INFO] app=portal-api thread=worker-03 request_id=req-000452 Retry scheduled for upstream request
+2026-10-09 02:08:04 [INFO] app=portal-api thread=worker-04 request_id=req-000453 Connection pool utilization elevated
+2026-10-09 02:08:21 [INFO] app=portal-api thread=worker-05 request_id=req-000454 Retry scheduled for upstream request
+2026-10-09 02:08:38 [WARN] app=portal-api thread=worker-06 request_id=req-000455 Configuration loaded
+2026-10-09 02:08:55 [DEBUG] app=portal-api thread=worker-07 request_id=req-000456 Configuration loaded
+2026-10-09 02:09:12 [WARN] app=portal-api thread=worker-08 request_id=req-000457 Input validation failed
+2026-10-09 02:09:29 [INFO] app=portal-api thread=worker-09 request_id=req-000458 Dependency response exceeded threshold
+2026-10-09 02:09:46 [DEBUG] app=portal-api thread=worker-10 request_id=req-000459 Input validation failed
+2026-10-09 02:10:03 [INFO] app=portal-api thread=worker-11 request_id=req-000460 Cache entry refreshed
+2026-10-09 02:10:20 [INFO] app=portal-api thread=worker-12 request_id=req-000461 User session initialized
+2026-10-09 02:10:37 [INFO] app=portal-api thread=worker-13 request_id=req-000462 Unhandled exception caught by request handler
+2026-10-09 02:10:54 [INFO] app=portal-api thread=worker-14 request_id=req-000463 Request processed successfully
+2026-10-09 02:11:11 [WARN] app=portal-api thread=worker-15 request_id=req-000464 Dependency response exceeded threshold
+2026-10-09 02:11:28 [INFO] app=portal-api thread=worker-00 request_id=req-000465 Dependency response exceeded threshold
+2026-10-09 02:11:45 [INFO] app=portal-api thread=worker-01 request_id=req-000466 Cache entry refreshed
+2026-10-09 02:12:02 [INFO] app=portal-api thread=worker-02 request_id=req-000467 Cache entry refreshed
+2026-10-09 02:12:19 [INFO] app=portal-api thread=worker-03 request_id=req-000468 Background job completed
+2026-10-09 02:12:36 [INFO] app=portal-api thread=worker-04 request_id=req-000469 Input validation failed
+2026-10-09 02:12:53 [DEBUG] app=portal-api thread=worker-05 request_id=req-000470 Retry scheduled for upstream request
+2026-10-09 02:13:10 [WARN] app=portal-api thread=worker-06 request_id=req-000471 Connection pool utilization elevated
+2026-10-09 02:13:27 [INFO] app=portal-api thread=worker-07 request_id=req-000472 Retry scheduled for upstream request
+2026-10-09 02:13:44 [DEBUG] app=portal-api thread=worker-08 request_id=req-000473 Dependency response exceeded threshold
+2026-10-09 02:14:01 [WARN] app=portal-api thread=worker-09 request_id=req-000474 User session initialized
+2026-10-09 02:14:18 [DEBUG] app=portal-api thread=worker-10 request_id=req-000475 Configuration loaded
+2026-10-09 02:14:35 [DEBUG] app=portal-api thread=worker-11 request_id=req-000476 Background job completed
+2026-10-09 02:14:52 [ERROR] app=portal-api thread=worker-12 request_id=req-000477 Request processed successfully
+2026-10-09 02:15:09 [INFO] app=portal-api thread=worker-13 request_id=req-000478 Request processed successfully
+2026-10-09 02:15:26 [WARN] app=portal-api thread=worker-14 request_id=req-000479 Request processed successfully
+2026-10-09 02:15:43 [INFO] app=portal-api thread=worker-15 request_id=req-000480 Background job completed
+2026-10-09 02:16:00 [WARN] app=portal-api thread=worker-00 request_id=req-000481 User session initialized
+2026-10-09 02:16:17 [INFO] app=portal-api thread=worker-01 request_id=req-000482 User session initialized
+2026-10-09 02:16:34 [INFO] app=portal-api thread=worker-02 request_id=req-000483 Retry scheduled for upstream request
+2026-10-09 02:16:51 [INFO] app=portal-api thread=worker-03 request_id=req-000484 Configuration loaded
+2026-10-09 02:17:08 [INFO] app=portal-api thread=worker-04 request_id=req-000485 Unhandled exception caught by request handler
+2026-10-09 02:17:25 [DEBUG] app=portal-api thread=worker-05 request_id=req-000486 Cache entry refreshed
+2026-10-09 02:17:42 [INFO] app=portal-api thread=worker-06 request_id=req-000487 Request processed successfully
+2026-10-09 02:17:59 [DEBUG] app=portal-api thread=worker-07 request_id=req-000488 Input validation failed
+2026-10-09 02:18:16 [DEBUG] app=portal-api thread=worker-08 request_id=req-000489 Configuration loaded
+2026-10-09 02:18:33 [INFO] app=portal-api thread=worker-09 request_id=req-000490 Unhandled exception caught by request handler
+2026-10-09 02:18:50 [INFO] app=portal-api thread=worker-10 request_id=req-000491 Dependency response exceeded threshold
+2026-10-09 02:19:07 [DEBUG] app=portal-api thread=worker-11 request_id=req-000492 Dependency response exceeded threshold
+2026-10-09 02:19:24 [INFO] app=portal-api thread=worker-12 request_id=req-000493 User session initialized
+2026-10-09 02:19:41 [WARN] app=portal-api thread=worker-13 request_id=req-000494 Dependency response exceeded threshold
+2026-10-09 02:19:58 [WARN] app=portal-api thread=worker-14 request_id=req-000495 Connection pool utilization elevated
+2026-10-09 02:20:15 [INFO] app=portal-api thread=worker-15 request_id=req-000496 Dependency response exceeded threshold
+2026-10-09 02:20:32 [ERROR] app=portal-api thread=worker-00 request_id=req-000497 Unhandled exception caught by request handler
+2026-10-09 02:20:49 [INFO] app=portal-api thread=worker-01 request_id=req-000498 Input validation failed
+2026-10-09 02:21:06 [DEBUG] app=portal-api thread=worker-02 request_id=req-000499 Dependency response exceeded threshold
+2026-10-09 02:21:23 [WARN] app=portal-api thread=worker-03 request_id=req-000500 Configuration loaded
+2026-10-09 02:21:40 [ERROR] app=portal-api thread=worker-04 request_id=req-000501 Dependency response exceeded threshold
+2026-10-09 02:21:57 [INFO] app=portal-api thread=worker-05 request_id=req-000502 Input validation failed
+2026-10-09 02:22:14 [DEBUG] app=portal-api thread=worker-06 request_id=req-000503 Unhandled exception caught by request handler
+2026-10-09 02:22:31 [INFO] app=portal-api thread=worker-07 request_id=req-000504 Background job completed
+2026-10-09 02:22:48 [INFO] app=portal-api thread=worker-08 request_id=req-000505 Input validation failed
+2026-10-09 02:23:05 [INFO] app=portal-api thread=worker-09 request_id=req-000506 Unhandled exception caught by request handler
+2026-10-09 02:23:22 [WARN] app=portal-api thread=worker-10 request_id=req-000507 User session initialized
+2026-10-09 02:23:39 [WARN] app=portal-api thread=worker-11 request_id=req-000508 Dependency response exceeded threshold
+2026-10-09 02:23:56 [WARN] app=portal-api thread=worker-12 request_id=req-000509 Background job completed
+2026-10-09 02:24:13 [WARN] app=portal-api thread=worker-13 request_id=req-000510 Configuration loaded
+2026-10-09 02:24:30 [DEBUG] app=portal-api thread=worker-14 request_id=req-000511 Retry scheduled for upstream request
+2026-10-09 02:24:47 [INFO] app=portal-api thread=worker-15 request_id=req-000512 Configuration loaded
+2026-10-09 02:25:04 [DEBUG] app=portal-api thread=worker-00 request_id=req-000513 Cache entry refreshed
+2026-10-09 02:25:21 [DEBUG] app=portal-api thread=worker-01 request_id=req-000514 User session initialized
+2026-10-09 02:25:38 [INFO] app=portal-api thread=worker-02 request_id=req-000515 Dependency response exceeded threshold
+2026-10-09 02:25:55 [INFO] app=portal-api thread=worker-03 request_id=req-000516 Retry scheduled for upstream request
+2026-10-09 02:26:12 [DEBUG] app=portal-api thread=worker-04 request_id=req-000517 Request processed successfully
+2026-10-09 02:26:29 [WARN] app=portal-api thread=worker-05 request_id=req-000518 Retry scheduled for upstream request
+2026-10-09 02:26:46 [DEBUG] app=portal-api thread=worker-06 request_id=req-000519 Cache entry refreshed
+2026-10-09 02:27:03 [INFO] app=portal-api thread=worker-07 request_id=req-000520 Connection pool utilization elevated
+2026-10-09 02:27:20 [WARN] app=portal-api thread=worker-08 request_id=req-000521 Retry scheduled for upstream request
+2026-10-09 02:27:37 [INFO] app=portal-api thread=worker-09 request_id=req-000522 Background job completed
+2026-10-09 02:27:54 [WARN] app=portal-api thread=worker-10 request_id=req-000523 Background job completed
+2026-10-09 02:28:11 [WARN] app=portal-api thread=worker-11 request_id=req-000524 Dependency response exceeded threshold
+2026-10-09 02:28:28 [ERROR] app=portal-api thread=worker-12 request_id=req-000525 Background job completed
+2026-10-09 02:28:45 [DEBUG] app=portal-api thread=worker-13 request_id=req-000526 Retry scheduled for upstream request
+2026-10-09 02:29:02 [WARN] app=portal-api thread=worker-14 request_id=req-000527 Dependency response exceeded threshold
+2026-10-09 02:29:19 [ERROR] app=portal-api thread=worker-15 request_id=req-000528 Cache entry refreshed
+2026-10-09 02:29:36 [WARN] app=portal-api thread=worker-00 request_id=req-000529 Configuration loaded
+2026-10-09 02:29:53 [WARN] app=portal-api thread=worker-01 request_id=req-000530 Input validation failed
+2026-10-09 02:30:10 [ERROR] app=portal-api thread=worker-02 request_id=req-000531 Connection pool utilization elevated
+2026-10-09 02:30:27 [INFO] app=portal-api thread=worker-03 request_id=req-000532 Input validation failed
+2026-10-09 02:30:44 [INFO] app=portal-api thread=worker-04 request_id=req-000533 Connection pool utilization elevated
+2026-10-09 02:31:01 [INFO] app=portal-api thread=worker-05 request_id=req-000534 Retry scheduled for upstream request
+2026-10-09 02:31:18 [DEBUG] app=portal-api thread=worker-06 request_id=req-000535 Background job completed
+2026-10-09 02:31:35 [DEBUG] app=portal-api thread=worker-07 request_id=req-000536 Retry scheduled for upstream request
+2026-10-09 02:31:52 [INFO] app=portal-api thread=worker-08 request_id=req-000537 Configuration loaded
+2026-10-09 02:32:09 [INFO] app=portal-api thread=worker-09 request_id=req-000538 Unhandled exception caught by request handler
+2026-10-09 02:32:26 [WARN] app=portal-api thread=worker-10 request_id=req-000539 Connection pool utilization elevated
+2026-10-09 02:32:43 [INFO] app=portal-api thread=worker-11 request_id=req-000540 Unhandled exception caught by request handler
+2026-10-09 02:33:00 [INFO] app=portal-api thread=worker-12 request_id=req-000541 Request processed successfully
+2026-10-09 02:33:17 [DEBUG] app=portal-api thread=worker-13 request_id=req-000542 Dependency response exceeded threshold
+2026-10-09 02:33:34 [WARN] app=portal-api thread=worker-14 request_id=req-000543 Background job completed
+2026-10-09 02:33:51 [DEBUG] app=portal-api thread=worker-15 request_id=req-000544 Request processed successfully
+2026-10-09 02:34:08 [INFO] app=portal-api thread=worker-00 request_id=req-000545 User session initialized
+2026-10-09 02:34:25 [INFO] app=portal-api thread=worker-01 request_id=req-000546 Dependency response exceeded threshold
+2026-10-09 02:34:42 [INFO] app=portal-api thread=worker-02 request_id=req-000547 Configuration loaded
+2026-10-09 02:34:59 [WARN] app=portal-api thread=worker-03 request_id=req-000548 Cache entry refreshed
+2026-10-09 02:35:16 [INFO] app=portal-api thread=worker-04 request_id=req-000549 Retry scheduled for upstream request
+2026-10-09 02:35:33 [DEBUG] app=portal-api thread=worker-05 request_id=req-000550 Connection pool utilization elevated
+2026-10-09 02:35:50 [INFO] app=portal-api thread=worker-06 request_id=req-000551 Cache entry refreshed
+2026-10-09 02:36:07 [WARN] app=portal-api thread=worker-07 request_id=req-000552 Request processed successfully
+2026-10-09 02:36:24 [WARN] app=portal-api thread=worker-08 request_id=req-000553 Unhandled exception caught by request handler
+2026-10-09 02:36:41 [INFO] app=portal-api thread=worker-09 request_id=req-000554 Background job completed
+2026-10-09 02:36:58 [INFO] app=portal-api thread=worker-10 request_id=req-000555 Retry scheduled for upstream request
+2026-10-09 02:37:15 [INFO] app=portal-api thread=worker-11 request_id=req-000556 Dependency response exceeded threshold
+2026-10-09 02:37:32 [ERROR] app=portal-api thread=worker-12 request_id=req-000557 Retry scheduled for upstream request
+2026-10-09 02:37:49 [INFO] app=portal-api thread=worker-13 request_id=req-000558 Retry scheduled for upstream request
+2026-10-09 02:38:06 [INFO] app=portal-api thread=worker-14 request_id=req-000559 Retry scheduled for upstream request
+2026-10-09 02:38:23 [INFO] app=portal-api thread=worker-15 request_id=req-000560 Background job completed
+2026-10-09 02:38:40 [INFO] app=portal-api thread=worker-00 request_id=req-000561 Request processed successfully
+2026-10-09 02:38:57 [ERROR] app=portal-api thread=worker-01 request_id=req-000562 Dependency response exceeded threshold
+2026-10-09 02:39:14 [INFO] app=portal-api thread=worker-02 request_id=req-000563 Configuration loaded
+2026-10-09 02:39:31 [DEBUG] app=portal-api thread=worker-03 request_id=req-000564 Unhandled exception caught by request handler
+2026-10-09 02:39:48 [ERROR] app=portal-api thread=worker-04 request_id=req-000565 User session initialized
+2026-10-09 02:40:05 [WARN] app=portal-api thread=worker-05 request_id=req-000566 Configuration loaded
+2026-10-09 02:40:22 [ERROR] app=portal-api thread=worker-06 request_id=req-000567 Unhandled exception caught by request handler
+2026-10-09 02:40:39 [INFO] app=portal-api thread=worker-07 request_id=req-000568 Connection pool utilization elevated
+2026-10-09 02:40:56 [INFO] app=portal-api thread=worker-08 request_id=req-000569 Configuration loaded
+2026-10-09 02:41:13 [WARN] app=portal-api thread=worker-09 request_id=req-000570 Configuration loaded
+2026-10-09 02:41:30 [INFO] app=portal-api thread=worker-10 request_id=req-000571 Cache entry refreshed
+2026-10-09 02:41:47 [WARN] app=portal-api thread=worker-11 request_id=req-000572 Unhandled exception caught by request handler
+2026-10-09 02:42:04 [INFO] app=portal-api thread=worker-12 request_id=req-000573 Cache entry refreshed
+2026-10-09 02:42:21 [ERROR] app=portal-api thread=worker-13 request_id=req-000574 Connection pool utilization elevated
+2026-10-09 02:42:38 [INFO] app=portal-api thread=worker-14 request_id=req-000575 Cache entry refreshed
+2026-10-09 02:42:55 [INFO] app=portal-api thread=worker-15 request_id=req-000576 User session initialized
+2026-10-09 02:43:12 [INFO] app=portal-api thread=worker-00 request_id=req-000577 Retry scheduled for upstream request
+2026-10-09 02:43:29 [WARN] app=portal-api thread=worker-01 request_id=req-000578 Configuration loaded
+2026-10-09 02:43:46 [DEBUG] app=portal-api thread=worker-02 request_id=req-000579 User session initialized
+2026-10-09 02:44:03 [INFO] app=portal-api thread=worker-03 request_id=req-000580 User session initialized
+2026-10-09 02:44:20 [INFO] app=portal-api thread=worker-04 request_id=req-000581 Input validation failed
+2026-10-09 02:44:37 [INFO] app=portal-api thread=worker-05 request_id=req-000582 Request processed successfully
+2026-10-09 02:44:54 [INFO] app=portal-api thread=worker-06 request_id=req-000583 Retry scheduled for upstream request
+2026-10-09 02:45:11 [INFO] app=portal-api thread=worker-07 request_id=req-000584 Request processed successfully
+2026-10-09 02:45:28 [INFO] app=portal-api thread=worker-08 request_id=req-000585 Configuration loaded
+2026-10-09 02:45:45 [ERROR] app=portal-api thread=worker-09 request_id=req-000586 User session initialized
+2026-10-09 02:46:02 [DEBUG] app=portal-api thread=worker-10 request_id=req-000587 Connection pool utilization elevated
+2026-10-09 02:46:19 [INFO] app=portal-api thread=worker-11 request_id=req-000588 User session initialized
+2026-10-09 02:46:36 [INFO] app=portal-api thread=worker-12 request_id=req-000589 Dependency response exceeded threshold
+2026-10-09 02:46:53 [WARN] app=portal-api thread=worker-13 request_id=req-000590 Input validation failed
+2026-10-09 02:47:10 [DEBUG] app=portal-api thread=worker-14 request_id=req-000591 Dependency response exceeded threshold
+2026-10-09 02:47:27 [DEBUG] app=portal-api thread=worker-15 request_id=req-000592 Dependency response exceeded threshold
+2026-10-09 02:47:44 [INFO] app=portal-api thread=worker-00 request_id=req-000593 Request processed successfully
+2026-10-09 02:48:01 [INFO] app=portal-api thread=worker-01 request_id=req-000594 Cache entry refreshed
+2026-10-09 02:48:18 [INFO] app=portal-api thread=worker-02 request_id=req-000595 Background job completed
+2026-10-09 02:48:35 [DEBUG] app=portal-api thread=worker-03 request_id=req-000596 Unhandled exception caught by request handler
+2026-10-09 02:48:52 [INFO] app=portal-api thread=worker-04 request_id=req-000597 Retry scheduled for upstream request
+2026-10-09 02:49:09 [INFO] app=portal-api thread=worker-05 request_id=req-000598 Unhandled exception caught by request handler
+2026-10-09 02:49:26 [INFO] app=portal-api thread=worker-06 request_id=req-000599 Dependency response exceeded threshold
+2026-10-09 02:49:43 [INFO] app=portal-api thread=worker-07 request_id=req-000600 Input validation failed
+2026-10-09 02:50:00 [INFO] app=portal-api thread=worker-08 request_id=req-000601 Request processed successfully
+2026-10-09 02:50:17 [WARN] app=portal-api thread=worker-09 request_id=req-000602 Connection pool utilization elevated
+2026-10-09 02:50:34 [DEBUG] app=portal-api thread=worker-10 request_id=req-000603 Configuration loaded
+2026-10-09 02:50:51 [INFO] app=portal-api thread=worker-11 request_id=req-000604 Configuration loaded
+2026-10-09 02:51:08 [INFO] app=portal-api thread=worker-12 request_id=req-000605 Dependency response exceeded threshold
+2026-10-09 02:51:25 [INFO] app=portal-api thread=worker-13 request_id=req-000606 Request processed successfully
+2026-10-09 02:51:42 [INFO] app=portal-api thread=worker-14 request_id=req-000607 Retry scheduled for upstream request
+2026-10-09 02:51:59 [DEBUG] app=portal-api thread=worker-15 request_id=req-000608 Retry scheduled for upstream request
+2026-10-09 02:52:16 [ERROR] app=portal-api thread=worker-00 request_id=req-000609 Dependency response exceeded threshold
+2026-10-09 02:52:33 [INFO] app=portal-api thread=worker-01 request_id=req-000610 Request processed successfully
+2026-10-09 02:52:50 [INFO] app=portal-api thread=worker-02 request_id=req-000611 Request processed successfully
+2026-10-09 02:53:07 [DEBUG] app=portal-api thread=worker-03 request_id=req-000612 Retry scheduled for upstream request
+2026-10-09 02:53:24 [WARN] app=portal-api thread=worker-04 request_id=req-000613 Connection pool utilization elevated
+2026-10-09 02:53:41 [INFO] app=portal-api thread=worker-05 request_id=req-000614 Connection pool utilization elevated
+2026-10-09 02:53:58 [DEBUG] app=portal-api thread=worker-06 request_id=req-000615 Request processed successfully
+2026-10-09 02:54:15 [INFO] app=portal-api thread=worker-07 request_id=req-000616 Input validation failed
+2026-10-09 02:54:32 [WARN] app=portal-api thread=worker-08 request_id=req-000617 User session initialized
+2026-10-09 02:54:49 [ERROR] app=portal-api thread=worker-09 request_id=req-000618 Unhandled exception caught by request handler
+2026-10-09 02:55:06 [INFO] app=portal-api thread=worker-10 request_id=req-000619 Request processed successfully
+2026-10-09 02:55:23 [DEBUG] app=portal-api thread=worker-11 request_id=req-000620 Configuration loaded
+2026-10-09 02:55:40 [INFO] app=portal-api thread=worker-12 request_id=req-000621 Dependency response exceeded threshold
+2026-10-09 02:55:57 [INFO] app=portal-api thread=worker-13 request_id=req-000622 Request processed successfully
+2026-10-09 02:56:14 [INFO] app=portal-api thread=worker-14 request_id=req-000623 Connection pool utilization elevated
+2026-10-09 02:56:31 [INFO] app=portal-api thread=worker-15 request_id=req-000624 Background job completed
+2026-10-09 02:56:48 [DEBUG] app=portal-api thread=worker-00 request_id=req-000625 Input validation failed
+2026-10-09 02:57:05 [WARN] app=portal-api thread=worker-01 request_id=req-000626 Unhandled exception caught by request handler
+2026-10-09 02:57:22 [DEBUG] app=portal-api thread=worker-02 request_id=req-000627 Connection pool utilization elevated
+2026-10-09 02:57:39 [INFO] app=portal-api thread=worker-03 request_id=req-000628 Background job completed
+2026-10-09 02:57:56 [INFO] app=portal-api thread=worker-04 request_id=req-000629 Background job completed
+2026-10-09 02:58:13 [DEBUG] app=portal-api thread=worker-05 request_id=req-000630 Background job completed
+2026-10-09 02:58:30 [WARN] app=portal-api thread=worker-06 request_id=req-000631 Retry scheduled for upstream request
+2026-10-09 02:58:47 [INFO] app=portal-api thread=worker-07 request_id=req-000632 Cache entry refreshed
+2026-10-09 02:59:04 [DEBUG] app=portal-api thread=worker-08 request_id=req-000633 Input validation failed
+2026-10-09 02:59:21 [INFO] app=portal-api thread=worker-09 request_id=req-000634 User session initialized
+2026-10-09 02:59:38 [INFO] app=portal-api thread=worker-10 request_id=req-000635 Connection pool utilization elevated
+2026-10-09 02:59:55 [INFO] app=portal-api thread=worker-11 request_id=req-000636 Input validation failed
+2026-10-09 03:00:12 [INFO] app=portal-api thread=worker-12 request_id=req-000637 Cache entry refreshed
+2026-10-09 03:00:29 [INFO] app=portal-api thread=worker-13 request_id=req-000638 Retry scheduled for upstream request
+2026-10-09 03:00:46 [WARN] app=portal-api thread=worker-14 request_id=req-000639 Unhandled exception caught by request handler
+2026-10-09 03:01:03 [DEBUG] app=portal-api thread=worker-15 request_id=req-000640 User session initialized
+2026-10-09 03:01:20 [INFO] app=portal-api thread=worker-00 request_id=req-000641 Unhandled exception caught by request handler
+2026-10-09 03:01:37 [INFO] app=portal-api thread=worker-01 request_id=req-000642 Request processed successfully
+2026-10-09 03:01:54 [INFO] app=portal-api thread=worker-02 request_id=req-000643 Input validation failed
+2026-10-09 03:02:11 [INFO] app=portal-api thread=worker-03 request_id=req-000644 Dependency response exceeded threshold
+2026-10-09 03:02:28 [INFO] app=portal-api thread=worker-04 request_id=req-000645 Configuration loaded
+2026-10-09 03:02:45 [WARN] app=portal-api thread=worker-05 request_id=req-000646 Request processed successfully
+2026-10-09 03:03:02 [INFO] app=portal-api thread=worker-06 request_id=req-000647 Request processed successfully
+2026-10-09 03:03:19 [INFO] app=portal-api thread=worker-07 request_id=req-000648 Unhandled exception caught by request handler
+2026-10-09 03:03:36 [INFO] app=portal-api thread=worker-08 request_id=req-000649 Background job completed
+2026-10-09 03:03:53 [INFO] app=portal-api thread=worker-09 request_id=req-000650 Input validation failed
+2026-10-09 03:04:10 [ERROR] app=portal-api thread=worker-10 request_id=req-000651 User session initialized
+2026-10-09 03:04:27 [INFO] app=portal-api thread=worker-11 request_id=req-000652 Background job completed
+2026-10-09 03:04:44 [ERROR] app=portal-api thread=worker-12 request_id=req-000653 Cache entry refreshed
+2026-10-09 03:05:01 [WARN] app=portal-api thread=worker-13 request_id=req-000654 Background job completed
+2026-10-09 03:05:18 [INFO] app=portal-api thread=worker-14 request_id=req-000655 User session initialized
+2026-10-09 03:05:35 [INFO] app=portal-api thread=worker-15 request_id=req-000656 Input validation failed
+2026-10-09 03:05:52 [INFO] app=portal-api thread=worker-00 request_id=req-000657 Input validation failed
+2026-10-09 03:06:09 [INFO] app=portal-api thread=worker-01 request_id=req-000658 Configuration loaded
+2026-10-09 03:06:26 [INFO] app=portal-api thread=worker-02 request_id=req-000659 Retry scheduled for upstream request
+2026-10-09 03:06:43 [INFO] app=portal-api thread=worker-03 request_id=req-000660 User session initialized
+2026-10-09 03:07:00 [INFO] app=portal-api thread=worker-04 request_id=req-000661 Dependency response exceeded threshold
+2026-10-09 03:07:17 [WARN] app=portal-api thread=worker-05 request_id=req-000662 Retry scheduled for upstream request
+2026-10-09 03:07:34 [DEBUG] app=portal-api thread=worker-06 request_id=req-000663 Unhandled exception caught by request handler
+2026-10-09 03:07:51 [INFO] app=portal-api thread=worker-07 request_id=req-000664 Input validation failed
+2026-10-09 03:08:08 [INFO] app=portal-api thread=worker-08 request_id=req-000665 Input validation failed
+2026-10-09 03:08:25 [INFO] app=portal-api thread=worker-09 request_id=req-000666 Retry scheduled for upstream request
+2026-10-09 03:08:42 [INFO] app=portal-api thread=worker-10 request_id=req-000667 Unhandled exception caught by request handler
+2026-10-09 03:08:59 [INFO] app=portal-api thread=worker-11 request_id=req-000668 Retry scheduled for upstream request
+2026-10-09 03:09:16 [INFO] app=portal-api thread=worker-12 request_id=req-000669 Request processed successfully
+2026-10-09 03:09:33 [INFO] app=portal-api thread=worker-13 request_id=req-000670 Unhandled exception caught by request handler
+2026-10-09 03:09:50 [INFO] app=portal-api thread=worker-14 request_id=req-000671 Request processed successfully
+2026-10-09 03:10:07 [INFO] app=portal-api thread=worker-15 request_id=req-000672 Background job completed
+2026-10-09 03:10:24 [DEBUG] app=portal-api thread=worker-00 request_id=req-000673 Configuration loaded
+2026-10-09 03:10:41 [INFO] app=portal-api thread=worker-01 request_id=req-000674 Cache entry refreshed
+2026-10-09 03:10:58 [INFO] app=portal-api thread=worker-02 request_id=req-000675 Request processed successfully
+2026-10-09 03:11:15 [INFO] app=portal-api thread=worker-03 request_id=req-000676 Configuration loaded
+2026-10-09 03:11:32 [WARN] app=portal-api thread=worker-04 request_id=req-000677 Retry scheduled for upstream request
+2026-10-09 03:11:49 [INFO] app=portal-api thread=worker-05 request_id=req-000678 Cache entry refreshed
+2026-10-09 03:12:06 [INFO] app=portal-api thread=worker-06 request_id=req-000679 Cache entry refreshed
+2026-10-09 03:12:23 [INFO] app=portal-api thread=worker-07 request_id=req-000680 Cache entry refreshed
+2026-10-09 03:12:40 [DEBUG] app=portal-api thread=worker-08 request_id=req-000681 Request processed successfully
+2026-10-09 03:12:57 [INFO] app=portal-api thread=worker-09 request_id=req-000682 Dependency response exceeded threshold
+2026-10-09 03:13:14 [INFO] app=portal-api thread=worker-10 request_id=req-000683 Unhandled exception caught by request handler
+2026-10-09 03:13:31 [WARN] app=portal-api thread=worker-11 request_id=req-000684 Dependency response exceeded threshold
+2026-10-09 03:13:48 [DEBUG] app=portal-api thread=worker-12 request_id=req-000685 Unhandled exception caught by request handler
+2026-10-09 03:14:05 [DEBUG] app=portal-api thread=worker-13 request_id=req-000686 Unhandled exception caught by request handler
+2026-10-09 03:14:22 [INFO] app=portal-api thread=worker-14 request_id=req-000687 Retry scheduled for upstream request
+2026-10-09 03:14:39 [INFO] app=portal-api thread=worker-15 request_id=req-000688 Request processed successfully
+2026-10-09 03:14:56 [INFO] app=portal-api thread=worker-00 request_id=req-000689 Background job completed
+2026-10-09 03:15:13 [WARN] app=portal-api thread=worker-01 request_id=req-000690 Unhandled exception caught by request handler
+2026-10-09 03:15:30 [INFO] app=portal-api thread=worker-02 request_id=req-000691 Connection pool utilization elevated
+2026-10-09 03:15:47 [INFO] app=portal-api thread=worker-03 request_id=req-000692 Dependency response exceeded threshold
+2026-10-09 03:16:04 [INFO] app=portal-api thread=worker-04 request_id=req-000693 User session initialized
+2026-10-09 03:16:21 [INFO] app=portal-api thread=worker-05 request_id=req-000694 Background job completed
+2026-10-09 03:16:38 [INFO] app=portal-api thread=worker-06 request_id=req-000695 Request processed successfully
+2026-10-09 03:16:55 [DEBUG] app=portal-api thread=worker-07 request_id=req-000696 Connection pool utilization elevated
+2026-10-09 03:17:12 [INFO] app=portal-api thread=worker-08 request_id=req-000697 Unhandled exception caught by request handler
+2026-10-09 03:17:29 [DEBUG] app=portal-api thread=worker-09 request_id=req-000698 User session initialized
+2026-10-09 03:17:46 [INFO] app=portal-api thread=worker-10 request_id=req-000699 Unhandled exception caught by request handler
+2026-10-09 03:18:03 [DEBUG] app=portal-api thread=worker-11 request_id=req-000700 Retry scheduled for upstream request
+2026-10-09 03:18:20 [DEBUG] app=portal-api thread=worker-12 request_id=req-000701 Connection pool utilization elevated
+2026-10-09 03:18:37 [INFO] app=portal-api thread=worker-13 request_id=req-000702 User session initialized
+2026-10-09 03:18:54 [INFO] app=portal-api thread=worker-14 request_id=req-000703 Retry scheduled for upstream request
+2026-10-09 03:19:11 [ERROR] app=portal-api thread=worker-15 request_id=req-000704 Request processed successfully
+2026-10-09 03:19:28 [INFO] app=portal-api thread=worker-00 request_id=req-000705 Cache entry refreshed
+2026-10-09 03:19:45 [INFO] app=portal-api thread=worker-01 request_id=req-000706 Dependency response exceeded threshold
+2026-10-09 03:20:02 [ERROR] app=portal-api thread=worker-02 request_id=req-000707 Connection pool utilization elevated
+2026-10-09 03:20:19 [INFO] app=portal-api thread=worker-03 request_id=req-000708 Cache entry refreshed
+2026-10-09 03:20:36 [INFO] app=portal-api thread=worker-04 request_id=req-000709 Background job completed
+2026-10-09 03:20:53 [INFO] app=portal-api thread=worker-05 request_id=req-000710 Retry scheduled for upstream request
+2026-10-09 03:21:10 [DEBUG] app=portal-api thread=worker-06 request_id=req-000711 User session initialized
+2026-10-09 03:21:27 [WARN] app=portal-api thread=worker-07 request_id=req-000712 Retry scheduled for upstream request
+2026-10-09 03:21:44 [INFO] app=portal-api thread=worker-08 request_id=req-000713 Request processed successfully
+2026-10-09 03:22:01 [DEBUG] app=portal-api thread=worker-09 request_id=req-000714 Input validation failed
+2026-10-09 03:22:18 [INFO] app=portal-api thread=worker-10 request_id=req-000715 Unhandled exception caught by request handler
+2026-10-09 03:22:35 [WARN] app=portal-api thread=worker-11 request_id=req-000716 Retry scheduled for upstream request
+2026-10-09 03:22:52 [INFO] app=portal-api thread=worker-12 request_id=req-000717 Cache entry refreshed
+2026-10-09 03:23:09 [WARN] app=portal-api thread=worker-13 request_id=req-000718 Background job completed
+2026-10-09 03:23:26 [ERROR] app=portal-api thread=worker-14 request_id=req-000719 Input validation failed
+2026-10-09 03:23:43 [INFO] app=portal-api thread=worker-15 request_id=req-000720 Request processed successfully
+2026-10-09 03:24:00 [INFO] app=portal-api thread=worker-00 request_id=req-000721 Input validation failed
+2026-10-09 03:24:17 [DEBUG] app=portal-api thread=worker-01 request_id=req-000722 Retry scheduled for upstream request
+2026-10-09 03:24:34 [WARN] app=portal-api thread=worker-02 request_id=req-000723 Connection pool utilization elevated
+2026-10-09 03:24:51 [INFO] app=portal-api thread=worker-03 request_id=req-000724 Input validation failed
+2026-10-09 03:25:08 [INFO] app=portal-api thread=worker-04 request_id=req-000725 User session initialized
+2026-10-09 03:25:25 [INFO] app=portal-api thread=worker-05 request_id=req-000726 Cache entry refreshed
+2026-10-09 03:25:42 [ERROR] app=portal-api thread=worker-06 request_id=req-000727 Retry scheduled for upstream request
+2026-10-09 03:25:59 [ERROR] app=portal-api thread=worker-07 request_id=req-000728 Dependency response exceeded threshold
+2026-10-09 03:26:16 [INFO] app=portal-api thread=worker-08 request_id=req-000729 Cache entry refreshed
+2026-10-09 03:26:33 [INFO] app=portal-api thread=worker-09 request_id=req-000730 Background job completed
+2026-10-09 03:26:50 [WARN] app=portal-api thread=worker-10 request_id=req-000731 Request processed successfully
+2026-10-09 03:27:07 [INFO] app=portal-api thread=worker-11 request_id=req-000732 Connection pool utilization elevated
+2026-10-09 03:27:24 [WARN] app=portal-api thread=worker-12 request_id=req-000733 Connection pool utilization elevated
+2026-10-09 03:27:41 [INFO] app=portal-api thread=worker-13 request_id=req-000734 Retry scheduled for upstream request
+2026-10-09 03:27:58 [WARN] app=portal-api thread=worker-14 request_id=req-000735 Unhandled exception caught by request handler
+2026-10-09 03:28:15 [INFO] app=portal-api thread=worker-15 request_id=req-000736 Input validation failed
+2026-10-09 03:28:32 [INFO] app=portal-api thread=worker-00 request_id=req-000737 Cache entry refreshed
+2026-10-09 03:28:49 [WARN] app=portal-api thread=worker-01 request_id=req-000738 Unhandled exception caught by request handler
+2026-10-09 03:29:06 [WARN] app=portal-api thread=worker-02 request_id=req-000739 Cache entry refreshed
+2026-10-09 03:29:23 [DEBUG] app=portal-api thread=worker-03 request_id=req-000740 User session initialized
+2026-10-09 03:29:40 [INFO] app=portal-api thread=worker-04 request_id=req-000741 Configuration loaded
+2026-10-09 03:29:57 [ERROR] app=portal-api thread=worker-05 request_id=req-000742 Unhandled exception caught by request handler
+2026-10-09 03:30:14 [INFO] app=portal-api thread=worker-06 request_id=req-000743 Dependency response exceeded threshold
+2026-10-09 03:30:31 [INFO] app=portal-api thread=worker-07 request_id=req-000744 Configuration loaded
+2026-10-09 03:30:48 [INFO] app=portal-api thread=worker-08 request_id=req-000745 Dependency response exceeded threshold
+2026-10-09 03:31:05 [WARN] app=portal-api thread=worker-09 request_id=req-000746 Configuration loaded
+2026-10-09 03:31:22 [INFO] app=portal-api thread=worker-10 request_id=req-000747 Unhandled exception caught by request handler
+2026-10-09 03:31:39 [ERROR] app=portal-api thread=worker-11 request_id=req-000748 Dependency response exceeded threshold
+2026-10-09 03:31:56 [WARN] app=portal-api thread=worker-12 request_id=req-000749 Input validation failed
+2026-10-09 03:32:13 [INFO] app=portal-api thread=worker-13 request_id=req-000750 Input validation failed
+2026-10-09 03:32:30 [ERROR] app=portal-api thread=worker-14 request_id=req-000751 Configuration loaded
+2026-10-09 03:32:47 [WARN] app=portal-api thread=worker-15 request_id=req-000752 Cache entry refreshed
+2026-10-09 03:33:04 [WARN] app=portal-api thread=worker-00 request_id=req-000753 User session initialized
+2026-10-09 03:33:21 [DEBUG] app=portal-api thread=worker-01 request_id=req-000754 Retry scheduled for upstream request
+2026-10-09 03:33:38 [DEBUG] app=portal-api thread=worker-02 request_id=req-000755 Request processed successfully
+2026-10-09 03:33:55 [DEBUG] app=portal-api thread=worker-03 request_id=req-000756 Connection pool utilization elevated
+2026-10-09 03:34:12 [WARN] app=portal-api thread=worker-04 request_id=req-000757 Background job completed
+2026-10-09 03:34:29 [INFO] app=portal-api thread=worker-05 request_id=req-000758 Cache entry refreshed
+2026-10-09 03:34:46 [INFO] app=portal-api thread=worker-06 request_id=req-000759 Connection pool utilization elevated
+2026-10-09 03:35:03 [INFO] app=portal-api thread=worker-07 request_id=req-000760 Input validation failed
+2026-10-09 03:35:20 [INFO] app=portal-api thread=worker-08 request_id=req-000761 Configuration loaded
+2026-10-09 03:35:37 [WARN] app=portal-api thread=worker-09 request_id=req-000762 Retry scheduled for upstream request
+2026-10-09 03:35:54 [ERROR] app=portal-api thread=worker-10 request_id=req-000763 Input validation failed
+2026-10-09 03:36:11 [INFO] app=portal-api thread=worker-11 request_id=req-000764 Connection pool utilization elevated
+2026-10-09 03:36:28 [INFO] app=portal-api thread=worker-12 request_id=req-000765 Input validation failed
+2026-10-09 03:36:45 [ERROR] app=portal-api thread=worker-13 request_id=req-000766 Retry scheduled for upstream request
+2026-10-09 03:37:02 [INFO] app=portal-api thread=worker-14 request_id=req-000767 Retry scheduled for upstream request
+2026-10-09 03:37:19 [ERROR] app=portal-api thread=worker-15 request_id=req-000768 Retry scheduled for upstream request
+2026-10-09 03:37:36 [WARN] app=portal-api thread=worker-00 request_id=req-000769 Cache entry refreshed
+2026-10-09 03:37:53 [INFO] app=portal-api thread=worker-01 request_id=req-000770 Dependency response exceeded threshold
+2026-10-09 03:38:10 [DEBUG] app=portal-api thread=worker-02 request_id=req-000771 Cache entry refreshed
+2026-10-09 03:38:27 [WARN] app=portal-api thread=worker-03 request_id=req-000772 Dependency response exceeded threshold
+2026-10-09 03:38:44 [INFO] app=portal-api thread=worker-04 request_id=req-000773 User session initialized
+2026-10-09 03:39:01 [WARN] app=portal-api thread=worker-05 request_id=req-000774 User session initialized
+2026-10-09 03:39:18 [INFO] app=portal-api thread=worker-06 request_id=req-000775 Cache entry refreshed
+2026-10-09 03:39:35 [INFO] app=portal-api thread=worker-07 request_id=req-000776 Unhandled exception caught by request handler
+2026-10-09 03:39:52 [INFO] app=portal-api thread=worker-08 request_id=req-000777 Request processed successfully
+2026-10-09 03:40:09 [WARN] app=portal-api thread=worker-09 request_id=req-000778 Configuration loaded
+2026-10-09 03:40:26 [INFO] app=portal-api thread=worker-10 request_id=req-000779 User session initialized
+2026-10-09 03:40:43 [INFO] app=portal-api thread=worker-11 request_id=req-000780 Unhandled exception caught by request handler
+2026-10-09 03:41:00 [INFO] app=portal-api thread=worker-12 request_id=req-000781 Request processed successfully
+2026-10-09 03:41:17 [WARN] app=portal-api thread=worker-13 request_id=req-000782 Dependency response exceeded threshold
+2026-10-09 03:41:34 [DEBUG] app=portal-api thread=worker-14 request_id=req-000783 User session initialized
+2026-10-09 03:41:51 [DEBUG] app=portal-api thread=worker-15 request_id=req-000784 Unhandled exception caught by request handler
+2026-10-09 03:42:08 [INFO] app=portal-api thread=worker-00 request_id=req-000785 Cache entry refreshed
+2026-10-09 03:42:25 [INFO] app=portal-api thread=worker-01 request_id=req-000786 User session initialized
+2026-10-09 03:42:42 [DEBUG] app=portal-api thread=worker-02 request_id=req-000787 Configuration loaded
+2026-10-09 03:42:59 [DEBUG] app=portal-api thread=worker-03 request_id=req-000788 Cache entry refreshed
+2026-10-09 03:43:16 [DEBUG] app=portal-api thread=worker-04 request_id=req-000789 Request processed successfully
+2026-10-09 03:43:33 [INFO] app=portal-api thread=worker-05 request_id=req-000790 Retry scheduled for upstream request
+2026-10-09 03:43:50 [INFO] app=portal-api thread=worker-06 request_id=req-000791 Connection pool utilization elevated
+2026-10-09 03:44:07 [INFO] app=portal-api thread=worker-07 request_id=req-000792 Connection pool utilization elevated
+2026-10-09 03:44:24 [DEBUG] app=portal-api thread=worker-08 request_id=req-000793 Input validation failed
+2026-10-09 03:44:41 [WARN] app=portal-api thread=worker-09 request_id=req-000794 User session initialized
+2026-10-09 03:44:58 [DEBUG] app=portal-api thread=worker-10 request_id=req-000795 Retry scheduled for upstream request
+2026-10-09 03:45:15 [INFO] app=portal-api thread=worker-11 request_id=req-000796 User session initialized
+2026-10-09 03:45:32 [INFO] app=portal-api thread=worker-12 request_id=req-000797 Request processed successfully
+2026-10-09 03:45:49 [INFO] app=portal-api thread=worker-13 request_id=req-000798 Request processed successfully
+2026-10-09 03:46:06 [WARN] app=portal-api thread=worker-14 request_id=req-000799 Retry scheduled for upstream request
+2026-10-09 03:46:23 [INFO] app=portal-api thread=worker-15 request_id=req-000800 Retry scheduled for upstream request
+2026-10-09 03:46:40 [INFO] app=portal-api thread=worker-00 request_id=req-000801 Cache entry refreshed
+2026-10-09 03:46:57 [WARN] app=portal-api thread=worker-01 request_id=req-000802 Dependency response exceeded threshold
+2026-10-09 03:47:14 [ERROR] app=portal-api thread=worker-02 request_id=req-000803 Dependency response exceeded threshold
+2026-10-09 03:47:31 [DEBUG] app=portal-api thread=worker-03 request_id=req-000804 Cache entry refreshed
+2026-10-09 03:47:48 [INFO] app=portal-api thread=worker-04 request_id=req-000805 Dependency response exceeded threshold
+2026-10-09 03:48:05 [INFO] app=portal-api thread=worker-05 request_id=req-000806 Configuration loaded
+2026-10-09 03:48:22 [INFO] app=portal-api thread=worker-06 request_id=req-000807 Configuration loaded
+2026-10-09 03:48:39 [WARN] app=portal-api thread=worker-07 request_id=req-000808 Retry scheduled for upstream request
+2026-10-09 03:48:56 [ERROR] app=portal-api thread=worker-08 request_id=req-000809 Connection pool utilization elevated
+2026-10-09 03:49:13 [INFO] app=portal-api thread=worker-09 request_id=req-000810 Connection pool utilization elevated
+2026-10-09 03:49:30 [INFO] app=portal-api thread=worker-10 request_id=req-000811 User session initialized
+2026-10-09 03:49:47 [WARN] app=portal-api thread=worker-11 request_id=req-000812 Configuration loaded
+2026-10-09 03:50:04 [INFO] app=portal-api thread=worker-12 request_id=req-000813 User session initialized
+2026-10-09 03:50:21 [WARN] app=portal-api thread=worker-13 request_id=req-000814 Retry scheduled for upstream request
+2026-10-09 03:50:38 [INFO] app=portal-api thread=worker-14 request_id=req-000815 Retry scheduled for upstream request
+2026-10-09 03:50:55 [INFO] app=portal-api thread=worker-15 request_id=req-000816 Input validation failed
+2026-10-09 03:51:12 [DEBUG] app=portal-api thread=worker-00 request_id=req-000817 Input validation failed
+2026-10-09 03:51:29 [INFO] app=portal-api thread=worker-01 request_id=req-000818 Cache entry refreshed
+2026-10-09 03:51:46 [INFO] app=portal-api thread=worker-02 request_id=req-000819 Dependency response exceeded threshold
+2026-10-09 03:52:03 [INFO] app=portal-api thread=worker-03 request_id=req-000820 Connection pool utilization elevated
+2026-10-09 03:52:20 [INFO] app=portal-api thread=worker-04 request_id=req-000821 Request processed successfully
+2026-10-09 03:52:37 [DEBUG] app=portal-api thread=worker-05 request_id=req-000822 Request processed successfully
+2026-10-09 03:52:54 [INFO] app=portal-api thread=worker-06 request_id=req-000823 Cache entry refreshed
+2026-10-09 03:53:11 [INFO] app=portal-api thread=worker-07 request_id=req-000824 Retry scheduled for upstream request
+2026-10-09 03:53:28 [INFO] app=portal-api thread=worker-08 request_id=req-000825 Retry scheduled for upstream request
+2026-10-09 03:53:45 [DEBUG] app=portal-api thread=worker-09 request_id=req-000826 Background job completed
+2026-10-09 03:54:02 [INFO] app=portal-api thread=worker-10 request_id=req-000827 Input validation failed
+2026-10-09 03:54:19 [INFO] app=portal-api thread=worker-11 request_id=req-000828 Dependency response exceeded threshold
+2026-10-09 03:54:36 [INFO] app=portal-api thread=worker-12 request_id=req-000829 User session initialized
+2026-10-09 03:54:53 [DEBUG] app=portal-api thread=worker-13 request_id=req-000830 Retry scheduled for upstream request
+2026-10-09 03:55:10 [DEBUG] app=portal-api thread=worker-14 request_id=req-000831 Input validation failed
+2026-10-09 03:55:27 [INFO] app=portal-api thread=worker-15 request_id=req-000832 User session initialized
+2026-10-09 03:55:44 [INFO] app=portal-api thread=worker-00 request_id=req-000833 Input validation failed
+2026-10-09 03:56:01 [INFO] app=portal-api thread=worker-01 request_id=req-000834 Cache entry refreshed
+2026-10-09 03:56:18 [ERROR] app=portal-api thread=worker-02 request_id=req-000835 Cache entry refreshed
+2026-10-09 03:56:35 [WARN] app=portal-api thread=worker-03 request_id=req-000836 Dependency response exceeded threshold
+2026-10-09 03:56:52 [INFO] app=portal-api thread=worker-04 request_id=req-000837 Request processed successfully
+2026-10-09 03:57:09 [INFO] app=portal-api thread=worker-05 request_id=req-000838 Retry scheduled for upstream request
+2026-10-09 03:57:26 [INFO] app=portal-api thread=worker-06 request_id=req-000839 Unhandled exception caught by request handler
+2026-10-09 03:57:43 [INFO] app=portal-api thread=worker-07 request_id=req-000840 Cache entry refreshed
+2026-10-09 03:58:00 [DEBUG] app=portal-api thread=worker-08 request_id=req-000841 Retry scheduled for upstream request
+2026-10-09 03:58:17 [INFO] app=portal-api thread=worker-09 request_id=req-000842 Request processed successfully
+2026-10-09 03:58:34 [DEBUG] app=portal-api thread=worker-10 request_id=req-000843 Connection pool utilization elevated
+2026-10-09 03:58:51 [INFO] app=portal-api thread=worker-11 request_id=req-000844 Retry scheduled for upstream request
+2026-10-09 03:59:08 [DEBUG] app=portal-api thread=worker-12 request_id=req-000845 Configuration loaded
+2026-10-09 03:59:25 [ERROR] app=portal-api thread=worker-13 request_id=req-000846 User session initialized
+2026-10-09 03:59:42 [DEBUG] app=portal-api thread=worker-14 request_id=req-000847 Dependency response exceeded threshold
+2026-10-09 03:59:59 [INFO] app=portal-api thread=worker-15 request_id=req-000848 Connection pool utilization elevated
+2026-10-09 04:00:16 [INFO] app=portal-api thread=worker-00 request_id=req-000849 Background job completed
+2026-10-09 04:00:33 [DEBUG] app=portal-api thread=worker-01 request_id=req-000850 Configuration loaded
+2026-10-09 04:00:50 [ERROR] app=portal-api thread=worker-02 request_id=req-000851 Background job completed
+2026-10-09 04:01:07 [DEBUG] app=portal-api thread=worker-03 request_id=req-000852 Dependency response exceeded threshold
+2026-10-09 04:01:24 [INFO] app=portal-api thread=worker-04 request_id=req-000853 Cache entry refreshed
+2026-10-09 04:01:41 [WARN] app=portal-api thread=worker-05 request_id=req-000854 Dependency response exceeded threshold
+2026-10-09 04:01:58 [INFO] app=portal-api thread=worker-06 request_id=req-000855 Dependency response exceeded threshold
+2026-10-09 04:02:15 [ERROR] app=portal-api thread=worker-07 request_id=req-000856 Retry scheduled for upstream request
+2026-10-09 04:02:32 [DEBUG] app=portal-api thread=worker-08 request_id=req-000857 Request processed successfully
+2026-10-09 04:02:49 [INFO] app=portal-api thread=worker-09 request_id=req-000858 Background job completed
+2026-10-09 04:03:06 [WARN] app=portal-api thread=worker-10 request_id=req-000859 Cache entry refreshed
+2026-10-09 04:03:23 [DEBUG] app=portal-api thread=worker-11 request_id=req-000860 Cache entry refreshed
+2026-10-09 04:03:40 [WARN] app=portal-api thread=worker-12 request_id=req-000861 Connection pool utilization elevated
+2026-10-09 04:03:57 [INFO] app=portal-api thread=worker-13 request_id=req-000862 Configuration loaded
+2026-10-09 04:04:14 [WARN] app=portal-api thread=worker-14 request_id=req-000863 Configuration loaded
+2026-10-09 04:04:31 [WARN] app=portal-api thread=worker-15 request_id=req-000864 User session initialized
+2026-10-09 04:04:48 [INFO] app=portal-api thread=worker-00 request_id=req-000865 Unhandled exception caught by request handler
+2026-10-09 04:05:05 [INFO] app=portal-api thread=worker-01 request_id=req-000866 Connection pool utilization elevated
+2026-10-09 04:05:22 [INFO] app=portal-api thread=worker-02 request_id=req-000867 Request processed successfully
+2026-10-09 04:05:39 [INFO] app=portal-api thread=worker-03 request_id=req-000868 Input validation failed
+2026-10-09 04:05:56 [ERROR] app=portal-api thread=worker-04 request_id=req-000869 Dependency response exceeded threshold
+2026-10-09 04:06:13 [INFO] app=portal-api thread=worker-05 request_id=req-000870 Input validation failed
+2026-10-09 04:06:30 [WARN] app=portal-api thread=worker-06 request_id=req-000871 Request processed successfully
+2026-10-09 04:06:47 [INFO] app=portal-api thread=worker-07 request_id=req-000872 Retry scheduled for upstream request
+2026-10-09 04:07:04 [DEBUG] app=portal-api thread=worker-08 request_id=req-000873 Dependency response exceeded threshold
+2026-10-09 04:07:21 [INFO] app=portal-api thread=worker-09 request_id=req-000874 Connection pool utilization elevated
+2026-10-09 04:07:38 [INFO] app=portal-api thread=worker-10 request_id=req-000875 Connection pool utilization elevated
+2026-10-09 04:07:55 [DEBUG] app=portal-api thread=worker-11 request_id=req-000876 Cache entry refreshed
+2026-10-09 04:08:12 [WARN] app=portal-api thread=worker-12 request_id=req-000877 Cache entry refreshed
+2026-10-09 04:08:29 [INFO] app=portal-api thread=worker-13 request_id=req-000878 User session initialized
+2026-10-09 04:08:46 [WARN] app=portal-api thread=worker-14 request_id=req-000879 Connection pool utilization elevated
+2026-10-09 04:09:03 [INFO] app=portal-api thread=worker-15 request_id=req-000880 Cache entry refreshed
+2026-10-09 04:09:20 [INFO] app=portal-api thread=worker-00 request_id=req-000881 Configuration loaded
+2026-10-09 04:09:37 [INFO] app=portal-api thread=worker-01 request_id=req-000882 Connection pool utilization elevated
+2026-10-09 04:09:54 [WARN] app=portal-api thread=worker-02 request_id=req-000883 Request processed successfully
+2026-10-09 04:10:11 [INFO] app=portal-api thread=worker-03 request_id=req-000884 Connection pool utilization elevated
+2026-10-09 04:10:28 [INFO] app=portal-api thread=worker-04 request_id=req-000885 Background job completed
+2026-10-09 04:10:45 [DEBUG] app=portal-api thread=worker-05 request_id=req-000886 Request processed successfully
+2026-10-09 04:11:02 [INFO] app=portal-api thread=worker-06 request_id=req-000887 Cache entry refreshed
+2026-10-09 04:11:19 [DEBUG] app=portal-api thread=worker-07 request_id=req-000888 Unhandled exception caught by request handler
+2026-10-09 04:11:36 [INFO] app=portal-api thread=worker-08 request_id=req-000889 Unhandled exception caught by request handler
+2026-10-09 04:11:53 [DEBUG] app=portal-api thread=worker-09 request_id=req-000890 Unhandled exception caught by request handler
+2026-10-09 04:12:10 [INFO] app=portal-api thread=worker-10 request_id=req-000891 Unhandled exception caught by request handler
+2026-10-09 04:12:27 [INFO] app=portal-api thread=worker-11 request_id=req-000892 User session initialized
+2026-10-09 04:12:44 [INFO] app=portal-api thread=worker-12 request_id=req-000893 Unhandled exception caught by request handler
+2026-10-09 04:13:01 [INFO] app=portal-api thread=worker-13 request_id=req-000894 Configuration loaded
+2026-10-09 04:13:18 [WARN] app=portal-api thread=worker-14 request_id=req-000895 Input validation failed
+2026-10-09 04:13:35 [DEBUG] app=portal-api thread=worker-15 request_id=req-000896 User session initialized
+2026-10-09 04:13:52 [INFO] app=portal-api thread=worker-00 request_id=req-000897 Connection pool utilization elevated
+2026-10-09 04:14:09 [INFO] app=portal-api thread=worker-01 request_id=req-000898 Background job completed
+2026-10-09 04:14:26 [INFO] app=portal-api thread=worker-02 request_id=req-000899 Input validation failed
+2026-10-09 04:14:43 [INFO] app=portal-api thread=worker-03 request_id=req-000900 Request processed successfully
+2026-10-09 04:15:00 [DEBUG] app=portal-api thread=worker-04 request_id=req-000901 Cache entry refreshed
+2026-10-09 04:15:17 [INFO] app=portal-api thread=worker-05 request_id=req-000902 Dependency response exceeded threshold
+2026-10-09 04:15:34 [INFO] app=portal-api thread=worker-06 request_id=req-000903 Retry scheduled for upstream request
+2026-10-09 04:15:51 [DEBUG] app=portal-api thread=worker-07 request_id=req-000904 Retry scheduled for upstream request
+2026-10-09 04:16:08 [WARN] app=portal-api thread=worker-08 request_id=req-000905 Retry scheduled for upstream request
+2026-10-09 04:16:25 [DEBUG] app=portal-api thread=worker-09 request_id=req-000906 Retry scheduled for upstream request
+2026-10-09 04:16:42 [ERROR] app=portal-api thread=worker-10 request_id=req-000907 Cache entry refreshed
+2026-10-09 04:16:59 [WARN] app=portal-api thread=worker-11 request_id=req-000908 Connection pool utilization elevated
+2026-10-09 04:17:16 [DEBUG] app=portal-api thread=worker-12 request_id=req-000909 Retry scheduled for upstream request
+2026-10-09 04:17:33 [INFO] app=portal-api thread=worker-13 request_id=req-000910 Request processed successfully
+2026-10-09 04:17:50 [INFO] app=portal-api thread=worker-14 request_id=req-000911 Configuration loaded
+2026-10-09 04:18:07 [INFO] app=portal-api thread=worker-15 request_id=req-000912 User session initialized
+2026-10-09 04:18:24 [INFO] app=portal-api thread=worker-00 request_id=req-000913 Input validation failed
+2026-10-09 04:18:41 [WARN] app=portal-api thread=worker-01 request_id=req-000914 Input validation failed
+2026-10-09 04:18:58 [INFO] app=portal-api thread=worker-02 request_id=req-000915 Cache entry refreshed
+2026-10-09 04:19:15 [WARN] app=portal-api thread=worker-03 request_id=req-000916 Unhandled exception caught by request handler
+2026-10-09 04:19:32 [DEBUG] app=portal-api thread=worker-04 request_id=req-000917 Configuration loaded
+2026-10-09 04:19:49 [WARN] app=portal-api thread=worker-05 request_id=req-000918 Dependency response exceeded threshold
+2026-10-09 04:20:06 [ERROR] app=portal-api thread=worker-06 request_id=req-000919 Dependency response exceeded threshold
+2026-10-09 04:20:23 [INFO] app=portal-api thread=worker-07 request_id=req-000920 Background job completed
+2026-10-09 04:20:40 [INFO] app=portal-api thread=worker-08 request_id=req-000921 Request processed successfully
+2026-10-09 04:20:57 [ERROR] app=portal-api thread=worker-09 request_id=req-000922 Connection pool utilization elevated
+2026-10-09 04:21:14 [INFO] app=portal-api thread=worker-10 request_id=req-000923 Configuration loaded
+2026-10-09 04:21:31 [INFO] app=portal-api thread=worker-11 request_id=req-000924 Retry scheduled for upstream request
+2026-10-09 04:21:48 [INFO] app=portal-api thread=worker-12 request_id=req-000925 Background job completed
+2026-10-09 04:22:05 [INFO] app=portal-api thread=worker-13 request_id=req-000926 Dependency response exceeded threshold
+2026-10-09 04:22:22 [INFO] app=portal-api thread=worker-14 request_id=req-000927 User session initialized
+2026-10-09 04:22:39 [WARN] app=portal-api thread=worker-15 request_id=req-000928 Input validation failed
+2026-10-09 04:22:56 [INFO] app=portal-api thread=worker-00 request_id=req-000929 Background job completed
+2026-10-09 04:23:13 [DEBUG] app=portal-api thread=worker-01 request_id=req-000930 Input validation failed
+2026-10-09 04:23:30 [INFO] app=portal-api thread=worker-02 request_id=req-000931 Input validation failed
+2026-10-09 04:23:47 [INFO] app=portal-api thread=worker-03 request_id=req-000932 Connection pool utilization elevated
+2026-10-09 04:24:04 [INFO] app=portal-api thread=worker-04 request_id=req-000933 Connection pool utilization elevated
+2026-10-09 04:24:21 [INFO] app=portal-api thread=worker-05 request_id=req-000934 Input validation failed
+2026-10-09 04:24:38 [INFO] app=portal-api thread=worker-06 request_id=req-000935 Connection pool utilization elevated
+2026-10-09 04:24:55 [INFO] app=portal-api thread=worker-07 request_id=req-000936 Unhandled exception caught by request handler
+2026-10-09 04:25:12 [DEBUG] app=portal-api thread=worker-08 request_id=req-000937 Request processed successfully
+2026-10-09 04:25:29 [INFO] app=portal-api thread=worker-09 request_id=req-000938 Request processed successfully
+2026-10-09 04:25:46 [INFO] app=portal-api thread=worker-10 request_id=req-000939 Retry scheduled for upstream request
+2026-10-09 04:26:03 [DEBUG] app=portal-api thread=worker-11 request_id=req-000940 Retry scheduled for upstream request
+2026-10-09 04:26:20 [WARN] app=portal-api thread=worker-12 request_id=req-000941 Configuration loaded
+2026-10-09 04:26:37 [DEBUG] app=portal-api thread=worker-13 request_id=req-000942 Input validation failed
+2026-10-09 04:26:54 [INFO] app=portal-api thread=worker-14 request_id=req-000943 User session initialized
+2026-10-09 04:27:11 [INFO] app=portal-api thread=worker-15 request_id=req-000944 Retry scheduled for upstream request
+2026-10-09 04:27:28 [WARN] app=portal-api thread=worker-00 request_id=req-000945 Connection pool utilization elevated
+2026-10-09 04:27:45 [INFO] app=portal-api thread=worker-01 request_id=req-000946 Unhandled exception caught by request handler
+2026-10-09 04:28:02 [WARN] app=portal-api thread=worker-02 request_id=req-000947 Cache entry refreshed
+2026-10-09 04:28:19 [INFO] app=portal-api thread=worker-03 request_id=req-000948 Unhandled exception caught by request handler
+2026-10-09 04:28:36 [INFO] app=portal-api thread=worker-04 request_id=req-000949 Input validation failed
+2026-10-09 04:28:53 [ERROR] app=portal-api thread=worker-05 request_id=req-000950 Background job completed
+2026-10-09 04:29:10 [DEBUG] app=portal-api thread=worker-06 request_id=req-000951 Connection pool utilization elevated
+2026-10-09 04:29:27 [WARN] app=portal-api thread=worker-07 request_id=req-000952 Connection pool utilization elevated
+2026-10-09 04:29:44 [INFO] app=portal-api thread=worker-08 request_id=req-000953 Unhandled exception caught by request handler
+2026-10-09 04:30:01 [INFO] app=portal-api thread=worker-09 request_id=req-000954 User session initialized
+2026-10-09 04:30:18 [INFO] app=portal-api thread=worker-10 request_id=req-000955 Request processed successfully
+2026-10-09 04:30:35 [ERROR] app=portal-api thread=worker-11 request_id=req-000956 Unhandled exception caught by request handler
+2026-10-09 04:30:52 [INFO] app=portal-api thread=worker-12 request_id=req-000957 User session initialized
+2026-10-09 04:31:09 [DEBUG] app=portal-api thread=worker-13 request_id=req-000958 Background job completed
+2026-10-09 04:31:26 [ERROR] app=portal-api thread=worker-14 request_id=req-000959 Unhandled exception caught by request handler
+2026-10-09 04:31:43 [DEBUG] app=portal-api thread=worker-15 request_id=req-000960 User session initialized
+2026-10-09 04:32:00 [DEBUG] app=portal-api thread=worker-00 request_id=req-000961 Cache entry refreshed
+2026-10-09 04:32:17 [INFO] app=portal-api thread=worker-01 request_id=req-000962 Unhandled exception caught by request handler
+2026-10-09 04:32:34 [WARN] app=portal-api thread=worker-02 request_id=req-000963 Input validation failed
+2026-10-09 04:32:51 [INFO] app=portal-api thread=worker-03 request_id=req-000964 Configuration loaded
+2026-10-09 04:33:08 [INFO] app=portal-api thread=worker-04 request_id=req-000965 Request processed successfully
+2026-10-09 04:33:25 [INFO] app=portal-api thread=worker-05 request_id=req-000966 Dependency response exceeded threshold
+2026-10-09 04:33:42 [INFO] app=portal-api thread=worker-06 request_id=req-000967 Cache entry refreshed
+2026-10-09 04:33:59 [INFO] app=portal-api thread=worker-07 request_id=req-000968 Configuration loaded
+2026-10-09 04:34:16 [INFO] app=portal-api thread=worker-08 request_id=req-000969 Unhandled exception caught by request handler
+2026-10-09 04:34:33 [WARN] app=portal-api thread=worker-09 request_id=req-000970 User session initialized
+2026-10-09 04:34:50 [DEBUG] app=portal-api thread=worker-10 request_id=req-000971 Connection pool utilization elevated
+2026-10-09 04:35:07 [INFO] app=portal-api thread=worker-11 request_id=req-000972 Retry scheduled for upstream request
+2026-10-09 04:35:24 [ERROR] app=portal-api thread=worker-12 request_id=req-000973 Dependency response exceeded threshold
+2026-10-09 04:35:41 [INFO] app=portal-api thread=worker-13 request_id=req-000974 Retry scheduled for upstream request
+2026-10-09 04:35:58 [ERROR] app=portal-api thread=worker-14 request_id=req-000975 Dependency response exceeded threshold
+2026-10-09 04:36:15 [WARN] app=portal-api thread=worker-15 request_id=req-000976 Retry scheduled for upstream request
+2026-10-09 04:36:32 [INFO] app=portal-api thread=worker-00 request_id=req-000977 Background job completed
+2026-10-09 04:36:49 [DEBUG] app=portal-api thread=worker-01 request_id=req-000978 Configuration loaded
+2026-10-09 04:37:06 [ERROR] app=portal-api thread=worker-02 request_id=req-000979 Background job completed
+2026-10-09 04:37:23 [DEBUG] app=portal-api thread=worker-03 request_id=req-000980 Configuration loaded
+2026-10-09 04:37:40 [ERROR] app=portal-api thread=worker-04 request_id=req-000981 Background job completed
+2026-10-09 04:37:57 [WARN] app=portal-api thread=worker-05 request_id=req-000982 Configuration loaded
+2026-10-09 04:38:14 [DEBUG] app=portal-api thread=worker-06 request_id=req-000983 Dependency response exceeded threshold
+2026-10-09 04:38:31 [INFO] app=portal-api thread=worker-07 request_id=req-000984 Retry scheduled for upstream request
+2026-10-09 04:38:48 [DEBUG] app=portal-api thread=worker-08 request_id=req-000985 Background job completed
+2026-10-09 04:39:05 [INFO] app=portal-api thread=worker-09 request_id=req-000986 Unhandled exception caught by request handler
+2026-10-09 04:39:22 [DEBUG] app=portal-api thread=worker-10 request_id=req-000987 Input validation failed
+2026-10-09 04:39:39 [WARN] app=portal-api thread=worker-11 request_id=req-000988 Input validation failed
+2026-10-09 04:39:56 [WARN] app=portal-api thread=worker-12 request_id=req-000989 Cache entry refreshed
+2026-10-09 04:40:13 [INFO] app=portal-api thread=worker-13 request_id=req-000990 Background job completed
+2026-10-09 04:40:30 [ERROR] app=portal-api thread=worker-14 request_id=req-000991 Request processed successfully
+2026-10-09 04:40:47 [INFO] app=portal-api thread=worker-15 request_id=req-000992 Dependency response exceeded threshold
+2026-10-09 04:41:04 [DEBUG] app=portal-api thread=worker-00 request_id=req-000993 Dependency response exceeded threshold
+2026-10-09 04:41:21 [INFO] app=portal-api thread=worker-01 request_id=req-000994 Connection pool utilization elevated
+2026-10-09 04:41:38 [INFO] app=portal-api thread=worker-02 request_id=req-000995 Connection pool utilization elevated
+2026-10-09 04:41:55 [DEBUG] app=portal-api thread=worker-03 request_id=req-000996 Cache entry refreshed
+2026-10-09 04:42:12 [INFO] app=portal-api thread=worker-04 request_id=req-000997 Unhandled exception caught by request handler
+2026-10-09 04:42:29 [INFO] app=portal-api thread=worker-05 request_id=req-000998 User session initialized
+2026-10-09 04:42:46 [DEBUG] app=portal-api thread=worker-06 request_id=req-000999 Connection pool utilization elevated
+2026-10-09 04:43:03 [INFO] app=portal-api thread=worker-07 request_id=req-001000 Configuration loaded

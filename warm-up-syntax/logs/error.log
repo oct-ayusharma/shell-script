@@ -1,0 +1,1000 @@
+2026-10-09 00:00:00 [ERROR] component=billing exception=ValidationError code=E1000 message="Required field missing from request" trace_id=tr-0000001
+2026-10-09 00:00:11 [CRITICAL] component=auth exception=ResourceExhausted code=E1001 message="Worker capacity limit reached" trace_id=tr-0000002
+2026-10-09 00:00:22 [ERROR] component=gateway exception=ConnectionError code=E1002 message="Connection refused by dependency" trace_id=tr-0000003
+2026-10-09 00:00:33 [ERROR] component=gateway exception=ConnectionError code=E1003 message="Connection refused by dependency" trace_id=tr-0000004
+2026-10-09 00:00:44 [WARN] component=gateway exception=RetryLimitWarning code=E1004 message="Retry threshold nearly reached" trace_id=tr-0000005
+2026-10-09 00:00:55 [CRITICAL] component=gateway exception=ResourceExhausted code=E1005 message="Worker capacity limit reached" trace_id=tr-0000006
+2026-10-09 00:01:06 [ERROR] component=gateway exception=ValidationError code=E1006 message="Required field missing from request" trace_id=tr-0000007
+2026-10-09 00:01:17 [WARN] component=auth exception=RetryLimitWarning code=E1007 message="Retry threshold nearly reached" trace_id=tr-0000008
+2026-10-09 00:01:28 [WARN] component=auth exception=RetryLimitWarning code=E1008 message="Retry threshold nearly reached" trace_id=tr-0000009
+2026-10-09 00:01:39 [ERROR] component=storage exception=ValidationError code=E1009 message="Required field missing from request" trace_id=tr-0000010
+2026-10-09 00:01:50 [ERROR] component=auth exception=ValidationError code=E1010 message="Required field missing from request" trace_id=tr-0000011
+2026-10-09 00:02:01 [WARN] component=billing exception=RetryLimitWarning code=E1011 message="Retry threshold nearly reached" trace_id=tr-0000012
+2026-10-09 00:02:12 [ERROR] component=auth exception=ValidationError code=E1012 message="Required field missing from request" trace_id=tr-0000013
+2026-10-09 00:02:23 [WARN] component=storage exception=RetryLimitWarning code=E1013 message="Retry threshold nearly reached" trace_id=tr-0000014
+2026-10-09 00:02:34 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1014 message="Worker capacity limit reached" trace_id=tr-0000015
+2026-10-09 00:02:45 [ERROR] component=billing exception=TimeoutError code=E1015 message="Upstream service timed out" trace_id=tr-0000016
+2026-10-09 00:02:56 [ERROR] component=billing exception=ConnectionError code=E1016 message="Connection refused by dependency" trace_id=tr-0000017
+2026-10-09 00:03:07 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1017 message="Worker capacity limit reached" trace_id=tr-0000018
+2026-10-09 00:03:18 [ERROR] component=scheduler exception=ValidationError code=E1018 message="Required field missing from request" trace_id=tr-0000019
+2026-10-09 00:03:29 [ERROR] component=gateway exception=ConnectionError code=E1019 message="Connection refused by dependency" trace_id=tr-0000020
+2026-10-09 00:03:40 [ERROR] component=auth exception=ConnectionError code=E1020 message="Connection refused by dependency" trace_id=tr-0000021
+2026-10-09 00:03:51 [WARN] component=gateway exception=RetryLimitWarning code=E1021 message="Retry threshold nearly reached" trace_id=tr-0000022
+2026-10-09 00:04:02 [ERROR] component=gateway exception=ConnectionError code=E1022 message="Connection refused by dependency" trace_id=tr-0000023
+2026-10-09 00:04:13 [ERROR] component=auth exception=TimeoutError code=E1023 message="Upstream service timed out" trace_id=tr-0000024
+2026-10-09 00:04:24 [WARN] component=gateway exception=RetryLimitWarning code=E1024 message="Retry threshold nearly reached" trace_id=tr-0000025
+2026-10-09 00:04:35 [ERROR] component=billing exception=ConnectionError code=E1025 message="Connection refused by dependency" trace_id=tr-0000026
+2026-10-09 00:04:46 [ERROR] component=billing exception=ValidationError code=E1026 message="Required field missing from request" trace_id=tr-0000027
+2026-10-09 00:04:57 [WARN] component=auth exception=RetryLimitWarning code=E1027 message="Retry threshold nearly reached" trace_id=tr-0000028
+2026-10-09 00:05:08 [ERROR] component=storage exception=ConnectionError code=E1028 message="Connection refused by dependency" trace_id=tr-0000029
+2026-10-09 00:05:19 [WARN] component=scheduler exception=RetryLimitWarning code=E1029 message="Retry threshold nearly reached" trace_id=tr-0000030
+2026-10-09 00:05:30 [WARN] component=scheduler exception=RetryLimitWarning code=E1030 message="Retry threshold nearly reached" trace_id=tr-0000031
+2026-10-09 00:05:41 [WARN] component=scheduler exception=RetryLimitWarning code=E1031 message="Retry threshold nearly reached" trace_id=tr-0000032
+2026-10-09 00:05:52 [ERROR] component=auth exception=TimeoutError code=E1032 message="Upstream service timed out" trace_id=tr-0000033
+2026-10-09 00:06:03 [ERROR] component=billing exception=ValidationError code=E1033 message="Required field missing from request" trace_id=tr-0000034
+2026-10-09 00:06:14 [CRITICAL] component=auth exception=ResourceExhausted code=E1034 message="Worker capacity limit reached" trace_id=tr-0000035
+2026-10-09 00:06:25 [CRITICAL] component=storage exception=ResourceExhausted code=E1035 message="Worker capacity limit reached" trace_id=tr-0000036
+2026-10-09 00:06:36 [ERROR] component=auth exception=ConnectionError code=E1036 message="Connection refused by dependency" trace_id=tr-0000037
+2026-10-09 00:06:47 [ERROR] component=billing exception=TimeoutError code=E1037 message="Upstream service timed out" trace_id=tr-0000038
+2026-10-09 00:06:58 [ERROR] component=gateway exception=ConnectionError code=E1038 message="Connection refused by dependency" trace_id=tr-0000039
+2026-10-09 00:07:09 [CRITICAL] component=billing exception=ResourceExhausted code=E1039 message="Worker capacity limit reached" trace_id=tr-0000040
+2026-10-09 00:07:20 [ERROR] component=scheduler exception=TimeoutError code=E1040 message="Upstream service timed out" trace_id=tr-0000041
+2026-10-09 00:07:31 [ERROR] component=storage exception=ValidationError code=E1041 message="Required field missing from request" trace_id=tr-0000042
+2026-10-09 00:07:42 [CRITICAL] component=billing exception=ResourceExhausted code=E1042 message="Worker capacity limit reached" trace_id=tr-0000043
+2026-10-09 00:07:53 [ERROR] component=auth exception=TimeoutError code=E1043 message="Upstream service timed out" trace_id=tr-0000044
+2026-10-09 00:08:04 [CRITICAL] component=gateway exception=ResourceExhausted code=E1044 message="Worker capacity limit reached" trace_id=tr-0000045
+2026-10-09 00:08:15 [WARN] component=storage exception=RetryLimitWarning code=E1045 message="Retry threshold nearly reached" trace_id=tr-0000046
+2026-10-09 00:08:26 [ERROR] component=storage exception=ValidationError code=E1046 message="Required field missing from request" trace_id=tr-0000047
+2026-10-09 00:08:37 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1047 message="Worker capacity limit reached" trace_id=tr-0000048
+2026-10-09 00:08:48 [ERROR] component=gateway exception=ConnectionError code=E1048 message="Connection refused by dependency" trace_id=tr-0000049
+2026-10-09 00:08:59 [WARN] component=gateway exception=RetryLimitWarning code=E1049 message="Retry threshold nearly reached" trace_id=tr-0000050
+2026-10-09 00:09:10 [ERROR] component=billing exception=ConnectionError code=E1050 message="Connection refused by dependency" trace_id=tr-0000051
+2026-10-09 00:09:21 [WARN] component=auth exception=RetryLimitWarning code=E1051 message="Retry threshold nearly reached" trace_id=tr-0000052
+2026-10-09 00:09:32 [ERROR] component=billing exception=ConnectionError code=E1052 message="Connection refused by dependency" trace_id=tr-0000053
+2026-10-09 00:09:43 [ERROR] component=billing exception=ConnectionError code=E1053 message="Connection refused by dependency" trace_id=tr-0000054
+2026-10-09 00:09:54 [ERROR] component=storage exception=TimeoutError code=E1054 message="Upstream service timed out" trace_id=tr-0000055
+2026-10-09 00:10:05 [ERROR] component=billing exception=ValidationError code=E1055 message="Required field missing from request" trace_id=tr-0000056
+2026-10-09 00:10:16 [ERROR] component=gateway exception=TimeoutError code=E1056 message="Upstream service timed out" trace_id=tr-0000057
+2026-10-09 00:10:27 [ERROR] component=scheduler exception=TimeoutError code=E1057 message="Upstream service timed out" trace_id=tr-0000058
+2026-10-09 00:10:38 [CRITICAL] component=storage exception=ResourceExhausted code=E1058 message="Worker capacity limit reached" trace_id=tr-0000059
+2026-10-09 00:10:49 [ERROR] component=auth exception=ValidationError code=E1059 message="Required field missing from request" trace_id=tr-0000060
+2026-10-09 00:11:00 [ERROR] component=auth exception=ValidationError code=E1060 message="Required field missing from request" trace_id=tr-0000061
+2026-10-09 00:11:11 [ERROR] component=auth exception=TimeoutError code=E1061 message="Upstream service timed out" trace_id=tr-0000062
+2026-10-09 00:11:22 [ERROR] component=auth exception=TimeoutError code=E1062 message="Upstream service timed out" trace_id=tr-0000063
+2026-10-09 00:11:33 [WARN] component=scheduler exception=RetryLimitWarning code=E1063 message="Retry threshold nearly reached" trace_id=tr-0000064
+2026-10-09 00:11:44 [WARN] component=auth exception=RetryLimitWarning code=E1064 message="Retry threshold nearly reached" trace_id=tr-0000065
+2026-10-09 00:11:55 [ERROR] component=gateway exception=ValidationError code=E1065 message="Required field missing from request" trace_id=tr-0000066
+2026-10-09 00:12:06 [WARN] component=billing exception=RetryLimitWarning code=E1066 message="Retry threshold nearly reached" trace_id=tr-0000067
+2026-10-09 00:12:17 [ERROR] component=auth exception=ConnectionError code=E1067 message="Connection refused by dependency" trace_id=tr-0000068
+2026-10-09 00:12:28 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1068 message="Worker capacity limit reached" trace_id=tr-0000069
+2026-10-09 00:12:39 [ERROR] component=storage exception=TimeoutError code=E1069 message="Upstream service timed out" trace_id=tr-0000070
+2026-10-09 00:12:50 [CRITICAL] component=storage exception=ResourceExhausted code=E1070 message="Worker capacity limit reached" trace_id=tr-0000071
+2026-10-09 00:13:01 [ERROR] component=billing exception=ValidationError code=E1071 message="Required field missing from request" trace_id=tr-0000072
+2026-10-09 00:13:12 [WARN] component=auth exception=RetryLimitWarning code=E1072 message="Retry threshold nearly reached" trace_id=tr-0000073
+2026-10-09 00:13:23 [ERROR] component=storage exception=ValidationError code=E1073 message="Required field missing from request" trace_id=tr-0000074
+2026-10-09 00:13:34 [ERROR] component=gateway exception=TimeoutError code=E1074 message="Upstream service timed out" trace_id=tr-0000075
+2026-10-09 00:13:45 [ERROR] component=auth exception=TimeoutError code=E1075 message="Upstream service timed out" trace_id=tr-0000076
+2026-10-09 00:13:56 [WARN] component=billing exception=RetryLimitWarning code=E1076 message="Retry threshold nearly reached" trace_id=tr-0000077
+2026-10-09 00:14:07 [ERROR] component=billing exception=ValidationError code=E1077 message="Required field missing from request" trace_id=tr-0000078
+2026-10-09 00:14:18 [CRITICAL] component=storage exception=ResourceExhausted code=E1078 message="Worker capacity limit reached" trace_id=tr-0000079
+2026-10-09 00:14:29 [ERROR] component=gateway exception=ConnectionError code=E1079 message="Connection refused by dependency" trace_id=tr-0000080
+2026-10-09 00:14:40 [WARN] component=gateway exception=RetryLimitWarning code=E1080 message="Retry threshold nearly reached" trace_id=tr-0000081
+2026-10-09 00:14:51 [ERROR] component=auth exception=ConnectionError code=E1081 message="Connection refused by dependency" trace_id=tr-0000082
+2026-10-09 00:15:02 [ERROR] component=scheduler exception=ValidationError code=E1082 message="Required field missing from request" trace_id=tr-0000083
+2026-10-09 00:15:13 [ERROR] component=scheduler exception=ConnectionError code=E1083 message="Connection refused by dependency" trace_id=tr-0000084
+2026-10-09 00:15:24 [CRITICAL] component=billing exception=ResourceExhausted code=E1084 message="Worker capacity limit reached" trace_id=tr-0000085
+2026-10-09 00:15:35 [ERROR] component=auth exception=TimeoutError code=E1085 message="Upstream service timed out" trace_id=tr-0000086
+2026-10-09 00:15:46 [ERROR] component=auth exception=TimeoutError code=E1086 message="Upstream service timed out" trace_id=tr-0000087
+2026-10-09 00:15:57 [ERROR] component=scheduler exception=ValidationError code=E1087 message="Required field missing from request" trace_id=tr-0000088
+2026-10-09 00:16:08 [ERROR] component=auth exception=ConnectionError code=E1088 message="Connection refused by dependency" trace_id=tr-0000089
+2026-10-09 00:16:19 [ERROR] component=auth exception=ValidationError code=E1089 message="Required field missing from request" trace_id=tr-0000090
+2026-10-09 00:16:30 [ERROR] component=gateway exception=TimeoutError code=E1090 message="Upstream service timed out" trace_id=tr-0000091
+2026-10-09 00:16:41 [ERROR] component=scheduler exception=ConnectionError code=E1091 message="Connection refused by dependency" trace_id=tr-0000092
+2026-10-09 00:16:52 [CRITICAL] component=gateway exception=ResourceExhausted code=E1092 message="Worker capacity limit reached" trace_id=tr-0000093
+2026-10-09 00:17:03 [WARN] component=auth exception=RetryLimitWarning code=E1093 message="Retry threshold nearly reached" trace_id=tr-0000094
+2026-10-09 00:17:14 [ERROR] component=billing exception=TimeoutError code=E1094 message="Upstream service timed out" trace_id=tr-0000095
+2026-10-09 00:17:25 [ERROR] component=gateway exception=TimeoutError code=E1095 message="Upstream service timed out" trace_id=tr-0000096
+2026-10-09 00:17:36 [CRITICAL] component=gateway exception=ResourceExhausted code=E1096 message="Worker capacity limit reached" trace_id=tr-0000097
+2026-10-09 00:17:47 [WARN] component=auth exception=RetryLimitWarning code=E1097 message="Retry threshold nearly reached" trace_id=tr-0000098
+2026-10-09 00:17:58 [ERROR] component=auth exception=TimeoutError code=E1098 message="Upstream service timed out" trace_id=tr-0000099
+2026-10-09 00:18:09 [ERROR] component=billing exception=TimeoutError code=E1099 message="Upstream service timed out" trace_id=tr-0000100
+2026-10-09 00:18:20 [ERROR] component=gateway exception=ConnectionError code=E1100 message="Connection refused by dependency" trace_id=tr-0000101
+2026-10-09 00:18:31 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1101 message="Worker capacity limit reached" trace_id=tr-0000102
+2026-10-09 00:18:42 [ERROR] component=gateway exception=ValidationError code=E1102 message="Required field missing from request" trace_id=tr-0000103
+2026-10-09 00:18:53 [ERROR] component=gateway exception=TimeoutError code=E1103 message="Upstream service timed out" trace_id=tr-0000104
+2026-10-09 00:19:04 [CRITICAL] component=billing exception=ResourceExhausted code=E1104 message="Worker capacity limit reached" trace_id=tr-0000105
+2026-10-09 00:19:15 [ERROR] component=scheduler exception=TimeoutError code=E1105 message="Upstream service timed out" trace_id=tr-0000106
+2026-10-09 00:19:26 [WARN] component=scheduler exception=RetryLimitWarning code=E1106 message="Retry threshold nearly reached" trace_id=tr-0000107
+2026-10-09 00:19:37 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1107 message="Worker capacity limit reached" trace_id=tr-0000108
+2026-10-09 00:19:48 [WARN] component=scheduler exception=RetryLimitWarning code=E1108 message="Retry threshold nearly reached" trace_id=tr-0000109
+2026-10-09 00:19:59 [ERROR] component=auth exception=ConnectionError code=E1109 message="Connection refused by dependency" trace_id=tr-0000110
+2026-10-09 00:20:10 [ERROR] component=auth exception=ConnectionError code=E1110 message="Connection refused by dependency" trace_id=tr-0000111
+2026-10-09 00:20:21 [ERROR] component=auth exception=ConnectionError code=E1111 message="Connection refused by dependency" trace_id=tr-0000112
+2026-10-09 00:20:32 [WARN] component=storage exception=RetryLimitWarning code=E1112 message="Retry threshold nearly reached" trace_id=tr-0000113
+2026-10-09 00:20:43 [WARN] component=storage exception=RetryLimitWarning code=E1113 message="Retry threshold nearly reached" trace_id=tr-0000114
+2026-10-09 00:20:54 [WARN] component=billing exception=RetryLimitWarning code=E1114 message="Retry threshold nearly reached" trace_id=tr-0000115
+2026-10-09 00:21:05 [ERROR] component=scheduler exception=ValidationError code=E1115 message="Required field missing from request" trace_id=tr-0000116
+2026-10-09 00:21:16 [CRITICAL] component=storage exception=ResourceExhausted code=E1116 message="Worker capacity limit reached" trace_id=tr-0000117
+2026-10-09 00:21:27 [ERROR] component=billing exception=TimeoutError code=E1117 message="Upstream service timed out" trace_id=tr-0000118
+2026-10-09 00:21:38 [WARN] component=scheduler exception=RetryLimitWarning code=E1118 message="Retry threshold nearly reached" trace_id=tr-0000119
+2026-10-09 00:21:49 [ERROR] component=scheduler exception=TimeoutError code=E1119 message="Upstream service timed out" trace_id=tr-0000120
+2026-10-09 00:22:00 [WARN] component=auth exception=RetryLimitWarning code=E1120 message="Retry threshold nearly reached" trace_id=tr-0000121
+2026-10-09 00:22:11 [ERROR] component=gateway exception=TimeoutError code=E1121 message="Upstream service timed out" trace_id=tr-0000122
+2026-10-09 00:22:22 [CRITICAL] component=auth exception=ResourceExhausted code=E1122 message="Worker capacity limit reached" trace_id=tr-0000123
+2026-10-09 00:22:33 [ERROR] component=storage exception=ValidationError code=E1123 message="Required field missing from request" trace_id=tr-0000124
+2026-10-09 00:22:44 [ERROR] component=billing exception=ValidationError code=E1124 message="Required field missing from request" trace_id=tr-0000125
+2026-10-09 00:22:55 [CRITICAL] component=storage exception=ResourceExhausted code=E1125 message="Worker capacity limit reached" trace_id=tr-0000126
+2026-10-09 00:23:06 [ERROR] component=storage exception=ValidationError code=E1126 message="Required field missing from request" trace_id=tr-0000127
+2026-10-09 00:23:17 [ERROR] component=scheduler exception=TimeoutError code=E1127 message="Upstream service timed out" trace_id=tr-0000128
+2026-10-09 00:23:28 [ERROR] component=scheduler exception=ConnectionError code=E1128 message="Connection refused by dependency" trace_id=tr-0000129
+2026-10-09 00:23:39 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1129 message="Worker capacity limit reached" trace_id=tr-0000130
+2026-10-09 00:23:50 [ERROR] component=storage exception=ConnectionError code=E1130 message="Connection refused by dependency" trace_id=tr-0000131
+2026-10-09 00:24:01 [ERROR] component=auth exception=ValidationError code=E1131 message="Required field missing from request" trace_id=tr-0000132
+2026-10-09 00:24:12 [ERROR] component=billing exception=TimeoutError code=E1132 message="Upstream service timed out" trace_id=tr-0000133
+2026-10-09 00:24:23 [ERROR] component=scheduler exception=ValidationError code=E1133 message="Required field missing from request" trace_id=tr-0000134
+2026-10-09 00:24:34 [WARN] component=billing exception=RetryLimitWarning code=E1134 message="Retry threshold nearly reached" trace_id=tr-0000135
+2026-10-09 00:24:45 [ERROR] component=scheduler exception=TimeoutError code=E1135 message="Upstream service timed out" trace_id=tr-0000136
+2026-10-09 00:24:56 [CRITICAL] component=billing exception=ResourceExhausted code=E1136 message="Worker capacity limit reached" trace_id=tr-0000137
+2026-10-09 00:25:07 [CRITICAL] component=gateway exception=ResourceExhausted code=E1137 message="Worker capacity limit reached" trace_id=tr-0000138
+2026-10-09 00:25:18 [ERROR] component=storage exception=TimeoutError code=E1138 message="Upstream service timed out" trace_id=tr-0000139
+2026-10-09 00:25:29 [ERROR] component=storage exception=ConnectionError code=E1139 message="Connection refused by dependency" trace_id=tr-0000140
+2026-10-09 00:25:40 [WARN] component=scheduler exception=RetryLimitWarning code=E1140 message="Retry threshold nearly reached" trace_id=tr-0000141
+2026-10-09 00:25:51 [ERROR] component=auth exception=ConnectionError code=E1141 message="Connection refused by dependency" trace_id=tr-0000142
+2026-10-09 00:26:02 [WARN] component=scheduler exception=RetryLimitWarning code=E1142 message="Retry threshold nearly reached" trace_id=tr-0000143
+2026-10-09 00:26:13 [ERROR] component=scheduler exception=ValidationError code=E1143 message="Required field missing from request" trace_id=tr-0000144
+2026-10-09 00:26:24 [ERROR] component=scheduler exception=TimeoutError code=E1144 message="Upstream service timed out" trace_id=tr-0000145
+2026-10-09 00:26:35 [WARN] component=gateway exception=RetryLimitWarning code=E1145 message="Retry threshold nearly reached" trace_id=tr-0000146
+2026-10-09 00:26:46 [ERROR] component=scheduler exception=TimeoutError code=E1146 message="Upstream service timed out" trace_id=tr-0000147
+2026-10-09 00:26:57 [ERROR] component=auth exception=TimeoutError code=E1147 message="Upstream service timed out" trace_id=tr-0000148
+2026-10-09 00:27:08 [WARN] component=scheduler exception=RetryLimitWarning code=E1148 message="Retry threshold nearly reached" trace_id=tr-0000149
+2026-10-09 00:27:19 [ERROR] component=storage exception=TimeoutError code=E1149 message="Upstream service timed out" trace_id=tr-0000150
+2026-10-09 00:27:30 [ERROR] component=auth exception=ValidationError code=E1150 message="Required field missing from request" trace_id=tr-0000151
+2026-10-09 00:27:41 [ERROR] component=storage exception=TimeoutError code=E1151 message="Upstream service timed out" trace_id=tr-0000152
+2026-10-09 00:27:52 [ERROR] component=gateway exception=ValidationError code=E1152 message="Required field missing from request" trace_id=tr-0000153
+2026-10-09 00:28:03 [ERROR] component=storage exception=ValidationError code=E1153 message="Required field missing from request" trace_id=tr-0000154
+2026-10-09 00:28:14 [ERROR] component=scheduler exception=ConnectionError code=E1154 message="Connection refused by dependency" trace_id=tr-0000155
+2026-10-09 00:28:25 [CRITICAL] component=gateway exception=ResourceExhausted code=E1155 message="Worker capacity limit reached" trace_id=tr-0000156
+2026-10-09 00:28:36 [ERROR] component=billing exception=TimeoutError code=E1156 message="Upstream service timed out" trace_id=tr-0000157
+2026-10-09 00:28:47 [WARN] component=gateway exception=RetryLimitWarning code=E1157 message="Retry threshold nearly reached" trace_id=tr-0000158
+2026-10-09 00:28:58 [ERROR] component=storage exception=ValidationError code=E1158 message="Required field missing from request" trace_id=tr-0000159
+2026-10-09 00:29:09 [ERROR] component=scheduler exception=ValidationError code=E1159 message="Required field missing from request" trace_id=tr-0000160
+2026-10-09 00:29:20 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1160 message="Worker capacity limit reached" trace_id=tr-0000161
+2026-10-09 00:29:31 [ERROR] component=auth exception=TimeoutError code=E1161 message="Upstream service timed out" trace_id=tr-0000162
+2026-10-09 00:29:42 [ERROR] component=auth exception=ConnectionError code=E1162 message="Connection refused by dependency" trace_id=tr-0000163
+2026-10-09 00:29:53 [CRITICAL] component=gateway exception=ResourceExhausted code=E1163 message="Worker capacity limit reached" trace_id=tr-0000164
+2026-10-09 00:30:04 [CRITICAL] component=storage exception=ResourceExhausted code=E1164 message="Worker capacity limit reached" trace_id=tr-0000165
+2026-10-09 00:30:15 [ERROR] component=gateway exception=ValidationError code=E1165 message="Required field missing from request" trace_id=tr-0000166
+2026-10-09 00:30:26 [ERROR] component=auth exception=TimeoutError code=E1166 message="Upstream service timed out" trace_id=tr-0000167
+2026-10-09 00:30:37 [ERROR] component=scheduler exception=ConnectionError code=E1167 message="Connection refused by dependency" trace_id=tr-0000168
+2026-10-09 00:30:48 [ERROR] component=scheduler exception=ConnectionError code=E1168 message="Connection refused by dependency" trace_id=tr-0000169
+2026-10-09 00:30:59 [ERROR] component=gateway exception=TimeoutError code=E1169 message="Upstream service timed out" trace_id=tr-0000170
+2026-10-09 00:31:10 [ERROR] component=billing exception=ValidationError code=E1170 message="Required field missing from request" trace_id=tr-0000171
+2026-10-09 00:31:21 [ERROR] component=auth exception=ConnectionError code=E1171 message="Connection refused by dependency" trace_id=tr-0000172
+2026-10-09 00:31:32 [WARN] component=billing exception=RetryLimitWarning code=E1172 message="Retry threshold nearly reached" trace_id=tr-0000173
+2026-10-09 00:31:43 [WARN] component=billing exception=RetryLimitWarning code=E1173 message="Retry threshold nearly reached" trace_id=tr-0000174
+2026-10-09 00:31:54 [CRITICAL] component=auth exception=ResourceExhausted code=E1174 message="Worker capacity limit reached" trace_id=tr-0000175
+2026-10-09 00:32:05 [WARN] component=auth exception=RetryLimitWarning code=E1175 message="Retry threshold nearly reached" trace_id=tr-0000176
+2026-10-09 00:32:16 [ERROR] component=auth exception=ValidationError code=E1176 message="Required field missing from request" trace_id=tr-0000177
+2026-10-09 00:32:27 [WARN] component=scheduler exception=RetryLimitWarning code=E1177 message="Retry threshold nearly reached" trace_id=tr-0000178
+2026-10-09 00:32:38 [ERROR] component=storage exception=ValidationError code=E1178 message="Required field missing from request" trace_id=tr-0000179
+2026-10-09 00:32:49 [ERROR] component=scheduler exception=ConnectionError code=E1179 message="Connection refused by dependency" trace_id=tr-0000180
+2026-10-09 00:33:00 [ERROR] component=storage exception=TimeoutError code=E1180 message="Upstream service timed out" trace_id=tr-0000181
+2026-10-09 00:33:11 [ERROR] component=storage exception=TimeoutError code=E1181 message="Upstream service timed out" trace_id=tr-0000182
+2026-10-09 00:33:22 [WARN] component=storage exception=RetryLimitWarning code=E1182 message="Retry threshold nearly reached" trace_id=tr-0000183
+2026-10-09 00:33:33 [WARN] component=storage exception=RetryLimitWarning code=E1183 message="Retry threshold nearly reached" trace_id=tr-0000184
+2026-10-09 00:33:44 [ERROR] component=storage exception=ConnectionError code=E1184 message="Connection refused by dependency" trace_id=tr-0000185
+2026-10-09 00:33:55 [ERROR] component=billing exception=ConnectionError code=E1185 message="Connection refused by dependency" trace_id=tr-0000186
+2026-10-09 00:34:06 [ERROR] component=scheduler exception=TimeoutError code=E1186 message="Upstream service timed out" trace_id=tr-0000187
+2026-10-09 00:34:17 [ERROR] component=storage exception=ValidationError code=E1187 message="Required field missing from request" trace_id=tr-0000188
+2026-10-09 00:34:28 [CRITICAL] component=storage exception=ResourceExhausted code=E1188 message="Worker capacity limit reached" trace_id=tr-0000189
+2026-10-09 00:34:39 [WARN] component=scheduler exception=RetryLimitWarning code=E1189 message="Retry threshold nearly reached" trace_id=tr-0000190
+2026-10-09 00:34:50 [ERROR] component=billing exception=ValidationError code=E1190 message="Required field missing from request" trace_id=tr-0000191
+2026-10-09 00:35:01 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1191 message="Worker capacity limit reached" trace_id=tr-0000192
+2026-10-09 00:35:12 [CRITICAL] component=gateway exception=ResourceExhausted code=E1192 message="Worker capacity limit reached" trace_id=tr-0000193
+2026-10-09 00:35:23 [WARN] component=billing exception=RetryLimitWarning code=E1193 message="Retry threshold nearly reached" trace_id=tr-0000194
+2026-10-09 00:35:34 [ERROR] component=scheduler exception=ConnectionError code=E1194 message="Connection refused by dependency" trace_id=tr-0000195
+2026-10-09 00:35:45 [ERROR] component=storage exception=ValidationError code=E1195 message="Required field missing from request" trace_id=tr-0000196
+2026-10-09 00:35:56 [CRITICAL] component=storage exception=ResourceExhausted code=E1196 message="Worker capacity limit reached" trace_id=tr-0000197
+2026-10-09 00:36:07 [CRITICAL] component=storage exception=ResourceExhausted code=E1197 message="Worker capacity limit reached" trace_id=tr-0000198
+2026-10-09 00:36:18 [ERROR] component=billing exception=ConnectionError code=E1198 message="Connection refused by dependency" trace_id=tr-0000199
+2026-10-09 00:36:29 [ERROR] component=storage exception=ConnectionError code=E1199 message="Connection refused by dependency" trace_id=tr-0000200
+2026-10-09 00:36:40 [CRITICAL] component=gateway exception=ResourceExhausted code=E1200 message="Worker capacity limit reached" trace_id=tr-0000201
+2026-10-09 00:36:51 [ERROR] component=billing exception=ConnectionError code=E1201 message="Connection refused by dependency" trace_id=tr-0000202
+2026-10-09 00:37:02 [ERROR] component=storage exception=ValidationError code=E1202 message="Required field missing from request" trace_id=tr-0000203
+2026-10-09 00:37:13 [CRITICAL] component=auth exception=ResourceExhausted code=E1203 message="Worker capacity limit reached" trace_id=tr-0000204
+2026-10-09 00:37:24 [CRITICAL] component=storage exception=ResourceExhausted code=E1204 message="Worker capacity limit reached" trace_id=tr-0000205
+2026-10-09 00:37:35 [WARN] component=storage exception=RetryLimitWarning code=E1205 message="Retry threshold nearly reached" trace_id=tr-0000206
+2026-10-09 00:37:46 [ERROR] component=scheduler exception=ValidationError code=E1206 message="Required field missing from request" trace_id=tr-0000207
+2026-10-09 00:37:57 [ERROR] component=gateway exception=ValidationError code=E1207 message="Required field missing from request" trace_id=tr-0000208
+2026-10-09 00:38:08 [WARN] component=auth exception=RetryLimitWarning code=E1208 message="Retry threshold nearly reached" trace_id=tr-0000209
+2026-10-09 00:38:19 [ERROR] component=auth exception=ValidationError code=E1209 message="Required field missing from request" trace_id=tr-0000210
+2026-10-09 00:38:30 [ERROR] component=scheduler exception=TimeoutError code=E1210 message="Upstream service timed out" trace_id=tr-0000211
+2026-10-09 00:38:41 [ERROR] component=auth exception=ConnectionError code=E1211 message="Connection refused by dependency" trace_id=tr-0000212
+2026-10-09 00:38:52 [ERROR] component=billing exception=TimeoutError code=E1212 message="Upstream service timed out" trace_id=tr-0000213
+2026-10-09 00:39:03 [CRITICAL] component=billing exception=ResourceExhausted code=E1213 message="Worker capacity limit reached" trace_id=tr-0000214
+2026-10-09 00:39:14 [CRITICAL] component=gateway exception=ResourceExhausted code=E1214 message="Worker capacity limit reached" trace_id=tr-0000215
+2026-10-09 00:39:25 [ERROR] component=auth exception=ConnectionError code=E1215 message="Connection refused by dependency" trace_id=tr-0000216
+2026-10-09 00:39:36 [CRITICAL] component=billing exception=ResourceExhausted code=E1216 message="Worker capacity limit reached" trace_id=tr-0000217
+2026-10-09 00:39:47 [ERROR] component=auth exception=ValidationError code=E1217 message="Required field missing from request" trace_id=tr-0000218
+2026-10-09 00:39:58 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1218 message="Worker capacity limit reached" trace_id=tr-0000219
+2026-10-09 00:40:09 [ERROR] component=storage exception=TimeoutError code=E1219 message="Upstream service timed out" trace_id=tr-0000220
+2026-10-09 00:40:20 [ERROR] component=billing exception=ValidationError code=E1220 message="Required field missing from request" trace_id=tr-0000221
+2026-10-09 00:40:31 [ERROR] component=scheduler exception=ValidationError code=E1221 message="Required field missing from request" trace_id=tr-0000222
+2026-10-09 00:40:42 [ERROR] component=storage exception=ConnectionError code=E1222 message="Connection refused by dependency" trace_id=tr-0000223
+2026-10-09 00:40:53 [CRITICAL] component=auth exception=ResourceExhausted code=E1223 message="Worker capacity limit reached" trace_id=tr-0000224
+2026-10-09 00:41:04 [WARN] component=scheduler exception=RetryLimitWarning code=E1224 message="Retry threshold nearly reached" trace_id=tr-0000225
+2026-10-09 00:41:15 [WARN] component=gateway exception=RetryLimitWarning code=E1225 message="Retry threshold nearly reached" trace_id=tr-0000226
+2026-10-09 00:41:26 [ERROR] component=auth exception=ValidationError code=E1226 message="Required field missing from request" trace_id=tr-0000227
+2026-10-09 00:41:37 [ERROR] component=gateway exception=TimeoutError code=E1227 message="Upstream service timed out" trace_id=tr-0000228
+2026-10-09 00:41:48 [ERROR] component=storage exception=ConnectionError code=E1228 message="Connection refused by dependency" trace_id=tr-0000229
+2026-10-09 00:41:59 [WARN] component=billing exception=RetryLimitWarning code=E1229 message="Retry threshold nearly reached" trace_id=tr-0000230
+2026-10-09 00:42:10 [CRITICAL] component=storage exception=ResourceExhausted code=E1230 message="Worker capacity limit reached" trace_id=tr-0000231
+2026-10-09 00:42:21 [ERROR] component=storage exception=ValidationError code=E1231 message="Required field missing from request" trace_id=tr-0000232
+2026-10-09 00:42:32 [ERROR] component=billing exception=ConnectionError code=E1232 message="Connection refused by dependency" trace_id=tr-0000233
+2026-10-09 00:42:43 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1233 message="Worker capacity limit reached" trace_id=tr-0000234
+2026-10-09 00:42:54 [ERROR] component=auth exception=ConnectionError code=E1234 message="Connection refused by dependency" trace_id=tr-0000235
+2026-10-09 00:43:05 [ERROR] component=billing exception=ConnectionError code=E1235 message="Connection refused by dependency" trace_id=tr-0000236
+2026-10-09 00:43:16 [ERROR] component=auth exception=ValidationError code=E1236 message="Required field missing from request" trace_id=tr-0000237
+2026-10-09 00:43:27 [WARN] component=auth exception=RetryLimitWarning code=E1237 message="Retry threshold nearly reached" trace_id=tr-0000238
+2026-10-09 00:43:38 [WARN] component=gateway exception=RetryLimitWarning code=E1238 message="Retry threshold nearly reached" trace_id=tr-0000239
+2026-10-09 00:43:49 [ERROR] component=gateway exception=ValidationError code=E1239 message="Required field missing from request" trace_id=tr-0000240
+2026-10-09 00:44:00 [ERROR] component=billing exception=ConnectionError code=E1240 message="Connection refused by dependency" trace_id=tr-0000241
+2026-10-09 00:44:11 [ERROR] component=gateway exception=ValidationError code=E1241 message="Required field missing from request" trace_id=tr-0000242
+2026-10-09 00:44:22 [ERROR] component=gateway exception=TimeoutError code=E1242 message="Upstream service timed out" trace_id=tr-0000243
+2026-10-09 00:44:33 [WARN] component=billing exception=RetryLimitWarning code=E1243 message="Retry threshold nearly reached" trace_id=tr-0000244
+2026-10-09 00:44:44 [ERROR] component=billing exception=TimeoutError code=E1244 message="Upstream service timed out" trace_id=tr-0000245
+2026-10-09 00:44:55 [CRITICAL] component=storage exception=ResourceExhausted code=E1245 message="Worker capacity limit reached" trace_id=tr-0000246
+2026-10-09 00:45:06 [ERROR] component=storage exception=TimeoutError code=E1246 message="Upstream service timed out" trace_id=tr-0000247
+2026-10-09 00:45:17 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1247 message="Worker capacity limit reached" trace_id=tr-0000248
+2026-10-09 00:45:28 [ERROR] component=storage exception=ValidationError code=E1248 message="Required field missing from request" trace_id=tr-0000249
+2026-10-09 00:45:39 [CRITICAL] component=auth exception=ResourceExhausted code=E1249 message="Worker capacity limit reached" trace_id=tr-0000250
+2026-10-09 00:45:50 [CRITICAL] component=storage exception=ResourceExhausted code=E1250 message="Worker capacity limit reached" trace_id=tr-0000251
+2026-10-09 00:46:01 [ERROR] component=billing exception=ConnectionError code=E1251 message="Connection refused by dependency" trace_id=tr-0000252
+2026-10-09 00:46:12 [ERROR] component=auth exception=ValidationError code=E1252 message="Required field missing from request" trace_id=tr-0000253
+2026-10-09 00:46:23 [ERROR] component=billing exception=ValidationError code=E1253 message="Required field missing from request" trace_id=tr-0000254
+2026-10-09 00:46:34 [WARN] component=storage exception=RetryLimitWarning code=E1254 message="Retry threshold nearly reached" trace_id=tr-0000255
+2026-10-09 00:46:45 [ERROR] component=scheduler exception=ValidationError code=E1255 message="Required field missing from request" trace_id=tr-0000256
+2026-10-09 00:46:56 [ERROR] component=gateway exception=TimeoutError code=E1256 message="Upstream service timed out" trace_id=tr-0000257
+2026-10-09 00:47:07 [ERROR] component=billing exception=ConnectionError code=E1257 message="Connection refused by dependency" trace_id=tr-0000258
+2026-10-09 00:47:18 [CRITICAL] component=gateway exception=ResourceExhausted code=E1258 message="Worker capacity limit reached" trace_id=tr-0000259
+2026-10-09 00:47:29 [CRITICAL] component=gateway exception=ResourceExhausted code=E1259 message="Worker capacity limit reached" trace_id=tr-0000260
+2026-10-09 00:47:40 [ERROR] component=storage exception=ConnectionError code=E1260 message="Connection refused by dependency" trace_id=tr-0000261
+2026-10-09 00:47:51 [ERROR] component=scheduler exception=ValidationError code=E1261 message="Required field missing from request" trace_id=tr-0000262
+2026-10-09 00:48:02 [ERROR] component=auth exception=ValidationError code=E1262 message="Required field missing from request" trace_id=tr-0000263
+2026-10-09 00:48:13 [ERROR] component=gateway exception=TimeoutError code=E1263 message="Upstream service timed out" trace_id=tr-0000264
+2026-10-09 00:48:24 [WARN] component=billing exception=RetryLimitWarning code=E1264 message="Retry threshold nearly reached" trace_id=tr-0000265
+2026-10-09 00:48:35 [ERROR] component=storage exception=ValidationError code=E1265 message="Required field missing from request" trace_id=tr-0000266
+2026-10-09 00:48:46 [ERROR] component=auth exception=ConnectionError code=E1266 message="Connection refused by dependency" trace_id=tr-0000267
+2026-10-09 00:48:57 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1267 message="Worker capacity limit reached" trace_id=tr-0000268
+2026-10-09 00:49:08 [ERROR] component=scheduler exception=TimeoutError code=E1268 message="Upstream service timed out" trace_id=tr-0000269
+2026-10-09 00:49:19 [CRITICAL] component=storage exception=ResourceExhausted code=E1269 message="Worker capacity limit reached" trace_id=tr-0000270
+2026-10-09 00:49:30 [CRITICAL] component=auth exception=ResourceExhausted code=E1270 message="Worker capacity limit reached" trace_id=tr-0000271
+2026-10-09 00:49:41 [ERROR] component=gateway exception=ValidationError code=E1271 message="Required field missing from request" trace_id=tr-0000272
+2026-10-09 00:49:52 [ERROR] component=storage exception=ValidationError code=E1272 message="Required field missing from request" trace_id=tr-0000273
+2026-10-09 00:50:03 [WARN] component=scheduler exception=RetryLimitWarning code=E1273 message="Retry threshold nearly reached" trace_id=tr-0000274
+2026-10-09 00:50:14 [ERROR] component=gateway exception=TimeoutError code=E1274 message="Upstream service timed out" trace_id=tr-0000275
+2026-10-09 00:50:25 [ERROR] component=gateway exception=ConnectionError code=E1275 message="Connection refused by dependency" trace_id=tr-0000276
+2026-10-09 00:50:36 [ERROR] component=auth exception=ValidationError code=E1276 message="Required field missing from request" trace_id=tr-0000277
+2026-10-09 00:50:47 [ERROR] component=billing exception=TimeoutError code=E1277 message="Upstream service timed out" trace_id=tr-0000278
+2026-10-09 00:50:58 [ERROR] component=storage exception=ValidationError code=E1278 message="Required field missing from request" trace_id=tr-0000279
+2026-10-09 00:51:09 [ERROR] component=auth exception=TimeoutError code=E1279 message="Upstream service timed out" trace_id=tr-0000280
+2026-10-09 00:51:20 [ERROR] component=billing exception=ConnectionError code=E1280 message="Connection refused by dependency" trace_id=tr-0000281
+2026-10-09 00:51:31 [WARN] component=auth exception=RetryLimitWarning code=E1281 message="Retry threshold nearly reached" trace_id=tr-0000282
+2026-10-09 00:51:42 [ERROR] component=storage exception=ConnectionError code=E1282 message="Connection refused by dependency" trace_id=tr-0000283
+2026-10-09 00:51:53 [WARN] component=auth exception=RetryLimitWarning code=E1283 message="Retry threshold nearly reached" trace_id=tr-0000284
+2026-10-09 00:52:04 [ERROR] component=auth exception=ConnectionError code=E1284 message="Connection refused by dependency" trace_id=tr-0000285
+2026-10-09 00:52:15 [WARN] component=gateway exception=RetryLimitWarning code=E1285 message="Retry threshold nearly reached" trace_id=tr-0000286
+2026-10-09 00:52:26 [ERROR] component=auth exception=TimeoutError code=E1286 message="Upstream service timed out" trace_id=tr-0000287
+2026-10-09 00:52:37 [ERROR] component=auth exception=TimeoutError code=E1287 message="Upstream service timed out" trace_id=tr-0000288
+2026-10-09 00:52:48 [ERROR] component=gateway exception=ConnectionError code=E1288 message="Connection refused by dependency" trace_id=tr-0000289
+2026-10-09 00:52:59 [ERROR] component=auth exception=ValidationError code=E1289 message="Required field missing from request" trace_id=tr-0000290
+2026-10-09 00:53:10 [ERROR] component=billing exception=ValidationError code=E1290 message="Required field missing from request" trace_id=tr-0000291
+2026-10-09 00:53:21 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1291 message="Worker capacity limit reached" trace_id=tr-0000292
+2026-10-09 00:53:32 [WARN] component=scheduler exception=RetryLimitWarning code=E1292 message="Retry threshold nearly reached" trace_id=tr-0000293
+2026-10-09 00:53:43 [WARN] component=scheduler exception=RetryLimitWarning code=E1293 message="Retry threshold nearly reached" trace_id=tr-0000294
+2026-10-09 00:53:54 [CRITICAL] component=auth exception=ResourceExhausted code=E1294 message="Worker capacity limit reached" trace_id=tr-0000295
+2026-10-09 00:54:05 [WARN] component=auth exception=RetryLimitWarning code=E1295 message="Retry threshold nearly reached" trace_id=tr-0000296
+2026-10-09 00:54:16 [ERROR] component=auth exception=ValidationError code=E1296 message="Required field missing from request" trace_id=tr-0000297
+2026-10-09 00:54:27 [ERROR] component=auth exception=ValidationError code=E1297 message="Required field missing from request" trace_id=tr-0000298
+2026-10-09 00:54:38 [ERROR] component=auth exception=ValidationError code=E1298 message="Required field missing from request" trace_id=tr-0000299
+2026-10-09 00:54:49 [ERROR] component=gateway exception=TimeoutError code=E1299 message="Upstream service timed out" trace_id=tr-0000300
+2026-10-09 00:55:00 [ERROR] component=auth exception=ValidationError code=E1300 message="Required field missing from request" trace_id=tr-0000301
+2026-10-09 00:55:11 [CRITICAL] component=gateway exception=ResourceExhausted code=E1301 message="Worker capacity limit reached" trace_id=tr-0000302
+2026-10-09 00:55:22 [ERROR] component=auth exception=ValidationError code=E1302 message="Required field missing from request" trace_id=tr-0000303
+2026-10-09 00:55:33 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1303 message="Worker capacity limit reached" trace_id=tr-0000304
+2026-10-09 00:55:44 [WARN] component=scheduler exception=RetryLimitWarning code=E1304 message="Retry threshold nearly reached" trace_id=tr-0000305
+2026-10-09 00:55:55 [ERROR] component=scheduler exception=TimeoutError code=E1305 message="Upstream service timed out" trace_id=tr-0000306
+2026-10-09 00:56:06 [ERROR] component=storage exception=ConnectionError code=E1306 message="Connection refused by dependency" trace_id=tr-0000307
+2026-10-09 00:56:17 [ERROR] component=billing exception=ConnectionError code=E1307 message="Connection refused by dependency" trace_id=tr-0000308
+2026-10-09 00:56:28 [WARN] component=storage exception=RetryLimitWarning code=E1308 message="Retry threshold nearly reached" trace_id=tr-0000309
+2026-10-09 00:56:39 [CRITICAL] component=billing exception=ResourceExhausted code=E1309 message="Worker capacity limit reached" trace_id=tr-0000310
+2026-10-09 00:56:50 [CRITICAL] component=gateway exception=ResourceExhausted code=E1310 message="Worker capacity limit reached" trace_id=tr-0000311
+2026-10-09 00:57:01 [ERROR] component=storage exception=TimeoutError code=E1311 message="Upstream service timed out" trace_id=tr-0000312
+2026-10-09 00:57:12 [ERROR] component=billing exception=ValidationError code=E1312 message="Required field missing from request" trace_id=tr-0000313
+2026-10-09 00:57:23 [ERROR] component=auth exception=TimeoutError code=E1313 message="Upstream service timed out" trace_id=tr-0000314
+2026-10-09 00:57:34 [ERROR] component=storage exception=TimeoutError code=E1314 message="Upstream service timed out" trace_id=tr-0000315
+2026-10-09 00:57:45 [ERROR] component=scheduler exception=ValidationError code=E1315 message="Required field missing from request" trace_id=tr-0000316
+2026-10-09 00:57:56 [ERROR] component=storage exception=ValidationError code=E1316 message="Required field missing from request" trace_id=tr-0000317
+2026-10-09 00:58:07 [ERROR] component=gateway exception=TimeoutError code=E1317 message="Upstream service timed out" trace_id=tr-0000318
+2026-10-09 00:58:18 [ERROR] component=gateway exception=ConnectionError code=E1318 message="Connection refused by dependency" trace_id=tr-0000319
+2026-10-09 00:58:29 [ERROR] component=scheduler exception=ConnectionError code=E1319 message="Connection refused by dependency" trace_id=tr-0000320
+2026-10-09 00:58:40 [ERROR] component=billing exception=ValidationError code=E1320 message="Required field missing from request" trace_id=tr-0000321
+2026-10-09 00:58:51 [ERROR] component=billing exception=ConnectionError code=E1321 message="Connection refused by dependency" trace_id=tr-0000322
+2026-10-09 00:59:02 [ERROR] component=storage exception=ConnectionError code=E1322 message="Connection refused by dependency" trace_id=tr-0000323
+2026-10-09 00:59:13 [CRITICAL] component=billing exception=ResourceExhausted code=E1323 message="Worker capacity limit reached" trace_id=tr-0000324
+2026-10-09 00:59:24 [ERROR] component=billing exception=TimeoutError code=E1324 message="Upstream service timed out" trace_id=tr-0000325
+2026-10-09 00:59:35 [ERROR] component=auth exception=ValidationError code=E1325 message="Required field missing from request" trace_id=tr-0000326
+2026-10-09 00:59:46 [ERROR] component=scheduler exception=ValidationError code=E1326 message="Required field missing from request" trace_id=tr-0000327
+2026-10-09 00:59:57 [ERROR] component=auth exception=ValidationError code=E1327 message="Required field missing from request" trace_id=tr-0000328
+2026-10-09 01:00:08 [CRITICAL] component=auth exception=ResourceExhausted code=E1328 message="Worker capacity limit reached" trace_id=tr-0000329
+2026-10-09 01:00:19 [CRITICAL] component=auth exception=ResourceExhausted code=E1329 message="Worker capacity limit reached" trace_id=tr-0000330
+2026-10-09 01:00:30 [ERROR] component=storage exception=ConnectionError code=E1330 message="Connection refused by dependency" trace_id=tr-0000331
+2026-10-09 01:00:41 [WARN] component=gateway exception=RetryLimitWarning code=E1331 message="Retry threshold nearly reached" trace_id=tr-0000332
+2026-10-09 01:00:52 [CRITICAL] component=billing exception=ResourceExhausted code=E1332 message="Worker capacity limit reached" trace_id=tr-0000333
+2026-10-09 01:01:03 [ERROR] component=auth exception=ConnectionError code=E1333 message="Connection refused by dependency" trace_id=tr-0000334
+2026-10-09 01:01:14 [CRITICAL] component=storage exception=ResourceExhausted code=E1334 message="Worker capacity limit reached" trace_id=tr-0000335
+2026-10-09 01:01:25 [ERROR] component=billing exception=TimeoutError code=E1335 message="Upstream service timed out" trace_id=tr-0000336
+2026-10-09 01:01:36 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1336 message="Worker capacity limit reached" trace_id=tr-0000337
+2026-10-09 01:01:47 [WARN] component=gateway exception=RetryLimitWarning code=E1337 message="Retry threshold nearly reached" trace_id=tr-0000338
+2026-10-09 01:01:58 [ERROR] component=gateway exception=ValidationError code=E1338 message="Required field missing from request" trace_id=tr-0000339
+2026-10-09 01:02:09 [ERROR] component=billing exception=ValidationError code=E1339 message="Required field missing from request" trace_id=tr-0000340
+2026-10-09 01:02:20 [ERROR] component=storage exception=ValidationError code=E1340 message="Required field missing from request" trace_id=tr-0000341
+2026-10-09 01:02:31 [CRITICAL] component=gateway exception=ResourceExhausted code=E1341 message="Worker capacity limit reached" trace_id=tr-0000342
+2026-10-09 01:02:42 [WARN] component=billing exception=RetryLimitWarning code=E1342 message="Retry threshold nearly reached" trace_id=tr-0000343
+2026-10-09 01:02:53 [ERROR] component=gateway exception=TimeoutError code=E1343 message="Upstream service timed out" trace_id=tr-0000344
+2026-10-09 01:03:04 [ERROR] component=billing exception=ConnectionError code=E1344 message="Connection refused by dependency" trace_id=tr-0000345
+2026-10-09 01:03:15 [WARN] component=gateway exception=RetryLimitWarning code=E1345 message="Retry threshold nearly reached" trace_id=tr-0000346
+2026-10-09 01:03:26 [CRITICAL] component=billing exception=ResourceExhausted code=E1346 message="Worker capacity limit reached" trace_id=tr-0000347
+2026-10-09 01:03:37 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1347 message="Worker capacity limit reached" trace_id=tr-0000348
+2026-10-09 01:03:48 [WARN] component=scheduler exception=RetryLimitWarning code=E1348 message="Retry threshold nearly reached" trace_id=tr-0000349
+2026-10-09 01:03:59 [CRITICAL] component=gateway exception=ResourceExhausted code=E1349 message="Worker capacity limit reached" trace_id=tr-0000350
+2026-10-09 01:04:10 [WARN] component=storage exception=RetryLimitWarning code=E1350 message="Retry threshold nearly reached" trace_id=tr-0000351
+2026-10-09 01:04:21 [ERROR] component=billing exception=TimeoutError code=E1351 message="Upstream service timed out" trace_id=tr-0000352
+2026-10-09 01:04:32 [ERROR] component=auth exception=ValidationError code=E1352 message="Required field missing from request" trace_id=tr-0000353
+2026-10-09 01:04:43 [CRITICAL] component=billing exception=ResourceExhausted code=E1353 message="Worker capacity limit reached" trace_id=tr-0000354
+2026-10-09 01:04:54 [ERROR] component=billing exception=ValidationError code=E1354 message="Required field missing from request" trace_id=tr-0000355
+2026-10-09 01:05:05 [CRITICAL] component=auth exception=ResourceExhausted code=E1355 message="Worker capacity limit reached" trace_id=tr-0000356
+2026-10-09 01:05:16 [ERROR] component=auth exception=TimeoutError code=E1356 message="Upstream service timed out" trace_id=tr-0000357
+2026-10-09 01:05:27 [ERROR] component=auth exception=ValidationError code=E1357 message="Required field missing from request" trace_id=tr-0000358
+2026-10-09 01:05:38 [ERROR] component=storage exception=ValidationError code=E1358 message="Required field missing from request" trace_id=tr-0000359
+2026-10-09 01:05:49 [WARN] component=storage exception=RetryLimitWarning code=E1359 message="Retry threshold nearly reached" trace_id=tr-0000360
+2026-10-09 01:06:00 [ERROR] component=auth exception=ConnectionError code=E1360 message="Connection refused by dependency" trace_id=tr-0000361
+2026-10-09 01:06:11 [ERROR] component=gateway exception=ValidationError code=E1361 message="Required field missing from request" trace_id=tr-0000362
+2026-10-09 01:06:22 [ERROR] component=storage exception=ValidationError code=E1362 message="Required field missing from request" trace_id=tr-0000363
+2026-10-09 01:06:33 [WARN] component=billing exception=RetryLimitWarning code=E1363 message="Retry threshold nearly reached" trace_id=tr-0000364
+2026-10-09 01:06:44 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1364 message="Worker capacity limit reached" trace_id=tr-0000365
+2026-10-09 01:06:55 [ERROR] component=storage exception=ConnectionError code=E1365 message="Connection refused by dependency" trace_id=tr-0000366
+2026-10-09 01:07:06 [CRITICAL] component=billing exception=ResourceExhausted code=E1366 message="Worker capacity limit reached" trace_id=tr-0000367
+2026-10-09 01:07:17 [WARN] component=storage exception=RetryLimitWarning code=E1367 message="Retry threshold nearly reached" trace_id=tr-0000368
+2026-10-09 01:07:28 [ERROR] component=auth exception=ValidationError code=E1368 message="Required field missing from request" trace_id=tr-0000369
+2026-10-09 01:07:39 [WARN] component=gateway exception=RetryLimitWarning code=E1369 message="Retry threshold nearly reached" trace_id=tr-0000370
+2026-10-09 01:07:50 [ERROR] component=auth exception=ValidationError code=E1370 message="Required field missing from request" trace_id=tr-0000371
+2026-10-09 01:08:01 [ERROR] component=storage exception=ConnectionError code=E1371 message="Connection refused by dependency" trace_id=tr-0000372
+2026-10-09 01:08:12 [ERROR] component=storage exception=ConnectionError code=E1372 message="Connection refused by dependency" trace_id=tr-0000373
+2026-10-09 01:08:23 [ERROR] component=scheduler exception=ConnectionError code=E1373 message="Connection refused by dependency" trace_id=tr-0000374
+2026-10-09 01:08:34 [ERROR] component=billing exception=ConnectionError code=E1374 message="Connection refused by dependency" trace_id=tr-0000375
+2026-10-09 01:08:45 [ERROR] component=storage exception=ValidationError code=E1375 message="Required field missing from request" trace_id=tr-0000376
+2026-10-09 01:08:56 [ERROR] component=scheduler exception=ConnectionError code=E1376 message="Connection refused by dependency" trace_id=tr-0000377
+2026-10-09 01:09:07 [CRITICAL] component=auth exception=ResourceExhausted code=E1377 message="Worker capacity limit reached" trace_id=tr-0000378
+2026-10-09 01:09:18 [ERROR] component=scheduler exception=ConnectionError code=E1378 message="Connection refused by dependency" trace_id=tr-0000379
+2026-10-09 01:09:29 [ERROR] component=auth exception=ConnectionError code=E1379 message="Connection refused by dependency" trace_id=tr-0000380
+2026-10-09 01:09:40 [CRITICAL] component=gateway exception=ResourceExhausted code=E1380 message="Worker capacity limit reached" trace_id=tr-0000381
+2026-10-09 01:09:51 [ERROR] component=auth exception=ConnectionError code=E1381 message="Connection refused by dependency" trace_id=tr-0000382
+2026-10-09 01:10:02 [ERROR] component=storage exception=ConnectionError code=E1382 message="Connection refused by dependency" trace_id=tr-0000383
+2026-10-09 01:10:13 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1383 message="Worker capacity limit reached" trace_id=tr-0000384
+2026-10-09 01:10:24 [WARN] component=scheduler exception=RetryLimitWarning code=E1384 message="Retry threshold nearly reached" trace_id=tr-0000385
+2026-10-09 01:10:35 [ERROR] component=auth exception=TimeoutError code=E1385 message="Upstream service timed out" trace_id=tr-0000386
+2026-10-09 01:10:46 [CRITICAL] component=auth exception=ResourceExhausted code=E1386 message="Worker capacity limit reached" trace_id=tr-0000387
+2026-10-09 01:10:57 [ERROR] component=gateway exception=ValidationError code=E1387 message="Required field missing from request" trace_id=tr-0000388
+2026-10-09 01:11:08 [CRITICAL] component=storage exception=ResourceExhausted code=E1388 message="Worker capacity limit reached" trace_id=tr-0000389
+2026-10-09 01:11:19 [ERROR] component=storage exception=ValidationError code=E1389 message="Required field missing from request" trace_id=tr-0000390
+2026-10-09 01:11:30 [ERROR] component=scheduler exception=ConnectionError code=E1390 message="Connection refused by dependency" trace_id=tr-0000391
+2026-10-09 01:11:41 [WARN] component=gateway exception=RetryLimitWarning code=E1391 message="Retry threshold nearly reached" trace_id=tr-0000392
+2026-10-09 01:11:52 [ERROR] component=auth exception=ValidationError code=E1392 message="Required field missing from request" trace_id=tr-0000393
+2026-10-09 01:12:03 [ERROR] component=gateway exception=ValidationError code=E1393 message="Required field missing from request" trace_id=tr-0000394
+2026-10-09 01:12:14 [WARN] component=billing exception=RetryLimitWarning code=E1394 message="Retry threshold nearly reached" trace_id=tr-0000395
+2026-10-09 01:12:25 [ERROR] component=scheduler exception=ValidationError code=E1395 message="Required field missing from request" trace_id=tr-0000396
+2026-10-09 01:12:36 [CRITICAL] component=gateway exception=ResourceExhausted code=E1396 message="Worker capacity limit reached" trace_id=tr-0000397
+2026-10-09 01:12:47 [WARN] component=scheduler exception=RetryLimitWarning code=E1397 message="Retry threshold nearly reached" trace_id=tr-0000398
+2026-10-09 01:12:58 [ERROR] component=auth exception=ValidationError code=E1398 message="Required field missing from request" trace_id=tr-0000399
+2026-10-09 01:13:09 [ERROR] component=billing exception=ValidationError code=E1399 message="Required field missing from request" trace_id=tr-0000400
+2026-10-09 01:13:20 [WARN] component=billing exception=RetryLimitWarning code=E1400 message="Retry threshold nearly reached" trace_id=tr-0000401
+2026-10-09 01:13:31 [ERROR] component=auth exception=ConnectionError code=E1401 message="Connection refused by dependency" trace_id=tr-0000402
+2026-10-09 01:13:42 [ERROR] component=gateway exception=ValidationError code=E1402 message="Required field missing from request" trace_id=tr-0000403
+2026-10-09 01:13:53 [ERROR] component=billing exception=ConnectionError code=E1403 message="Connection refused by dependency" trace_id=tr-0000404
+2026-10-09 01:14:04 [ERROR] component=billing exception=ConnectionError code=E1404 message="Connection refused by dependency" trace_id=tr-0000405
+2026-10-09 01:14:15 [CRITICAL] component=storage exception=ResourceExhausted code=E1405 message="Worker capacity limit reached" trace_id=tr-0000406
+2026-10-09 01:14:26 [ERROR] component=billing exception=TimeoutError code=E1406 message="Upstream service timed out" trace_id=tr-0000407
+2026-10-09 01:14:37 [WARN] component=gateway exception=RetryLimitWarning code=E1407 message="Retry threshold nearly reached" trace_id=tr-0000408
+2026-10-09 01:14:48 [ERROR] component=scheduler exception=TimeoutError code=E1408 message="Upstream service timed out" trace_id=tr-0000409
+2026-10-09 01:14:59 [WARN] component=scheduler exception=RetryLimitWarning code=E1409 message="Retry threshold nearly reached" trace_id=tr-0000410
+2026-10-09 01:15:10 [ERROR] component=storage exception=ConnectionError code=E1410 message="Connection refused by dependency" trace_id=tr-0000411
+2026-10-09 01:15:21 [ERROR] component=scheduler exception=ConnectionError code=E1411 message="Connection refused by dependency" trace_id=tr-0000412
+2026-10-09 01:15:32 [ERROR] component=billing exception=TimeoutError code=E1412 message="Upstream service timed out" trace_id=tr-0000413
+2026-10-09 01:15:43 [ERROR] component=billing exception=TimeoutError code=E1413 message="Upstream service timed out" trace_id=tr-0000414
+2026-10-09 01:15:54 [ERROR] component=storage exception=ValidationError code=E1414 message="Required field missing from request" trace_id=tr-0000415
+2026-10-09 01:16:05 [ERROR] component=billing exception=ConnectionError code=E1415 message="Connection refused by dependency" trace_id=tr-0000416
+2026-10-09 01:16:16 [ERROR] component=auth exception=ValidationError code=E1416 message="Required field missing from request" trace_id=tr-0000417
+2026-10-09 01:16:27 [ERROR] component=billing exception=ValidationError code=E1417 message="Required field missing from request" trace_id=tr-0000418
+2026-10-09 01:16:38 [ERROR] component=billing exception=TimeoutError code=E1418 message="Upstream service timed out" trace_id=tr-0000419
+2026-10-09 01:16:49 [CRITICAL] component=billing exception=ResourceExhausted code=E1419 message="Worker capacity limit reached" trace_id=tr-0000420
+2026-10-09 01:17:00 [ERROR] component=scheduler exception=ValidationError code=E1420 message="Required field missing from request" trace_id=tr-0000421
+2026-10-09 01:17:11 [ERROR] component=storage exception=ValidationError code=E1421 message="Required field missing from request" trace_id=tr-0000422
+2026-10-09 01:17:22 [ERROR] component=gateway exception=TimeoutError code=E1422 message="Upstream service timed out" trace_id=tr-0000423
+2026-10-09 01:17:33 [ERROR] component=billing exception=TimeoutError code=E1423 message="Upstream service timed out" trace_id=tr-0000424
+2026-10-09 01:17:44 [WARN] component=storage exception=RetryLimitWarning code=E1424 message="Retry threshold nearly reached" trace_id=tr-0000425
+2026-10-09 01:17:55 [WARN] component=scheduler exception=RetryLimitWarning code=E1425 message="Retry threshold nearly reached" trace_id=tr-0000426
+2026-10-09 01:18:06 [ERROR] component=billing exception=ConnectionError code=E1426 message="Connection refused by dependency" trace_id=tr-0000427
+2026-10-09 01:18:17 [WARN] component=storage exception=RetryLimitWarning code=E1427 message="Retry threshold nearly reached" trace_id=tr-0000428
+2026-10-09 01:18:28 [ERROR] component=storage exception=ConnectionError code=E1428 message="Connection refused by dependency" trace_id=tr-0000429
+2026-10-09 01:18:39 [ERROR] component=storage exception=ConnectionError code=E1429 message="Connection refused by dependency" trace_id=tr-0000430
+2026-10-09 01:18:50 [ERROR] component=gateway exception=ValidationError code=E1430 message="Required field missing from request" trace_id=tr-0000431
+2026-10-09 01:19:01 [ERROR] component=gateway exception=ConnectionError code=E1431 message="Connection refused by dependency" trace_id=tr-0000432
+2026-10-09 01:19:12 [WARN] component=storage exception=RetryLimitWarning code=E1432 message="Retry threshold nearly reached" trace_id=tr-0000433
+2026-10-09 01:19:23 [ERROR] component=auth exception=ValidationError code=E1433 message="Required field missing from request" trace_id=tr-0000434
+2026-10-09 01:19:34 [ERROR] component=scheduler exception=ConnectionError code=E1434 message="Connection refused by dependency" trace_id=tr-0000435
+2026-10-09 01:19:45 [WARN] component=billing exception=RetryLimitWarning code=E1435 message="Retry threshold nearly reached" trace_id=tr-0000436
+2026-10-09 01:19:56 [ERROR] component=auth exception=TimeoutError code=E1436 message="Upstream service timed out" trace_id=tr-0000437
+2026-10-09 01:20:07 [ERROR] component=storage exception=ConnectionError code=E1437 message="Connection refused by dependency" trace_id=tr-0000438
+2026-10-09 01:20:18 [ERROR] component=scheduler exception=ValidationError code=E1438 message="Required field missing from request" trace_id=tr-0000439
+2026-10-09 01:20:29 [ERROR] component=storage exception=ConnectionError code=E1439 message="Connection refused by dependency" trace_id=tr-0000440
+2026-10-09 01:20:40 [ERROR] component=billing exception=TimeoutError code=E1440 message="Upstream service timed out" trace_id=tr-0000441
+2026-10-09 01:20:51 [WARN] component=storage exception=RetryLimitWarning code=E1441 message="Retry threshold nearly reached" trace_id=tr-0000442
+2026-10-09 01:21:02 [ERROR] component=auth exception=ValidationError code=E1442 message="Required field missing from request" trace_id=tr-0000443
+2026-10-09 01:21:13 [ERROR] component=storage exception=ValidationError code=E1443 message="Required field missing from request" trace_id=tr-0000444
+2026-10-09 01:21:24 [ERROR] component=auth exception=TimeoutError code=E1444 message="Upstream service timed out" trace_id=tr-0000445
+2026-10-09 01:21:35 [WARN] component=billing exception=RetryLimitWarning code=E1445 message="Retry threshold nearly reached" trace_id=tr-0000446
+2026-10-09 01:21:46 [ERROR] component=storage exception=ValidationError code=E1446 message="Required field missing from request" trace_id=tr-0000447
+2026-10-09 01:21:57 [ERROR] component=scheduler exception=TimeoutError code=E1447 message="Upstream service timed out" trace_id=tr-0000448
+2026-10-09 01:22:08 [ERROR] component=scheduler exception=ValidationError code=E1448 message="Required field missing from request" trace_id=tr-0000449
+2026-10-09 01:22:19 [CRITICAL] component=auth exception=ResourceExhausted code=E1449 message="Worker capacity limit reached" trace_id=tr-0000450
+2026-10-09 01:22:30 [ERROR] component=scheduler exception=ValidationError code=E1450 message="Required field missing from request" trace_id=tr-0000451
+2026-10-09 01:22:41 [ERROR] component=scheduler exception=ConnectionError code=E1451 message="Connection refused by dependency" trace_id=tr-0000452
+2026-10-09 01:22:52 [WARN] component=gateway exception=RetryLimitWarning code=E1452 message="Retry threshold nearly reached" trace_id=tr-0000453
+2026-10-09 01:23:03 [ERROR] component=storage exception=ValidationError code=E1453 message="Required field missing from request" trace_id=tr-0000454
+2026-10-09 01:23:14 [ERROR] component=scheduler exception=TimeoutError code=E1454 message="Upstream service timed out" trace_id=tr-0000455
+2026-10-09 01:23:25 [ERROR] component=gateway exception=ConnectionError code=E1455 message="Connection refused by dependency" trace_id=tr-0000456
+2026-10-09 01:23:36 [WARN] component=billing exception=RetryLimitWarning code=E1456 message="Retry threshold nearly reached" trace_id=tr-0000457
+2026-10-09 01:23:47 [ERROR] component=gateway exception=TimeoutError code=E1457 message="Upstream service timed out" trace_id=tr-0000458
+2026-10-09 01:23:58 [ERROR] component=storage exception=ValidationError code=E1458 message="Required field missing from request" trace_id=tr-0000459
+2026-10-09 01:24:09 [WARN] component=gateway exception=RetryLimitWarning code=E1459 message="Retry threshold nearly reached" trace_id=tr-0000460
+2026-10-09 01:24:20 [ERROR] component=auth exception=ConnectionError code=E1460 message="Connection refused by dependency" trace_id=tr-0000461
+2026-10-09 01:24:31 [ERROR] component=storage exception=TimeoutError code=E1461 message="Upstream service timed out" trace_id=tr-0000462
+2026-10-09 01:24:42 [ERROR] component=auth exception=ValidationError code=E1462 message="Required field missing from request" trace_id=tr-0000463
+2026-10-09 01:24:53 [ERROR] component=auth exception=ValidationError code=E1463 message="Required field missing from request" trace_id=tr-0000464
+2026-10-09 01:25:04 [WARN] component=billing exception=RetryLimitWarning code=E1464 message="Retry threshold nearly reached" trace_id=tr-0000465
+2026-10-09 01:25:15 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1465 message="Worker capacity limit reached" trace_id=tr-0000466
+2026-10-09 01:25:26 [CRITICAL] component=auth exception=ResourceExhausted code=E1466 message="Worker capacity limit reached" trace_id=tr-0000467
+2026-10-09 01:25:37 [ERROR] component=scheduler exception=ConnectionError code=E1467 message="Connection refused by dependency" trace_id=tr-0000468
+2026-10-09 01:25:48 [ERROR] component=gateway exception=ValidationError code=E1468 message="Required field missing from request" trace_id=tr-0000469
+2026-10-09 01:25:59 [CRITICAL] component=storage exception=ResourceExhausted code=E1469 message="Worker capacity limit reached" trace_id=tr-0000470
+2026-10-09 01:26:10 [WARN] component=storage exception=RetryLimitWarning code=E1470 message="Retry threshold nearly reached" trace_id=tr-0000471
+2026-10-09 01:26:21 [CRITICAL] component=storage exception=ResourceExhausted code=E1471 message="Worker capacity limit reached" trace_id=tr-0000472
+2026-10-09 01:26:32 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1472 message="Worker capacity limit reached" trace_id=tr-0000473
+2026-10-09 01:26:43 [ERROR] component=scheduler exception=ConnectionError code=E1473 message="Connection refused by dependency" trace_id=tr-0000474
+2026-10-09 01:26:54 [ERROR] component=storage exception=ValidationError code=E1474 message="Required field missing from request" trace_id=tr-0000475
+2026-10-09 01:27:05 [WARN] component=billing exception=RetryLimitWarning code=E1475 message="Retry threshold nearly reached" trace_id=tr-0000476
+2026-10-09 01:27:16 [CRITICAL] component=storage exception=ResourceExhausted code=E1476 message="Worker capacity limit reached" trace_id=tr-0000477
+2026-10-09 01:27:27 [ERROR] component=scheduler exception=ValidationError code=E1477 message="Required field missing from request" trace_id=tr-0000478
+2026-10-09 01:27:38 [CRITICAL] component=gateway exception=ResourceExhausted code=E1478 message="Worker capacity limit reached" trace_id=tr-0000479
+2026-10-09 01:27:49 [ERROR] component=gateway exception=ValidationError code=E1479 message="Required field missing from request" trace_id=tr-0000480
+2026-10-09 01:28:00 [WARN] component=billing exception=RetryLimitWarning code=E1480 message="Retry threshold nearly reached" trace_id=tr-0000481
+2026-10-09 01:28:11 [ERROR] component=billing exception=TimeoutError code=E1481 message="Upstream service timed out" trace_id=tr-0000482
+2026-10-09 01:28:22 [WARN] component=billing exception=RetryLimitWarning code=E1482 message="Retry threshold nearly reached" trace_id=tr-0000483
+2026-10-09 01:28:33 [ERROR] component=billing exception=TimeoutError code=E1483 message="Upstream service timed out" trace_id=tr-0000484
+2026-10-09 01:28:44 [ERROR] component=scheduler exception=ValidationError code=E1484 message="Required field missing from request" trace_id=tr-0000485
+2026-10-09 01:28:55 [CRITICAL] component=storage exception=ResourceExhausted code=E1485 message="Worker capacity limit reached" trace_id=tr-0000486
+2026-10-09 01:29:06 [ERROR] component=auth exception=ValidationError code=E1486 message="Required field missing from request" trace_id=tr-0000487
+2026-10-09 01:29:17 [ERROR] component=scheduler exception=ConnectionError code=E1487 message="Connection refused by dependency" trace_id=tr-0000488
+2026-10-09 01:29:28 [ERROR] component=auth exception=TimeoutError code=E1488 message="Upstream service timed out" trace_id=tr-0000489
+2026-10-09 01:29:39 [ERROR] component=scheduler exception=ConnectionError code=E1489 message="Connection refused by dependency" trace_id=tr-0000490
+2026-10-09 01:29:50 [ERROR] component=scheduler exception=ValidationError code=E1490 message="Required field missing from request" trace_id=tr-0000491
+2026-10-09 01:30:01 [ERROR] component=auth exception=TimeoutError code=E1491 message="Upstream service timed out" trace_id=tr-0000492
+2026-10-09 01:30:12 [CRITICAL] component=billing exception=ResourceExhausted code=E1492 message="Worker capacity limit reached" trace_id=tr-0000493
+2026-10-09 01:30:23 [CRITICAL] component=auth exception=ResourceExhausted code=E1493 message="Worker capacity limit reached" trace_id=tr-0000494
+2026-10-09 01:30:34 [ERROR] component=auth exception=ValidationError code=E1494 message="Required field missing from request" trace_id=tr-0000495
+2026-10-09 01:30:45 [WARN] component=scheduler exception=RetryLimitWarning code=E1495 message="Retry threshold nearly reached" trace_id=tr-0000496
+2026-10-09 01:30:56 [ERROR] component=storage exception=ValidationError code=E1496 message="Required field missing from request" trace_id=tr-0000497
+2026-10-09 01:31:07 [CRITICAL] component=storage exception=ResourceExhausted code=E1497 message="Worker capacity limit reached" trace_id=tr-0000498
+2026-10-09 01:31:18 [ERROR] component=billing exception=TimeoutError code=E1498 message="Upstream service timed out" trace_id=tr-0000499
+2026-10-09 01:31:29 [WARN] component=scheduler exception=RetryLimitWarning code=E1499 message="Retry threshold nearly reached" trace_id=tr-0000500
+2026-10-09 01:31:40 [ERROR] component=billing exception=TimeoutError code=E1500 message="Upstream service timed out" trace_id=tr-0000501
+2026-10-09 01:31:51 [ERROR] component=gateway exception=ValidationError code=E1501 message="Required field missing from request" trace_id=tr-0000502
+2026-10-09 01:32:02 [ERROR] component=auth exception=ConnectionError code=E1502 message="Connection refused by dependency" trace_id=tr-0000503
+2026-10-09 01:32:13 [ERROR] component=storage exception=ValidationError code=E1503 message="Required field missing from request" trace_id=tr-0000504
+2026-10-09 01:32:24 [ERROR] component=billing exception=ValidationError code=E1504 message="Required field missing from request" trace_id=tr-0000505
+2026-10-09 01:32:35 [ERROR] component=billing exception=ValidationError code=E1505 message="Required field missing from request" trace_id=tr-0000506
+2026-10-09 01:32:46 [ERROR] component=gateway exception=TimeoutError code=E1506 message="Upstream service timed out" trace_id=tr-0000507
+2026-10-09 01:32:57 [ERROR] component=auth exception=ConnectionError code=E1507 message="Connection refused by dependency" trace_id=tr-0000508
+2026-10-09 01:33:08 [ERROR] component=auth exception=ConnectionError code=E1508 message="Connection refused by dependency" trace_id=tr-0000509
+2026-10-09 01:33:19 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1509 message="Worker capacity limit reached" trace_id=tr-0000510
+2026-10-09 01:33:30 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1510 message="Worker capacity limit reached" trace_id=tr-0000511
+2026-10-09 01:33:41 [WARN] component=storage exception=RetryLimitWarning code=E1511 message="Retry threshold nearly reached" trace_id=tr-0000512
+2026-10-09 01:33:52 [ERROR] component=storage exception=ConnectionError code=E1512 message="Connection refused by dependency" trace_id=tr-0000513
+2026-10-09 01:34:03 [ERROR] component=auth exception=TimeoutError code=E1513 message="Upstream service timed out" trace_id=tr-0000514
+2026-10-09 01:34:14 [ERROR] component=storage exception=TimeoutError code=E1514 message="Upstream service timed out" trace_id=tr-0000515
+2026-10-09 01:34:25 [CRITICAL] component=storage exception=ResourceExhausted code=E1515 message="Worker capacity limit reached" trace_id=tr-0000516
+2026-10-09 01:34:36 [ERROR] component=gateway exception=ValidationError code=E1516 message="Required field missing from request" trace_id=tr-0000517
+2026-10-09 01:34:47 [CRITICAL] component=gateway exception=ResourceExhausted code=E1517 message="Worker capacity limit reached" trace_id=tr-0000518
+2026-10-09 01:34:58 [ERROR] component=storage exception=ConnectionError code=E1518 message="Connection refused by dependency" trace_id=tr-0000519
+2026-10-09 01:35:09 [ERROR] component=scheduler exception=ConnectionError code=E1519 message="Connection refused by dependency" trace_id=tr-0000520
+2026-10-09 01:35:20 [WARN] component=storage exception=RetryLimitWarning code=E1520 message="Retry threshold nearly reached" trace_id=tr-0000521
+2026-10-09 01:35:31 [ERROR] component=gateway exception=TimeoutError code=E1521 message="Upstream service timed out" trace_id=tr-0000522
+2026-10-09 01:35:42 [ERROR] component=scheduler exception=ConnectionError code=E1522 message="Connection refused by dependency" trace_id=tr-0000523
+2026-10-09 01:35:53 [ERROR] component=auth exception=ValidationError code=E1523 message="Required field missing from request" trace_id=tr-0000524
+2026-10-09 01:36:04 [ERROR] component=auth exception=ValidationError code=E1524 message="Required field missing from request" trace_id=tr-0000525
+2026-10-09 01:36:15 [ERROR] component=gateway exception=ValidationError code=E1525 message="Required field missing from request" trace_id=tr-0000526
+2026-10-09 01:36:26 [CRITICAL] component=auth exception=ResourceExhausted code=E1526 message="Worker capacity limit reached" trace_id=tr-0000527
+2026-10-09 01:36:37 [ERROR] component=gateway exception=ValidationError code=E1527 message="Required field missing from request" trace_id=tr-0000528
+2026-10-09 01:36:48 [ERROR] component=storage exception=ValidationError code=E1528 message="Required field missing from request" trace_id=tr-0000529
+2026-10-09 01:36:59 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1529 message="Worker capacity limit reached" trace_id=tr-0000530
+2026-10-09 01:37:10 [WARN] component=storage exception=RetryLimitWarning code=E1530 message="Retry threshold nearly reached" trace_id=tr-0000531
+2026-10-09 01:37:21 [WARN] component=billing exception=RetryLimitWarning code=E1531 message="Retry threshold nearly reached" trace_id=tr-0000532
+2026-10-09 01:37:32 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1532 message="Worker capacity limit reached" trace_id=tr-0000533
+2026-10-09 01:37:43 [WARN] component=storage exception=RetryLimitWarning code=E1533 message="Retry threshold nearly reached" trace_id=tr-0000534
+2026-10-09 01:37:54 [ERROR] component=scheduler exception=TimeoutError code=E1534 message="Upstream service timed out" trace_id=tr-0000535
+2026-10-09 01:38:05 [ERROR] component=gateway exception=TimeoutError code=E1535 message="Upstream service timed out" trace_id=tr-0000536
+2026-10-09 01:38:16 [ERROR] component=scheduler exception=TimeoutError code=E1536 message="Upstream service timed out" trace_id=tr-0000537
+2026-10-09 01:38:27 [ERROR] component=billing exception=ConnectionError code=E1537 message="Connection refused by dependency" trace_id=tr-0000538
+2026-10-09 01:38:38 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1538 message="Worker capacity limit reached" trace_id=tr-0000539
+2026-10-09 01:38:49 [CRITICAL] component=storage exception=ResourceExhausted code=E1539 message="Worker capacity limit reached" trace_id=tr-0000540
+2026-10-09 01:39:00 [ERROR] component=auth exception=ValidationError code=E1540 message="Required field missing from request" trace_id=tr-0000541
+2026-10-09 01:39:11 [CRITICAL] component=billing exception=ResourceExhausted code=E1541 message="Worker capacity limit reached" trace_id=tr-0000542
+2026-10-09 01:39:22 [CRITICAL] component=auth exception=ResourceExhausted code=E1542 message="Worker capacity limit reached" trace_id=tr-0000543
+2026-10-09 01:39:33 [WARN] component=gateway exception=RetryLimitWarning code=E1543 message="Retry threshold nearly reached" trace_id=tr-0000544
+2026-10-09 01:39:44 [ERROR] component=storage exception=TimeoutError code=E1544 message="Upstream service timed out" trace_id=tr-0000545
+2026-10-09 01:39:55 [ERROR] component=scheduler exception=ConnectionError code=E1545 message="Connection refused by dependency" trace_id=tr-0000546
+2026-10-09 01:40:06 [CRITICAL] component=gateway exception=ResourceExhausted code=E1546 message="Worker capacity limit reached" trace_id=tr-0000547
+2026-10-09 01:40:17 [ERROR] component=storage exception=ConnectionError code=E1547 message="Connection refused by dependency" trace_id=tr-0000548
+2026-10-09 01:40:28 [CRITICAL] component=billing exception=ResourceExhausted code=E1548 message="Worker capacity limit reached" trace_id=tr-0000549
+2026-10-09 01:40:39 [ERROR] component=scheduler exception=ConnectionError code=E1549 message="Connection refused by dependency" trace_id=tr-0000550
+2026-10-09 01:40:50 [ERROR] component=billing exception=ConnectionError code=E1550 message="Connection refused by dependency" trace_id=tr-0000551
+2026-10-09 01:41:01 [ERROR] component=gateway exception=ConnectionError code=E1551 message="Connection refused by dependency" trace_id=tr-0000552
+2026-10-09 01:41:12 [ERROR] component=billing exception=ConnectionError code=E1552 message="Connection refused by dependency" trace_id=tr-0000553
+2026-10-09 01:41:23 [ERROR] component=billing exception=ConnectionError code=E1553 message="Connection refused by dependency" trace_id=tr-0000554
+2026-10-09 01:41:34 [ERROR] component=gateway exception=ValidationError code=E1554 message="Required field missing from request" trace_id=tr-0000555
+2026-10-09 01:41:45 [ERROR] component=auth exception=ConnectionError code=E1555 message="Connection refused by dependency" trace_id=tr-0000556
+2026-10-09 01:41:56 [ERROR] component=auth exception=TimeoutError code=E1556 message="Upstream service timed out" trace_id=tr-0000557
+2026-10-09 01:42:07 [WARN] component=storage exception=RetryLimitWarning code=E1557 message="Retry threshold nearly reached" trace_id=tr-0000558
+2026-10-09 01:42:18 [ERROR] component=storage exception=TimeoutError code=E1558 message="Upstream service timed out" trace_id=tr-0000559
+2026-10-09 01:42:29 [ERROR] component=scheduler exception=TimeoutError code=E1559 message="Upstream service timed out" trace_id=tr-0000560
+2026-10-09 01:42:40 [CRITICAL] component=storage exception=ResourceExhausted code=E1560 message="Worker capacity limit reached" trace_id=tr-0000561
+2026-10-09 01:42:51 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1561 message="Worker capacity limit reached" trace_id=tr-0000562
+2026-10-09 01:43:02 [ERROR] component=gateway exception=ValidationError code=E1562 message="Required field missing from request" trace_id=tr-0000563
+2026-10-09 01:43:13 [WARN] component=billing exception=RetryLimitWarning code=E1563 message="Retry threshold nearly reached" trace_id=tr-0000564
+2026-10-09 01:43:24 [ERROR] component=gateway exception=ValidationError code=E1564 message="Required field missing from request" trace_id=tr-0000565
+2026-10-09 01:43:35 [WARN] component=billing exception=RetryLimitWarning code=E1565 message="Retry threshold nearly reached" trace_id=tr-0000566
+2026-10-09 01:43:46 [ERROR] component=billing exception=ValidationError code=E1566 message="Required field missing from request" trace_id=tr-0000567
+2026-10-09 01:43:57 [ERROR] component=storage exception=TimeoutError code=E1567 message="Upstream service timed out" trace_id=tr-0000568
+2026-10-09 01:44:08 [WARN] component=scheduler exception=RetryLimitWarning code=E1568 message="Retry threshold nearly reached" trace_id=tr-0000569
+2026-10-09 01:44:19 [ERROR] component=auth exception=ValidationError code=E1569 message="Required field missing from request" trace_id=tr-0000570
+2026-10-09 01:44:30 [ERROR] component=gateway exception=ValidationError code=E1570 message="Required field missing from request" trace_id=tr-0000571
+2026-10-09 01:44:41 [WARN] component=billing exception=RetryLimitWarning code=E1571 message="Retry threshold nearly reached" trace_id=tr-0000572
+2026-10-09 01:44:52 [WARN] component=auth exception=RetryLimitWarning code=E1572 message="Retry threshold nearly reached" trace_id=tr-0000573
+2026-10-09 01:45:03 [ERROR] component=scheduler exception=ValidationError code=E1573 message="Required field missing from request" trace_id=tr-0000574
+2026-10-09 01:45:14 [CRITICAL] component=auth exception=ResourceExhausted code=E1574 message="Worker capacity limit reached" trace_id=tr-0000575
+2026-10-09 01:45:25 [ERROR] component=billing exception=TimeoutError code=E1575 message="Upstream service timed out" trace_id=tr-0000576
+2026-10-09 01:45:36 [WARN] component=storage exception=RetryLimitWarning code=E1576 message="Retry threshold nearly reached" trace_id=tr-0000577
+2026-10-09 01:45:47 [ERROR] component=gateway exception=TimeoutError code=E1577 message="Upstream service timed out" trace_id=tr-0000578
+2026-10-09 01:45:58 [CRITICAL] component=storage exception=ResourceExhausted code=E1578 message="Worker capacity limit reached" trace_id=tr-0000579
+2026-10-09 01:46:09 [CRITICAL] component=billing exception=ResourceExhausted code=E1579 message="Worker capacity limit reached" trace_id=tr-0000580
+2026-10-09 01:46:20 [ERROR] component=gateway exception=ValidationError code=E1580 message="Required field missing from request" trace_id=tr-0000581
+2026-10-09 01:46:31 [ERROR] component=gateway exception=ConnectionError code=E1581 message="Connection refused by dependency" trace_id=tr-0000582
+2026-10-09 01:46:42 [WARN] component=storage exception=RetryLimitWarning code=E1582 message="Retry threshold nearly reached" trace_id=tr-0000583
+2026-10-09 01:46:53 [CRITICAL] component=gateway exception=ResourceExhausted code=E1583 message="Worker capacity limit reached" trace_id=tr-0000584
+2026-10-09 01:47:04 [ERROR] component=scheduler exception=ConnectionError code=E1584 message="Connection refused by dependency" trace_id=tr-0000585
+2026-10-09 01:47:15 [WARN] component=billing exception=RetryLimitWarning code=E1585 message="Retry threshold nearly reached" trace_id=tr-0000586
+2026-10-09 01:47:26 [WARN] component=gateway exception=RetryLimitWarning code=E1586 message="Retry threshold nearly reached" trace_id=tr-0000587
+2026-10-09 01:47:37 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1587 message="Worker capacity limit reached" trace_id=tr-0000588
+2026-10-09 01:47:48 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1588 message="Worker capacity limit reached" trace_id=tr-0000589
+2026-10-09 01:47:59 [ERROR] component=storage exception=ConnectionError code=E1589 message="Connection refused by dependency" trace_id=tr-0000590
+2026-10-09 01:48:10 [ERROR] component=storage exception=ConnectionError code=E1590 message="Connection refused by dependency" trace_id=tr-0000591
+2026-10-09 01:48:21 [ERROR] component=auth exception=ConnectionError code=E1591 message="Connection refused by dependency" trace_id=tr-0000592
+2026-10-09 01:48:32 [CRITICAL] component=billing exception=ResourceExhausted code=E1592 message="Worker capacity limit reached" trace_id=tr-0000593
+2026-10-09 01:48:43 [ERROR] component=scheduler exception=ValidationError code=E1593 message="Required field missing from request" trace_id=tr-0000594
+2026-10-09 01:48:54 [WARN] component=billing exception=RetryLimitWarning code=E1594 message="Retry threshold nearly reached" trace_id=tr-0000595
+2026-10-09 01:49:05 [ERROR] component=billing exception=ConnectionError code=E1595 message="Connection refused by dependency" trace_id=tr-0000596
+2026-10-09 01:49:16 [WARN] component=auth exception=RetryLimitWarning code=E1596 message="Retry threshold nearly reached" trace_id=tr-0000597
+2026-10-09 01:49:27 [ERROR] component=scheduler exception=ConnectionError code=E1597 message="Connection refused by dependency" trace_id=tr-0000598
+2026-10-09 01:49:38 [WARN] component=billing exception=RetryLimitWarning code=E1598 message="Retry threshold nearly reached" trace_id=tr-0000599
+2026-10-09 01:49:49 [ERROR] component=storage exception=ValidationError code=E1599 message="Required field missing from request" trace_id=tr-0000600
+2026-10-09 01:50:00 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1600 message="Worker capacity limit reached" trace_id=tr-0000601
+2026-10-09 01:50:11 [CRITICAL] component=gateway exception=ResourceExhausted code=E1601 message="Worker capacity limit reached" trace_id=tr-0000602
+2026-10-09 01:50:22 [ERROR] component=storage exception=ValidationError code=E1602 message="Required field missing from request" trace_id=tr-0000603
+2026-10-09 01:50:33 [ERROR] component=scheduler exception=TimeoutError code=E1603 message="Upstream service timed out" trace_id=tr-0000604
+2026-10-09 01:50:44 [ERROR] component=billing exception=TimeoutError code=E1604 message="Upstream service timed out" trace_id=tr-0000605
+2026-10-09 01:50:55 [ERROR] component=billing exception=TimeoutError code=E1605 message="Upstream service timed out" trace_id=tr-0000606
+2026-10-09 01:51:06 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1606 message="Worker capacity limit reached" trace_id=tr-0000607
+2026-10-09 01:51:17 [ERROR] component=scheduler exception=TimeoutError code=E1607 message="Upstream service timed out" trace_id=tr-0000608
+2026-10-09 01:51:28 [CRITICAL] component=gateway exception=ResourceExhausted code=E1608 message="Worker capacity limit reached" trace_id=tr-0000609
+2026-10-09 01:51:39 [CRITICAL] component=gateway exception=ResourceExhausted code=E1609 message="Worker capacity limit reached" trace_id=tr-0000610
+2026-10-09 01:51:50 [ERROR] component=storage exception=ValidationError code=E1610 message="Required field missing from request" trace_id=tr-0000611
+2026-10-09 01:52:01 [CRITICAL] component=gateway exception=ResourceExhausted code=E1611 message="Worker capacity limit reached" trace_id=tr-0000612
+2026-10-09 01:52:12 [ERROR] component=scheduler exception=TimeoutError code=E1612 message="Upstream service timed out" trace_id=tr-0000613
+2026-10-09 01:52:23 [ERROR] component=gateway exception=TimeoutError code=E1613 message="Upstream service timed out" trace_id=tr-0000614
+2026-10-09 01:52:34 [ERROR] component=billing exception=ValidationError code=E1614 message="Required field missing from request" trace_id=tr-0000615
+2026-10-09 01:52:45 [ERROR] component=storage exception=ValidationError code=E1615 message="Required field missing from request" trace_id=tr-0000616
+2026-10-09 01:52:56 [ERROR] component=billing exception=ValidationError code=E1616 message="Required field missing from request" trace_id=tr-0000617
+2026-10-09 01:53:07 [CRITICAL] component=gateway exception=ResourceExhausted code=E1617 message="Worker capacity limit reached" trace_id=tr-0000618
+2026-10-09 01:53:18 [CRITICAL] component=storage exception=ResourceExhausted code=E1618 message="Worker capacity limit reached" trace_id=tr-0000619
+2026-10-09 01:53:29 [WARN] component=scheduler exception=RetryLimitWarning code=E1619 message="Retry threshold nearly reached" trace_id=tr-0000620
+2026-10-09 01:53:40 [ERROR] component=scheduler exception=TimeoutError code=E1620 message="Upstream service timed out" trace_id=tr-0000621
+2026-10-09 01:53:51 [ERROR] component=gateway exception=ValidationError code=E1621 message="Required field missing from request" trace_id=tr-0000622
+2026-10-09 01:54:02 [WARN] component=billing exception=RetryLimitWarning code=E1622 message="Retry threshold nearly reached" trace_id=tr-0000623
+2026-10-09 01:54:13 [ERROR] component=gateway exception=ConnectionError code=E1623 message="Connection refused by dependency" trace_id=tr-0000624
+2026-10-09 01:54:24 [WARN] component=storage exception=RetryLimitWarning code=E1624 message="Retry threshold nearly reached" trace_id=tr-0000625
+2026-10-09 01:54:35 [ERROR] component=scheduler exception=ValidationError code=E1625 message="Required field missing from request" trace_id=tr-0000626
+2026-10-09 01:54:46 [ERROR] component=auth exception=TimeoutError code=E1626 message="Upstream service timed out" trace_id=tr-0000627
+2026-10-09 01:54:57 [ERROR] component=gateway exception=ConnectionError code=E1627 message="Connection refused by dependency" trace_id=tr-0000628
+2026-10-09 01:55:08 [ERROR] component=gateway exception=ConnectionError code=E1628 message="Connection refused by dependency" trace_id=tr-0000629
+2026-10-09 01:55:19 [CRITICAL] component=gateway exception=ResourceExhausted code=E1629 message="Worker capacity limit reached" trace_id=tr-0000630
+2026-10-09 01:55:30 [CRITICAL] component=storage exception=ResourceExhausted code=E1630 message="Worker capacity limit reached" trace_id=tr-0000631
+2026-10-09 01:55:41 [WARN] component=gateway exception=RetryLimitWarning code=E1631 message="Retry threshold nearly reached" trace_id=tr-0000632
+2026-10-09 01:55:52 [WARN] component=gateway exception=RetryLimitWarning code=E1632 message="Retry threshold nearly reached" trace_id=tr-0000633
+2026-10-09 01:56:03 [ERROR] component=storage exception=ValidationError code=E1633 message="Required field missing from request" trace_id=tr-0000634
+2026-10-09 01:56:14 [WARN] component=scheduler exception=RetryLimitWarning code=E1634 message="Retry threshold nearly reached" trace_id=tr-0000635
+2026-10-09 01:56:25 [ERROR] component=billing exception=ConnectionError code=E1635 message="Connection refused by dependency" trace_id=tr-0000636
+2026-10-09 01:56:36 [ERROR] component=billing exception=TimeoutError code=E1636 message="Upstream service timed out" trace_id=tr-0000637
+2026-10-09 01:56:47 [ERROR] component=gateway exception=ConnectionError code=E1637 message="Connection refused by dependency" trace_id=tr-0000638
+2026-10-09 01:56:58 [ERROR] component=billing exception=TimeoutError code=E1638 message="Upstream service timed out" trace_id=tr-0000639
+2026-10-09 01:57:09 [ERROR] component=scheduler exception=ConnectionError code=E1639 message="Connection refused by dependency" trace_id=tr-0000640
+2026-10-09 01:57:20 [ERROR] component=auth exception=TimeoutError code=E1640 message="Upstream service timed out" trace_id=tr-0000641
+2026-10-09 01:57:31 [ERROR] component=scheduler exception=TimeoutError code=E1641 message="Upstream service timed out" trace_id=tr-0000642
+2026-10-09 01:57:42 [ERROR] component=auth exception=ValidationError code=E1642 message="Required field missing from request" trace_id=tr-0000643
+2026-10-09 01:57:53 [ERROR] component=scheduler exception=TimeoutError code=E1643 message="Upstream service timed out" trace_id=tr-0000644
+2026-10-09 01:58:04 [ERROR] component=auth exception=ValidationError code=E1644 message="Required field missing from request" trace_id=tr-0000645
+2026-10-09 01:58:15 [ERROR] component=gateway exception=TimeoutError code=E1645 message="Upstream service timed out" trace_id=tr-0000646
+2026-10-09 01:58:26 [ERROR] component=billing exception=ValidationError code=E1646 message="Required field missing from request" trace_id=tr-0000647
+2026-10-09 01:58:37 [ERROR] component=scheduler exception=TimeoutError code=E1647 message="Upstream service timed out" trace_id=tr-0000648
+2026-10-09 01:58:48 [CRITICAL] component=billing exception=ResourceExhausted code=E1648 message="Worker capacity limit reached" trace_id=tr-0000649
+2026-10-09 01:58:59 [ERROR] component=gateway exception=ConnectionError code=E1649 message="Connection refused by dependency" trace_id=tr-0000650
+2026-10-09 01:59:10 [WARN] component=billing exception=RetryLimitWarning code=E1650 message="Retry threshold nearly reached" trace_id=tr-0000651
+2026-10-09 01:59:21 [ERROR] component=storage exception=ConnectionError code=E1651 message="Connection refused by dependency" trace_id=tr-0000652
+2026-10-09 01:59:32 [ERROR] component=auth exception=ConnectionError code=E1652 message="Connection refused by dependency" trace_id=tr-0000653
+2026-10-09 01:59:43 [ERROR] component=gateway exception=TimeoutError code=E1653 message="Upstream service timed out" trace_id=tr-0000654
+2026-10-09 01:59:54 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1654 message="Worker capacity limit reached" trace_id=tr-0000655
+2026-10-09 02:00:05 [WARN] component=storage exception=RetryLimitWarning code=E1655 message="Retry threshold nearly reached" trace_id=tr-0000656
+2026-10-09 02:00:16 [CRITICAL] component=storage exception=ResourceExhausted code=E1656 message="Worker capacity limit reached" trace_id=tr-0000657
+2026-10-09 02:00:27 [WARN] component=billing exception=RetryLimitWarning code=E1657 message="Retry threshold nearly reached" trace_id=tr-0000658
+2026-10-09 02:00:38 [ERROR] component=billing exception=ValidationError code=E1658 message="Required field missing from request" trace_id=tr-0000659
+2026-10-09 02:00:49 [ERROR] component=storage exception=ValidationError code=E1659 message="Required field missing from request" trace_id=tr-0000660
+2026-10-09 02:01:00 [WARN] component=storage exception=RetryLimitWarning code=E1660 message="Retry threshold nearly reached" trace_id=tr-0000661
+2026-10-09 02:01:11 [WARN] component=storage exception=RetryLimitWarning code=E1661 message="Retry threshold nearly reached" trace_id=tr-0000662
+2026-10-09 02:01:22 [ERROR] component=gateway exception=ValidationError code=E1662 message="Required field missing from request" trace_id=tr-0000663
+2026-10-09 02:01:33 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1663 message="Worker capacity limit reached" trace_id=tr-0000664
+2026-10-09 02:01:44 [ERROR] component=billing exception=ValidationError code=E1664 message="Required field missing from request" trace_id=tr-0000665
+2026-10-09 02:01:55 [ERROR] component=scheduler exception=TimeoutError code=E1665 message="Upstream service timed out" trace_id=tr-0000666
+2026-10-09 02:02:06 [CRITICAL] component=gateway exception=ResourceExhausted code=E1666 message="Worker capacity limit reached" trace_id=tr-0000667
+2026-10-09 02:02:17 [WARN] component=gateway exception=RetryLimitWarning code=E1667 message="Retry threshold nearly reached" trace_id=tr-0000668
+2026-10-09 02:02:28 [ERROR] component=gateway exception=ConnectionError code=E1668 message="Connection refused by dependency" trace_id=tr-0000669
+2026-10-09 02:02:39 [ERROR] component=auth exception=TimeoutError code=E1669 message="Upstream service timed out" trace_id=tr-0000670
+2026-10-09 02:02:50 [ERROR] component=billing exception=ValidationError code=E1670 message="Required field missing from request" trace_id=tr-0000671
+2026-10-09 02:03:01 [CRITICAL] component=gateway exception=ResourceExhausted code=E1671 message="Worker capacity limit reached" trace_id=tr-0000672
+2026-10-09 02:03:12 [WARN] component=storage exception=RetryLimitWarning code=E1672 message="Retry threshold nearly reached" trace_id=tr-0000673
+2026-10-09 02:03:23 [ERROR] component=scheduler exception=TimeoutError code=E1673 message="Upstream service timed out" trace_id=tr-0000674
+2026-10-09 02:03:34 [WARN] component=gateway exception=RetryLimitWarning code=E1674 message="Retry threshold nearly reached" trace_id=tr-0000675
+2026-10-09 02:03:45 [ERROR] component=scheduler exception=TimeoutError code=E1675 message="Upstream service timed out" trace_id=tr-0000676
+2026-10-09 02:03:56 [CRITICAL] component=storage exception=ResourceExhausted code=E1676 message="Worker capacity limit reached" trace_id=tr-0000677
+2026-10-09 02:04:07 [ERROR] component=auth exception=ConnectionError code=E1677 message="Connection refused by dependency" trace_id=tr-0000678
+2026-10-09 02:04:18 [ERROR] component=gateway exception=ValidationError code=E1678 message="Required field missing from request" trace_id=tr-0000679
+2026-10-09 02:04:29 [ERROR] component=scheduler exception=ConnectionError code=E1679 message="Connection refused by dependency" trace_id=tr-0000680
+2026-10-09 02:04:40 [ERROR] component=scheduler exception=ValidationError code=E1680 message="Required field missing from request" trace_id=tr-0000681
+2026-10-09 02:04:51 [WARN] component=billing exception=RetryLimitWarning code=E1681 message="Retry threshold nearly reached" trace_id=tr-0000682
+2026-10-09 02:05:02 [ERROR] component=scheduler exception=ConnectionError code=E1682 message="Connection refused by dependency" trace_id=tr-0000683
+2026-10-09 02:05:13 [WARN] component=billing exception=RetryLimitWarning code=E1683 message="Retry threshold nearly reached" trace_id=tr-0000684
+2026-10-09 02:05:24 [CRITICAL] component=auth exception=ResourceExhausted code=E1684 message="Worker capacity limit reached" trace_id=tr-0000685
+2026-10-09 02:05:35 [WARN] component=billing exception=RetryLimitWarning code=E1685 message="Retry threshold nearly reached" trace_id=tr-0000686
+2026-10-09 02:05:46 [ERROR] component=storage exception=ValidationError code=E1686 message="Required field missing from request" trace_id=tr-0000687
+2026-10-09 02:05:57 [CRITICAL] component=gateway exception=ResourceExhausted code=E1687 message="Worker capacity limit reached" trace_id=tr-0000688
+2026-10-09 02:06:08 [ERROR] component=gateway exception=ValidationError code=E1688 message="Required field missing from request" trace_id=tr-0000689
+2026-10-09 02:06:19 [WARN] component=billing exception=RetryLimitWarning code=E1689 message="Retry threshold nearly reached" trace_id=tr-0000690
+2026-10-09 02:06:30 [ERROR] component=billing exception=TimeoutError code=E1690 message="Upstream service timed out" trace_id=tr-0000691
+2026-10-09 02:06:41 [ERROR] component=gateway exception=ConnectionError code=E1691 message="Connection refused by dependency" trace_id=tr-0000692
+2026-10-09 02:06:52 [ERROR] component=scheduler exception=TimeoutError code=E1692 message="Upstream service timed out" trace_id=tr-0000693
+2026-10-09 02:07:03 [ERROR] component=scheduler exception=ValidationError code=E1693 message="Required field missing from request" trace_id=tr-0000694
+2026-10-09 02:07:14 [CRITICAL] component=storage exception=ResourceExhausted code=E1694 message="Worker capacity limit reached" trace_id=tr-0000695
+2026-10-09 02:07:25 [WARN] component=billing exception=RetryLimitWarning code=E1695 message="Retry threshold nearly reached" trace_id=tr-0000696
+2026-10-09 02:07:36 [CRITICAL] component=auth exception=ResourceExhausted code=E1696 message="Worker capacity limit reached" trace_id=tr-0000697
+2026-10-09 02:07:47 [ERROR] component=auth exception=ConnectionError code=E1697 message="Connection refused by dependency" trace_id=tr-0000698
+2026-10-09 02:07:58 [ERROR] component=auth exception=ValidationError code=E1698 message="Required field missing from request" trace_id=tr-0000699
+2026-10-09 02:08:09 [ERROR] component=auth exception=ConnectionError code=E1699 message="Connection refused by dependency" trace_id=tr-0000700
+2026-10-09 02:08:20 [CRITICAL] component=gateway exception=ResourceExhausted code=E1700 message="Worker capacity limit reached" trace_id=tr-0000701
+2026-10-09 02:08:31 [ERROR] component=scheduler exception=ConnectionError code=E1701 message="Connection refused by dependency" trace_id=tr-0000702
+2026-10-09 02:08:42 [ERROR] component=billing exception=TimeoutError code=E1702 message="Upstream service timed out" trace_id=tr-0000703
+2026-10-09 02:08:53 [ERROR] component=billing exception=TimeoutError code=E1703 message="Upstream service timed out" trace_id=tr-0000704
+2026-10-09 02:09:04 [ERROR] component=scheduler exception=TimeoutError code=E1704 message="Upstream service timed out" trace_id=tr-0000705
+2026-10-09 02:09:15 [ERROR] component=gateway exception=ConnectionError code=E1705 message="Connection refused by dependency" trace_id=tr-0000706
+2026-10-09 02:09:26 [WARN] component=gateway exception=RetryLimitWarning code=E1706 message="Retry threshold nearly reached" trace_id=tr-0000707
+2026-10-09 02:09:37 [WARN] component=gateway exception=RetryLimitWarning code=E1707 message="Retry threshold nearly reached" trace_id=tr-0000708
+2026-10-09 02:09:48 [WARN] component=auth exception=RetryLimitWarning code=E1708 message="Retry threshold nearly reached" trace_id=tr-0000709
+2026-10-09 02:09:59 [CRITICAL] component=auth exception=ResourceExhausted code=E1709 message="Worker capacity limit reached" trace_id=tr-0000710
+2026-10-09 02:10:10 [ERROR] component=auth exception=ConnectionError code=E1710 message="Connection refused by dependency" trace_id=tr-0000711
+2026-10-09 02:10:21 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1711 message="Worker capacity limit reached" trace_id=tr-0000712
+2026-10-09 02:10:32 [ERROR] component=storage exception=TimeoutError code=E1712 message="Upstream service timed out" trace_id=tr-0000713
+2026-10-09 02:10:43 [WARN] component=billing exception=RetryLimitWarning code=E1713 message="Retry threshold nearly reached" trace_id=tr-0000714
+2026-10-09 02:10:54 [ERROR] component=gateway exception=ConnectionError code=E1714 message="Connection refused by dependency" trace_id=tr-0000715
+2026-10-09 02:11:05 [WARN] component=auth exception=RetryLimitWarning code=E1715 message="Retry threshold nearly reached" trace_id=tr-0000716
+2026-10-09 02:11:16 [ERROR] component=billing exception=TimeoutError code=E1716 message="Upstream service timed out" trace_id=tr-0000717
+2026-10-09 02:11:27 [WARN] component=scheduler exception=RetryLimitWarning code=E1717 message="Retry threshold nearly reached" trace_id=tr-0000718
+2026-10-09 02:11:38 [ERROR] component=auth exception=ConnectionError code=E1718 message="Connection refused by dependency" trace_id=tr-0000719
+2026-10-09 02:11:49 [ERROR] component=scheduler exception=ConnectionError code=E1719 message="Connection refused by dependency" trace_id=tr-0000720
+2026-10-09 02:12:00 [ERROR] component=storage exception=TimeoutError code=E1720 message="Upstream service timed out" trace_id=tr-0000721
+2026-10-09 02:12:11 [ERROR] component=scheduler exception=ConnectionError code=E1721 message="Connection refused by dependency" trace_id=tr-0000722
+2026-10-09 02:12:22 [WARN] component=gateway exception=RetryLimitWarning code=E1722 message="Retry threshold nearly reached" trace_id=tr-0000723
+2026-10-09 02:12:33 [CRITICAL] component=billing exception=ResourceExhausted code=E1723 message="Worker capacity limit reached" trace_id=tr-0000724
+2026-10-09 02:12:44 [ERROR] component=storage exception=TimeoutError code=E1724 message="Upstream service timed out" trace_id=tr-0000725
+2026-10-09 02:12:55 [ERROR] component=auth exception=ValidationError code=E1725 message="Required field missing from request" trace_id=tr-0000726
+2026-10-09 02:13:06 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1726 message="Worker capacity limit reached" trace_id=tr-0000727
+2026-10-09 02:13:17 [CRITICAL] component=billing exception=ResourceExhausted code=E1727 message="Worker capacity limit reached" trace_id=tr-0000728
+2026-10-09 02:13:28 [CRITICAL] component=auth exception=ResourceExhausted code=E1728 message="Worker capacity limit reached" trace_id=tr-0000729
+2026-10-09 02:13:39 [ERROR] component=auth exception=ConnectionError code=E1729 message="Connection refused by dependency" trace_id=tr-0000730
+2026-10-09 02:13:50 [ERROR] component=scheduler exception=ConnectionError code=E1730 message="Connection refused by dependency" trace_id=tr-0000731
+2026-10-09 02:14:01 [CRITICAL] component=auth exception=ResourceExhausted code=E1731 message="Worker capacity limit reached" trace_id=tr-0000732
+2026-10-09 02:14:12 [ERROR] component=gateway exception=ConnectionError code=E1732 message="Connection refused by dependency" trace_id=tr-0000733
+2026-10-09 02:14:23 [ERROR] component=auth exception=ValidationError code=E1733 message="Required field missing from request" trace_id=tr-0000734
+2026-10-09 02:14:34 [WARN] component=billing exception=RetryLimitWarning code=E1734 message="Retry threshold nearly reached" trace_id=tr-0000735
+2026-10-09 02:14:45 [ERROR] component=auth exception=TimeoutError code=E1735 message="Upstream service timed out" trace_id=tr-0000736
+2026-10-09 02:14:56 [ERROR] component=scheduler exception=ValidationError code=E1736 message="Required field missing from request" trace_id=tr-0000737
+2026-10-09 02:15:07 [ERROR] component=billing exception=ValidationError code=E1737 message="Required field missing from request" trace_id=tr-0000738
+2026-10-09 02:15:18 [CRITICAL] component=auth exception=ResourceExhausted code=E1738 message="Worker capacity limit reached" trace_id=tr-0000739
+2026-10-09 02:15:29 [ERROR] component=billing exception=ConnectionError code=E1739 message="Connection refused by dependency" trace_id=tr-0000740
+2026-10-09 02:15:40 [WARN] component=auth exception=RetryLimitWarning code=E1740 message="Retry threshold nearly reached" trace_id=tr-0000741
+2026-10-09 02:15:51 [ERROR] component=gateway exception=ValidationError code=E1741 message="Required field missing from request" trace_id=tr-0000742
+2026-10-09 02:16:02 [ERROR] component=auth exception=TimeoutError code=E1742 message="Upstream service timed out" trace_id=tr-0000743
+2026-10-09 02:16:13 [CRITICAL] component=billing exception=ResourceExhausted code=E1743 message="Worker capacity limit reached" trace_id=tr-0000744
+2026-10-09 02:16:24 [ERROR] component=auth exception=ValidationError code=E1744 message="Required field missing from request" trace_id=tr-0000745
+2026-10-09 02:16:35 [ERROR] component=scheduler exception=ConnectionError code=E1745 message="Connection refused by dependency" trace_id=tr-0000746
+2026-10-09 02:16:46 [ERROR] component=gateway exception=ConnectionError code=E1746 message="Connection refused by dependency" trace_id=tr-0000747
+2026-10-09 02:16:57 [ERROR] component=gateway exception=ValidationError code=E1747 message="Required field missing from request" trace_id=tr-0000748
+2026-10-09 02:17:08 [WARN] component=billing exception=RetryLimitWarning code=E1748 message="Retry threshold nearly reached" trace_id=tr-0000749
+2026-10-09 02:17:19 [ERROR] component=scheduler exception=TimeoutError code=E1749 message="Upstream service timed out" trace_id=tr-0000750
+2026-10-09 02:17:30 [CRITICAL] component=billing exception=ResourceExhausted code=E1750 message="Worker capacity limit reached" trace_id=tr-0000751
+2026-10-09 02:17:41 [CRITICAL] component=auth exception=ResourceExhausted code=E1751 message="Worker capacity limit reached" trace_id=tr-0000752
+2026-10-09 02:17:52 [WARN] component=scheduler exception=RetryLimitWarning code=E1752 message="Retry threshold nearly reached" trace_id=tr-0000753
+2026-10-09 02:18:03 [ERROR] component=gateway exception=ValidationError code=E1753 message="Required field missing from request" trace_id=tr-0000754
+2026-10-09 02:18:14 [ERROR] component=scheduler exception=ValidationError code=E1754 message="Required field missing from request" trace_id=tr-0000755
+2026-10-09 02:18:25 [ERROR] component=storage exception=ConnectionError code=E1755 message="Connection refused by dependency" trace_id=tr-0000756
+2026-10-09 02:18:36 [ERROR] component=storage exception=ConnectionError code=E1756 message="Connection refused by dependency" trace_id=tr-0000757
+2026-10-09 02:18:47 [CRITICAL] component=gateway exception=ResourceExhausted code=E1757 message="Worker capacity limit reached" trace_id=tr-0000758
+2026-10-09 02:18:58 [WARN] component=gateway exception=RetryLimitWarning code=E1758 message="Retry threshold nearly reached" trace_id=tr-0000759
+2026-10-09 02:19:09 [ERROR] component=storage exception=ValidationError code=E1759 message="Required field missing from request" trace_id=tr-0000760
+2026-10-09 02:19:20 [ERROR] component=auth exception=ConnectionError code=E1760 message="Connection refused by dependency" trace_id=tr-0000761
+2026-10-09 02:19:31 [ERROR] component=billing exception=ValidationError code=E1761 message="Required field missing from request" trace_id=tr-0000762
+2026-10-09 02:19:42 [WARN] component=gateway exception=RetryLimitWarning code=E1762 message="Retry threshold nearly reached" trace_id=tr-0000763
+2026-10-09 02:19:53 [CRITICAL] component=storage exception=ResourceExhausted code=E1763 message="Worker capacity limit reached" trace_id=tr-0000764
+2026-10-09 02:20:04 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1764 message="Worker capacity limit reached" trace_id=tr-0000765
+2026-10-09 02:20:15 [ERROR] component=storage exception=TimeoutError code=E1765 message="Upstream service timed out" trace_id=tr-0000766
+2026-10-09 02:20:26 [WARN] component=billing exception=RetryLimitWarning code=E1766 message="Retry threshold nearly reached" trace_id=tr-0000767
+2026-10-09 02:20:37 [ERROR] component=storage exception=TimeoutError code=E1767 message="Upstream service timed out" trace_id=tr-0000768
+2026-10-09 02:20:48 [CRITICAL] component=storage exception=ResourceExhausted code=E1768 message="Worker capacity limit reached" trace_id=tr-0000769
+2026-10-09 02:20:59 [ERROR] component=gateway exception=ConnectionError code=E1769 message="Connection refused by dependency" trace_id=tr-0000770
+2026-10-09 02:21:10 [ERROR] component=storage exception=TimeoutError code=E1770 message="Upstream service timed out" trace_id=tr-0000771
+2026-10-09 02:21:21 [WARN] component=billing exception=RetryLimitWarning code=E1771 message="Retry threshold nearly reached" trace_id=tr-0000772
+2026-10-09 02:21:32 [ERROR] component=scheduler exception=ValidationError code=E1772 message="Required field missing from request" trace_id=tr-0000773
+2026-10-09 02:21:43 [ERROR] component=billing exception=ValidationError code=E1773 message="Required field missing from request" trace_id=tr-0000774
+2026-10-09 02:21:54 [ERROR] component=gateway exception=ValidationError code=E1774 message="Required field missing from request" trace_id=tr-0000775
+2026-10-09 02:22:05 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1775 message="Worker capacity limit reached" trace_id=tr-0000776
+2026-10-09 02:22:16 [CRITICAL] component=auth exception=ResourceExhausted code=E1776 message="Worker capacity limit reached" trace_id=tr-0000777
+2026-10-09 02:22:27 [ERROR] component=storage exception=TimeoutError code=E1777 message="Upstream service timed out" trace_id=tr-0000778
+2026-10-09 02:22:38 [ERROR] component=auth exception=TimeoutError code=E1778 message="Upstream service timed out" trace_id=tr-0000779
+2026-10-09 02:22:49 [ERROR] component=billing exception=ConnectionError code=E1779 message="Connection refused by dependency" trace_id=tr-0000780
+2026-10-09 02:23:00 [ERROR] component=billing exception=TimeoutError code=E1780 message="Upstream service timed out" trace_id=tr-0000781
+2026-10-09 02:23:11 [ERROR] component=scheduler exception=TimeoutError code=E1781 message="Upstream service timed out" trace_id=tr-0000782
+2026-10-09 02:23:22 [ERROR] component=auth exception=ConnectionError code=E1782 message="Connection refused by dependency" trace_id=tr-0000783
+2026-10-09 02:23:33 [ERROR] component=storage exception=TimeoutError code=E1783 message="Upstream service timed out" trace_id=tr-0000784
+2026-10-09 02:23:44 [WARN] component=scheduler exception=RetryLimitWarning code=E1784 message="Retry threshold nearly reached" trace_id=tr-0000785
+2026-10-09 02:23:55 [ERROR] component=storage exception=ValidationError code=E1785 message="Required field missing from request" trace_id=tr-0000786
+2026-10-09 02:24:06 [ERROR] component=gateway exception=ValidationError code=E1786 message="Required field missing from request" trace_id=tr-0000787
+2026-10-09 02:24:17 [ERROR] component=gateway exception=TimeoutError code=E1787 message="Upstream service timed out" trace_id=tr-0000788
+2026-10-09 02:24:28 [ERROR] component=storage exception=ConnectionError code=E1788 message="Connection refused by dependency" trace_id=tr-0000789
+2026-10-09 02:24:39 [ERROR] component=auth exception=TimeoutError code=E1789 message="Upstream service timed out" trace_id=tr-0000790
+2026-10-09 02:24:50 [ERROR] component=scheduler exception=ConnectionError code=E1790 message="Connection refused by dependency" trace_id=tr-0000791
+2026-10-09 02:25:01 [ERROR] component=scheduler exception=TimeoutError code=E1791 message="Upstream service timed out" trace_id=tr-0000792
+2026-10-09 02:25:12 [ERROR] component=gateway exception=TimeoutError code=E1792 message="Upstream service timed out" trace_id=tr-0000793
+2026-10-09 02:25:23 [ERROR] component=scheduler exception=ValidationError code=E1793 message="Required field missing from request" trace_id=tr-0000794
+2026-10-09 02:25:34 [CRITICAL] component=auth exception=ResourceExhausted code=E1794 message="Worker capacity limit reached" trace_id=tr-0000795
+2026-10-09 02:25:45 [ERROR] component=gateway exception=ValidationError code=E1795 message="Required field missing from request" trace_id=tr-0000796
+2026-10-09 02:25:56 [ERROR] component=auth exception=ValidationError code=E1796 message="Required field missing from request" trace_id=tr-0000797
+2026-10-09 02:26:07 [ERROR] component=gateway exception=TimeoutError code=E1797 message="Upstream service timed out" trace_id=tr-0000798
+2026-10-09 02:26:18 [ERROR] component=billing exception=TimeoutError code=E1798 message="Upstream service timed out" trace_id=tr-0000799
+2026-10-09 02:26:29 [ERROR] component=auth exception=ValidationError code=E1799 message="Required field missing from request" trace_id=tr-0000800
+2026-10-09 02:26:40 [ERROR] component=billing exception=TimeoutError code=E1800 message="Upstream service timed out" trace_id=tr-0000801
+2026-10-09 02:26:51 [ERROR] component=scheduler exception=ValidationError code=E1801 message="Required field missing from request" trace_id=tr-0000802
+2026-10-09 02:27:02 [ERROR] component=billing exception=ConnectionError code=E1802 message="Connection refused by dependency" trace_id=tr-0000803
+2026-10-09 02:27:13 [ERROR] component=billing exception=ValidationError code=E1803 message="Required field missing from request" trace_id=tr-0000804
+2026-10-09 02:27:24 [ERROR] component=billing exception=ValidationError code=E1804 message="Required field missing from request" trace_id=tr-0000805
+2026-10-09 02:27:35 [ERROR] component=storage exception=ValidationError code=E1805 message="Required field missing from request" trace_id=tr-0000806
+2026-10-09 02:27:46 [WARN] component=auth exception=RetryLimitWarning code=E1806 message="Retry threshold nearly reached" trace_id=tr-0000807
+2026-10-09 02:27:57 [ERROR] component=gateway exception=ValidationError code=E1807 message="Required field missing from request" trace_id=tr-0000808
+2026-10-09 02:28:08 [WARN] component=scheduler exception=RetryLimitWarning code=E1808 message="Retry threshold nearly reached" trace_id=tr-0000809
+2026-10-09 02:28:19 [ERROR] component=billing exception=TimeoutError code=E1809 message="Upstream service timed out" trace_id=tr-0000810
+2026-10-09 02:28:30 [ERROR] component=storage exception=ConnectionError code=E1810 message="Connection refused by dependency" trace_id=tr-0000811
+2026-10-09 02:28:41 [WARN] component=storage exception=RetryLimitWarning code=E1811 message="Retry threshold nearly reached" trace_id=tr-0000812
+2026-10-09 02:28:52 [CRITICAL] component=billing exception=ResourceExhausted code=E1812 message="Worker capacity limit reached" trace_id=tr-0000813
+2026-10-09 02:29:03 [ERROR] component=storage exception=ValidationError code=E1813 message="Required field missing from request" trace_id=tr-0000814
+2026-10-09 02:29:14 [WARN] component=gateway exception=RetryLimitWarning code=E1814 message="Retry threshold nearly reached" trace_id=tr-0000815
+2026-10-09 02:29:25 [CRITICAL] component=storage exception=ResourceExhausted code=E1815 message="Worker capacity limit reached" trace_id=tr-0000816
+2026-10-09 02:29:36 [CRITICAL] component=gateway exception=ResourceExhausted code=E1816 message="Worker capacity limit reached" trace_id=tr-0000817
+2026-10-09 02:29:47 [WARN] component=scheduler exception=RetryLimitWarning code=E1817 message="Retry threshold nearly reached" trace_id=tr-0000818
+2026-10-09 02:29:58 [CRITICAL] component=storage exception=ResourceExhausted code=E1818 message="Worker capacity limit reached" trace_id=tr-0000819
+2026-10-09 02:30:09 [ERROR] component=storage exception=ConnectionError code=E1819 message="Connection refused by dependency" trace_id=tr-0000820
+2026-10-09 02:30:20 [ERROR] component=billing exception=ValidationError code=E1820 message="Required field missing from request" trace_id=tr-0000821
+2026-10-09 02:30:31 [WARN] component=storage exception=RetryLimitWarning code=E1821 message="Retry threshold nearly reached" trace_id=tr-0000822
+2026-10-09 02:30:42 [CRITICAL] component=gateway exception=ResourceExhausted code=E1822 message="Worker capacity limit reached" trace_id=tr-0000823
+2026-10-09 02:30:53 [WARN] component=scheduler exception=RetryLimitWarning code=E1823 message="Retry threshold nearly reached" trace_id=tr-0000824
+2026-10-09 02:31:04 [WARN] component=auth exception=RetryLimitWarning code=E1824 message="Retry threshold nearly reached" trace_id=tr-0000825
+2026-10-09 02:31:15 [ERROR] component=gateway exception=TimeoutError code=E1825 message="Upstream service timed out" trace_id=tr-0000826
+2026-10-09 02:31:26 [ERROR] component=auth exception=ValidationError code=E1826 message="Required field missing from request" trace_id=tr-0000827
+2026-10-09 02:31:37 [ERROR] component=billing exception=ValidationError code=E1827 message="Required field missing from request" trace_id=tr-0000828
+2026-10-09 02:31:48 [CRITICAL] component=auth exception=ResourceExhausted code=E1828 message="Worker capacity limit reached" trace_id=tr-0000829
+2026-10-09 02:31:59 [CRITICAL] component=billing exception=ResourceExhausted code=E1829 message="Worker capacity limit reached" trace_id=tr-0000830
+2026-10-09 02:32:10 [ERROR] component=gateway exception=ConnectionError code=E1830 message="Connection refused by dependency" trace_id=tr-0000831
+2026-10-09 02:32:21 [ERROR] component=gateway exception=TimeoutError code=E1831 message="Upstream service timed out" trace_id=tr-0000832
+2026-10-09 02:32:32 [ERROR] component=storage exception=ValidationError code=E1832 message="Required field missing from request" trace_id=tr-0000833
+2026-10-09 02:32:43 [ERROR] component=storage exception=ValidationError code=E1833 message="Required field missing from request" trace_id=tr-0000834
+2026-10-09 02:32:54 [ERROR] component=billing exception=ValidationError code=E1834 message="Required field missing from request" trace_id=tr-0000835
+2026-10-09 02:33:05 [ERROR] component=auth exception=TimeoutError code=E1835 message="Upstream service timed out" trace_id=tr-0000836
+2026-10-09 02:33:16 [WARN] component=gateway exception=RetryLimitWarning code=E1836 message="Retry threshold nearly reached" trace_id=tr-0000837
+2026-10-09 02:33:27 [ERROR] component=billing exception=ConnectionError code=E1837 message="Connection refused by dependency" trace_id=tr-0000838
+2026-10-09 02:33:38 [CRITICAL] component=gateway exception=ResourceExhausted code=E1838 message="Worker capacity limit reached" trace_id=tr-0000839
+2026-10-09 02:33:49 [ERROR] component=billing exception=ValidationError code=E1839 message="Required field missing from request" trace_id=tr-0000840
+2026-10-09 02:34:00 [ERROR] component=gateway exception=ConnectionError code=E1840 message="Connection refused by dependency" trace_id=tr-0000841
+2026-10-09 02:34:11 [CRITICAL] component=auth exception=ResourceExhausted code=E1841 message="Worker capacity limit reached" trace_id=tr-0000842
+2026-10-09 02:34:22 [ERROR] component=scheduler exception=ValidationError code=E1842 message="Required field missing from request" trace_id=tr-0000843
+2026-10-09 02:34:33 [ERROR] component=billing exception=ValidationError code=E1843 message="Required field missing from request" trace_id=tr-0000844
+2026-10-09 02:34:44 [ERROR] component=gateway exception=TimeoutError code=E1844 message="Upstream service timed out" trace_id=tr-0000845
+2026-10-09 02:34:55 [WARN] component=billing exception=RetryLimitWarning code=E1845 message="Retry threshold nearly reached" trace_id=tr-0000846
+2026-10-09 02:35:06 [WARN] component=storage exception=RetryLimitWarning code=E1846 message="Retry threshold nearly reached" trace_id=tr-0000847
+2026-10-09 02:35:17 [ERROR] component=storage exception=TimeoutError code=E1847 message="Upstream service timed out" trace_id=tr-0000848
+2026-10-09 02:35:28 [CRITICAL] component=auth exception=ResourceExhausted code=E1848 message="Worker capacity limit reached" trace_id=tr-0000849
+2026-10-09 02:35:39 [ERROR] component=scheduler exception=ValidationError code=E1849 message="Required field missing from request" trace_id=tr-0000850
+2026-10-09 02:35:50 [ERROR] component=auth exception=TimeoutError code=E1850 message="Upstream service timed out" trace_id=tr-0000851
+2026-10-09 02:36:01 [CRITICAL] component=gateway exception=ResourceExhausted code=E1851 message="Worker capacity limit reached" trace_id=tr-0000852
+2026-10-09 02:36:12 [WARN] component=scheduler exception=RetryLimitWarning code=E1852 message="Retry threshold nearly reached" trace_id=tr-0000853
+2026-10-09 02:36:23 [ERROR] component=billing exception=TimeoutError code=E1853 message="Upstream service timed out" trace_id=tr-0000854
+2026-10-09 02:36:34 [ERROR] component=auth exception=ValidationError code=E1854 message="Required field missing from request" trace_id=tr-0000855
+2026-10-09 02:36:45 [WARN] component=auth exception=RetryLimitWarning code=E1855 message="Retry threshold nearly reached" trace_id=tr-0000856
+2026-10-09 02:36:56 [CRITICAL] component=storage exception=ResourceExhausted code=E1856 message="Worker capacity limit reached" trace_id=tr-0000857
+2026-10-09 02:37:07 [ERROR] component=gateway exception=TimeoutError code=E1857 message="Upstream service timed out" trace_id=tr-0000858
+2026-10-09 02:37:18 [ERROR] component=storage exception=ValidationError code=E1858 message="Required field missing from request" trace_id=tr-0000859
+2026-10-09 02:37:29 [ERROR] component=gateway exception=ConnectionError code=E1859 message="Connection refused by dependency" trace_id=tr-0000860
+2026-10-09 02:37:40 [ERROR] component=billing exception=ValidationError code=E1860 message="Required field missing from request" trace_id=tr-0000861
+2026-10-09 02:37:51 [ERROR] component=auth exception=ConnectionError code=E1861 message="Connection refused by dependency" trace_id=tr-0000862
+2026-10-09 02:38:02 [WARN] component=scheduler exception=RetryLimitWarning code=E1862 message="Retry threshold nearly reached" trace_id=tr-0000863
+2026-10-09 02:38:13 [ERROR] component=storage exception=ValidationError code=E1863 message="Required field missing from request" trace_id=tr-0000864
+2026-10-09 02:38:24 [ERROR] component=auth exception=ValidationError code=E1864 message="Required field missing from request" trace_id=tr-0000865
+2026-10-09 02:38:35 [ERROR] component=scheduler exception=ConnectionError code=E1865 message="Connection refused by dependency" trace_id=tr-0000866
+2026-10-09 02:38:46 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1866 message="Worker capacity limit reached" trace_id=tr-0000867
+2026-10-09 02:38:57 [ERROR] component=billing exception=ConnectionError code=E1867 message="Connection refused by dependency" trace_id=tr-0000868
+2026-10-09 02:39:08 [CRITICAL] component=auth exception=ResourceExhausted code=E1868 message="Worker capacity limit reached" trace_id=tr-0000869
+2026-10-09 02:39:19 [WARN] component=storage exception=RetryLimitWarning code=E1869 message="Retry threshold nearly reached" trace_id=tr-0000870
+2026-10-09 02:39:30 [ERROR] component=storage exception=TimeoutError code=E1870 message="Upstream service timed out" trace_id=tr-0000871
+2026-10-09 02:39:41 [WARN] component=gateway exception=RetryLimitWarning code=E1871 message="Retry threshold nearly reached" trace_id=tr-0000872
+2026-10-09 02:39:52 [ERROR] component=scheduler exception=TimeoutError code=E1872 message="Upstream service timed out" trace_id=tr-0000873
+2026-10-09 02:40:03 [ERROR] component=scheduler exception=ValidationError code=E1873 message="Required field missing from request" trace_id=tr-0000874
+2026-10-09 02:40:14 [ERROR] component=billing exception=ConnectionError code=E1874 message="Connection refused by dependency" trace_id=tr-0000875
+2026-10-09 02:40:25 [WARN] component=storage exception=RetryLimitWarning code=E1875 message="Retry threshold nearly reached" trace_id=tr-0000876
+2026-10-09 02:40:36 [ERROR] component=scheduler exception=ConnectionError code=E1876 message="Connection refused by dependency" trace_id=tr-0000877
+2026-10-09 02:40:47 [WARN] component=storage exception=RetryLimitWarning code=E1877 message="Retry threshold nearly reached" trace_id=tr-0000878
+2026-10-09 02:40:58 [ERROR] component=storage exception=ConnectionError code=E1878 message="Connection refused by dependency" trace_id=tr-0000879
+2026-10-09 02:41:09 [ERROR] component=storage exception=ValidationError code=E1879 message="Required field missing from request" trace_id=tr-0000880
+2026-10-09 02:41:20 [ERROR] component=billing exception=ConnectionError code=E1880 message="Connection refused by dependency" trace_id=tr-0000881
+2026-10-09 02:41:31 [ERROR] component=gateway exception=TimeoutError code=E1881 message="Upstream service timed out" trace_id=tr-0000882
+2026-10-09 02:41:42 [WARN] component=gateway exception=RetryLimitWarning code=E1882 message="Retry threshold nearly reached" trace_id=tr-0000883
+2026-10-09 02:41:53 [ERROR] component=auth exception=ValidationError code=E1883 message="Required field missing from request" trace_id=tr-0000884
+2026-10-09 02:42:04 [ERROR] component=scheduler exception=TimeoutError code=E1884 message="Upstream service timed out" trace_id=tr-0000885
+2026-10-09 02:42:15 [WARN] component=gateway exception=RetryLimitWarning code=E1885 message="Retry threshold nearly reached" trace_id=tr-0000886
+2026-10-09 02:42:26 [CRITICAL] component=billing exception=ResourceExhausted code=E1886 message="Worker capacity limit reached" trace_id=tr-0000887
+2026-10-09 02:42:37 [CRITICAL] component=gateway exception=ResourceExhausted code=E1887 message="Worker capacity limit reached" trace_id=tr-0000888
+2026-10-09 02:42:48 [ERROR] component=auth exception=ValidationError code=E1888 message="Required field missing from request" trace_id=tr-0000889
+2026-10-09 02:42:59 [CRITICAL] component=billing exception=ResourceExhausted code=E1889 message="Worker capacity limit reached" trace_id=tr-0000890
+2026-10-09 02:43:10 [CRITICAL] component=storage exception=ResourceExhausted code=E1890 message="Worker capacity limit reached" trace_id=tr-0000891
+2026-10-09 02:43:21 [WARN] component=storage exception=RetryLimitWarning code=E1891 message="Retry threshold nearly reached" trace_id=tr-0000892
+2026-10-09 02:43:32 [ERROR] component=scheduler exception=ConnectionError code=E1892 message="Connection refused by dependency" trace_id=tr-0000893
+2026-10-09 02:43:43 [ERROR] component=billing exception=TimeoutError code=E1893 message="Upstream service timed out" trace_id=tr-0000894
+2026-10-09 02:43:54 [ERROR] component=gateway exception=ConnectionError code=E1894 message="Connection refused by dependency" trace_id=tr-0000895
+2026-10-09 02:44:05 [ERROR] component=auth exception=ConnectionError code=E1895 message="Connection refused by dependency" trace_id=tr-0000896
+2026-10-09 02:44:16 [ERROR] component=auth exception=TimeoutError code=E1896 message="Upstream service timed out" trace_id=tr-0000897
+2026-10-09 02:44:27 [ERROR] component=storage exception=ConnectionError code=E1897 message="Connection refused by dependency" trace_id=tr-0000898
+2026-10-09 02:44:38 [ERROR] component=gateway exception=ConnectionError code=E1898 message="Connection refused by dependency" trace_id=tr-0000899
+2026-10-09 02:44:49 [ERROR] component=gateway exception=TimeoutError code=E1899 message="Upstream service timed out" trace_id=tr-0000900
+2026-10-09 02:45:00 [ERROR] component=gateway exception=TimeoutError code=E1900 message="Upstream service timed out" trace_id=tr-0000901
+2026-10-09 02:45:11 [WARN] component=scheduler exception=RetryLimitWarning code=E1901 message="Retry threshold nearly reached" trace_id=tr-0000902
+2026-10-09 02:45:22 [ERROR] component=gateway exception=TimeoutError code=E1902 message="Upstream service timed out" trace_id=tr-0000903
+2026-10-09 02:45:33 [ERROR] component=storage exception=ConnectionError code=E1903 message="Connection refused by dependency" trace_id=tr-0000904
+2026-10-09 02:45:44 [ERROR] component=billing exception=ConnectionError code=E1904 message="Connection refused by dependency" trace_id=tr-0000905
+2026-10-09 02:45:55 [ERROR] component=storage exception=ValidationError code=E1905 message="Required field missing from request" trace_id=tr-0000906
+2026-10-09 02:46:06 [CRITICAL] component=storage exception=ResourceExhausted code=E1906 message="Worker capacity limit reached" trace_id=tr-0000907
+2026-10-09 02:46:17 [WARN] component=storage exception=RetryLimitWarning code=E1907 message="Retry threshold nearly reached" trace_id=tr-0000908
+2026-10-09 02:46:28 [ERROR] component=auth exception=ConnectionError code=E1908 message="Connection refused by dependency" trace_id=tr-0000909
+2026-10-09 02:46:39 [WARN] component=storage exception=RetryLimitWarning code=E1909 message="Retry threshold nearly reached" trace_id=tr-0000910
+2026-10-09 02:46:50 [ERROR] component=auth exception=ValidationError code=E1910 message="Required field missing from request" trace_id=tr-0000911
+2026-10-09 02:47:01 [CRITICAL] component=billing exception=ResourceExhausted code=E1911 message="Worker capacity limit reached" trace_id=tr-0000912
+2026-10-09 02:47:12 [ERROR] component=gateway exception=TimeoutError code=E1912 message="Upstream service timed out" trace_id=tr-0000913
+2026-10-09 02:47:23 [ERROR] component=storage exception=ConnectionError code=E1913 message="Connection refused by dependency" trace_id=tr-0000914
+2026-10-09 02:47:34 [CRITICAL] component=auth exception=ResourceExhausted code=E1914 message="Worker capacity limit reached" trace_id=tr-0000915
+2026-10-09 02:47:45 [WARN] component=auth exception=RetryLimitWarning code=E1915 message="Retry threshold nearly reached" trace_id=tr-0000916
+2026-10-09 02:47:56 [ERROR] component=scheduler exception=TimeoutError code=E1916 message="Upstream service timed out" trace_id=tr-0000917
+2026-10-09 02:48:07 [CRITICAL] component=gateway exception=ResourceExhausted code=E1917 message="Worker capacity limit reached" trace_id=tr-0000918
+2026-10-09 02:48:18 [ERROR] component=auth exception=TimeoutError code=E1918 message="Upstream service timed out" trace_id=tr-0000919
+2026-10-09 02:48:29 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1919 message="Worker capacity limit reached" trace_id=tr-0000920
+2026-10-09 02:48:40 [ERROR] component=scheduler exception=ConnectionError code=E1920 message="Connection refused by dependency" trace_id=tr-0000921
+2026-10-09 02:48:51 [ERROR] component=auth exception=ValidationError code=E1921 message="Required field missing from request" trace_id=tr-0000922
+2026-10-09 02:49:02 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1922 message="Worker capacity limit reached" trace_id=tr-0000923
+2026-10-09 02:49:13 [ERROR] component=storage exception=ValidationError code=E1923 message="Required field missing from request" trace_id=tr-0000924
+2026-10-09 02:49:24 [ERROR] component=billing exception=TimeoutError code=E1924 message="Upstream service timed out" trace_id=tr-0000925
+2026-10-09 02:49:35 [ERROR] component=storage exception=ConnectionError code=E1925 message="Connection refused by dependency" trace_id=tr-0000926
+2026-10-09 02:49:46 [WARN] component=storage exception=RetryLimitWarning code=E1926 message="Retry threshold nearly reached" trace_id=tr-0000927
+2026-10-09 02:49:57 [ERROR] component=auth exception=TimeoutError code=E1927 message="Upstream service timed out" trace_id=tr-0000928
+2026-10-09 02:50:08 [ERROR] component=storage exception=ConnectionError code=E1928 message="Connection refused by dependency" trace_id=tr-0000929
+2026-10-09 02:50:19 [CRITICAL] component=gateway exception=ResourceExhausted code=E1929 message="Worker capacity limit reached" trace_id=tr-0000930
+2026-10-09 02:50:30 [WARN] component=scheduler exception=RetryLimitWarning code=E1930 message="Retry threshold nearly reached" trace_id=tr-0000931
+2026-10-09 02:50:41 [ERROR] component=auth exception=ConnectionError code=E1931 message="Connection refused by dependency" trace_id=tr-0000932
+2026-10-09 02:50:52 [CRITICAL] component=gateway exception=ResourceExhausted code=E1932 message="Worker capacity limit reached" trace_id=tr-0000933
+2026-10-09 02:51:03 [CRITICAL] component=gateway exception=ResourceExhausted code=E1933 message="Worker capacity limit reached" trace_id=tr-0000934
+2026-10-09 02:51:14 [ERROR] component=storage exception=ConnectionError code=E1934 message="Connection refused by dependency" trace_id=tr-0000935
+2026-10-09 02:51:25 [CRITICAL] component=auth exception=ResourceExhausted code=E1935 message="Worker capacity limit reached" trace_id=tr-0000936
+2026-10-09 02:51:36 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1936 message="Worker capacity limit reached" trace_id=tr-0000937
+2026-10-09 02:51:47 [ERROR] component=storage exception=TimeoutError code=E1937 message="Upstream service timed out" trace_id=tr-0000938
+2026-10-09 02:51:58 [CRITICAL] component=billing exception=ResourceExhausted code=E1938 message="Worker capacity limit reached" trace_id=tr-0000939
+2026-10-09 02:52:09 [ERROR] component=gateway exception=ConnectionError code=E1939 message="Connection refused by dependency" trace_id=tr-0000940
+2026-10-09 02:52:20 [WARN] component=billing exception=RetryLimitWarning code=E1940 message="Retry threshold nearly reached" trace_id=tr-0000941
+2026-10-09 02:52:31 [ERROR] component=scheduler exception=TimeoutError code=E1941 message="Upstream service timed out" trace_id=tr-0000942
+2026-10-09 02:52:42 [ERROR] component=storage exception=ValidationError code=E1942 message="Required field missing from request" trace_id=tr-0000943
+2026-10-09 02:52:53 [ERROR] component=scheduler exception=ConnectionError code=E1943 message="Connection refused by dependency" trace_id=tr-0000944
+2026-10-09 02:53:04 [ERROR] component=storage exception=ConnectionError code=E1944 message="Connection refused by dependency" trace_id=tr-0000945
+2026-10-09 02:53:15 [ERROR] component=scheduler exception=ConnectionError code=E1945 message="Connection refused by dependency" trace_id=tr-0000946
+2026-10-09 02:53:26 [CRITICAL] component=storage exception=ResourceExhausted code=E1946 message="Worker capacity limit reached" trace_id=tr-0000947
+2026-10-09 02:53:37 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1947 message="Worker capacity limit reached" trace_id=tr-0000948
+2026-10-09 02:53:48 [ERROR] component=billing exception=ValidationError code=E1948 message="Required field missing from request" trace_id=tr-0000949
+2026-10-09 02:53:59 [ERROR] component=billing exception=ConnectionError code=E1949 message="Connection refused by dependency" trace_id=tr-0000950
+2026-10-09 02:54:10 [ERROR] component=storage exception=ValidationError code=E1950 message="Required field missing from request" trace_id=tr-0000951
+2026-10-09 02:54:21 [ERROR] component=billing exception=ConnectionError code=E1951 message="Connection refused by dependency" trace_id=tr-0000952
+2026-10-09 02:54:32 [CRITICAL] component=storage exception=ResourceExhausted code=E1952 message="Worker capacity limit reached" trace_id=tr-0000953
+2026-10-09 02:54:43 [ERROR] component=scheduler exception=ConnectionError code=E1953 message="Connection refused by dependency" trace_id=tr-0000954
+2026-10-09 02:54:54 [ERROR] component=storage exception=ConnectionError code=E1954 message="Connection refused by dependency" trace_id=tr-0000955
+2026-10-09 02:55:05 [ERROR] component=gateway exception=ConnectionError code=E1955 message="Connection refused by dependency" trace_id=tr-0000956
+2026-10-09 02:55:16 [ERROR] component=storage exception=TimeoutError code=E1956 message="Upstream service timed out" trace_id=tr-0000957
+2026-10-09 02:55:27 [ERROR] component=auth exception=ValidationError code=E1957 message="Required field missing from request" trace_id=tr-0000958
+2026-10-09 02:55:38 [ERROR] component=gateway exception=ConnectionError code=E1958 message="Connection refused by dependency" trace_id=tr-0000959
+2026-10-09 02:55:49 [ERROR] component=auth exception=ConnectionError code=E1959 message="Connection refused by dependency" trace_id=tr-0000960
+2026-10-09 02:56:00 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1960 message="Worker capacity limit reached" trace_id=tr-0000961
+2026-10-09 02:56:11 [WARN] component=gateway exception=RetryLimitWarning code=E1961 message="Retry threshold nearly reached" trace_id=tr-0000962
+2026-10-09 02:56:22 [WARN] component=gateway exception=RetryLimitWarning code=E1962 message="Retry threshold nearly reached" trace_id=tr-0000963
+2026-10-09 02:56:33 [ERROR] component=billing exception=ConnectionError code=E1963 message="Connection refused by dependency" trace_id=tr-0000964
+2026-10-09 02:56:44 [ERROR] component=billing exception=TimeoutError code=E1964 message="Upstream service timed out" trace_id=tr-0000965
+2026-10-09 02:56:55 [ERROR] component=auth exception=ConnectionError code=E1965 message="Connection refused by dependency" trace_id=tr-0000966
+2026-10-09 02:57:06 [ERROR] component=storage exception=ValidationError code=E1966 message="Required field missing from request" trace_id=tr-0000967
+2026-10-09 02:57:17 [CRITICAL] component=storage exception=ResourceExhausted code=E1967 message="Worker capacity limit reached" trace_id=tr-0000968
+2026-10-09 02:57:28 [ERROR] component=storage exception=ValidationError code=E1968 message="Required field missing from request" trace_id=tr-0000969
+2026-10-09 02:57:39 [ERROR] component=storage exception=ConnectionError code=E1969 message="Connection refused by dependency" trace_id=tr-0000970
+2026-10-09 02:57:50 [ERROR] component=billing exception=ConnectionError code=E1970 message="Connection refused by dependency" trace_id=tr-0000971
+2026-10-09 02:58:01 [ERROR] component=gateway exception=TimeoutError code=E1971 message="Upstream service timed out" trace_id=tr-0000972
+2026-10-09 02:58:12 [ERROR] component=scheduler exception=TimeoutError code=E1972 message="Upstream service timed out" trace_id=tr-0000973
+2026-10-09 02:58:23 [ERROR] component=storage exception=ConnectionError code=E1973 message="Connection refused by dependency" trace_id=tr-0000974
+2026-10-09 02:58:34 [ERROR] component=scheduler exception=ValidationError code=E1974 message="Required field missing from request" trace_id=tr-0000975
+2026-10-09 02:58:45 [CRITICAL] component=billing exception=ResourceExhausted code=E1975 message="Worker capacity limit reached" trace_id=tr-0000976
+2026-10-09 02:58:56 [WARN] component=scheduler exception=RetryLimitWarning code=E1976 message="Retry threshold nearly reached" trace_id=tr-0000977
+2026-10-09 02:59:07 [WARN] component=billing exception=RetryLimitWarning code=E1977 message="Retry threshold nearly reached" trace_id=tr-0000978
+2026-10-09 02:59:18 [ERROR] component=billing exception=ConnectionError code=E1978 message="Connection refused by dependency" trace_id=tr-0000979
+2026-10-09 02:59:29 [ERROR] component=auth exception=ConnectionError code=E1979 message="Connection refused by dependency" trace_id=tr-0000980
+2026-10-09 02:59:40 [WARN] component=auth exception=RetryLimitWarning code=E1980 message="Retry threshold nearly reached" trace_id=tr-0000981
+2026-10-09 02:59:51 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1981 message="Worker capacity limit reached" trace_id=tr-0000982
+2026-10-09 03:00:02 [ERROR] component=billing exception=ConnectionError code=E1982 message="Connection refused by dependency" trace_id=tr-0000983
+2026-10-09 03:00:13 [ERROR] component=auth exception=ConnectionError code=E1983 message="Connection refused by dependency" trace_id=tr-0000984
+2026-10-09 03:00:24 [ERROR] component=scheduler exception=ConnectionError code=E1984 message="Connection refused by dependency" trace_id=tr-0000985
+2026-10-09 03:00:35 [ERROR] component=scheduler exception=ValidationError code=E1985 message="Required field missing from request" trace_id=tr-0000986
+2026-10-09 03:00:46 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1986 message="Worker capacity limit reached" trace_id=tr-0000987
+2026-10-09 03:00:57 [ERROR] component=scheduler exception=ConnectionError code=E1987 message="Connection refused by dependency" trace_id=tr-0000988
+2026-10-09 03:01:08 [WARN] component=auth exception=RetryLimitWarning code=E1988 message="Retry threshold nearly reached" trace_id=tr-0000989
+2026-10-09 03:01:19 [ERROR] component=scheduler exception=ValidationError code=E1989 message="Required field missing from request" trace_id=tr-0000990
+2026-10-09 03:01:30 [CRITICAL] component=scheduler exception=ResourceExhausted code=E1990 message="Worker capacity limit reached" trace_id=tr-0000991
+2026-10-09 03:01:41 [ERROR] component=storage exception=ValidationError code=E1991 message="Required field missing from request" trace_id=tr-0000992
+2026-10-09 03:01:52 [ERROR] component=storage exception=ValidationError code=E1992 message="Required field missing from request" trace_id=tr-0000993
+2026-10-09 03:02:03 [ERROR] component=auth exception=ValidationError code=E1993 message="Required field missing from request" trace_id=tr-0000994
+2026-10-09 03:02:14 [ERROR] component=auth exception=ValidationError code=E1994 message="Required field missing from request" trace_id=tr-0000995
+2026-10-09 03:02:25 [WARN] component=scheduler exception=RetryLimitWarning code=E1995 message="Retry threshold nearly reached" trace_id=tr-0000996
+2026-10-09 03:02:36 [ERROR] component=billing exception=TimeoutError code=E1996 message="Upstream service timed out" trace_id=tr-0000997
+2026-10-09 03:02:47 [ERROR] component=storage exception=ValidationError code=E1997 message="Required field missing from request" trace_id=tr-0000998
+2026-10-09 03:02:58 [WARN] component=auth exception=RetryLimitWarning code=E1998 message="Retry threshold nearly reached" trace_id=tr-0000999
+2026-10-09 03:03:09 [ERROR] component=scheduler exception=ValidationError code=E1999 message="Required field missing from request" trace_id=tr-0001000
